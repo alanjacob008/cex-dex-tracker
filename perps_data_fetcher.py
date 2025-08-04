@@ -14,11 +14,12 @@ DERIVATIVES_API_URL = "https://pro-api.coingecko.com/api/v3/derivatives"
 
 # --------- HELPERS -------------
 def get_unix_now_utc():
-    # Returns UNIX timestamp for today 00:00 UTC
+    # Returns current UNIX timestamp (exact time in UTC)
     return int(datetime.now(timezone.utc).timestamp())
 
 def ensure_dir(path):
-    os.makedirs(path, exist_ok=True)
+    if not os.path.exists(path):
+        os.makedirs(path, exist_ok=True)
 
 def load_json(path):
     if os.path.exists(path):
@@ -27,6 +28,7 @@ def load_json(path):
     return None
 
 def save_json(path, data):
+    ensure_dir(os.path.dirname(path))
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
@@ -61,6 +63,7 @@ def load_json_set(path):
     return {}
 
 def save_json_pretty(path, data):
+    ensure_dir(os.path.dirname(path))
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, sort_keys=True)
 
@@ -80,6 +83,7 @@ def load_listings_log():
         return []
 
 def save_listings_log(log):
+    ensure_dir(os.path.dirname(LISTINGS_LOG_FILE))
     with open(LISTINGS_LOG_FILE, "w", encoding="utf-8") as f:
         json.dump(log, f, indent=2)
 
@@ -217,7 +221,6 @@ def main():
 
     unix_date = get_unix_now_utc()
     # --- LISTINGS LOGIC ---
-    
     current_listing_map = get_current_listings(all_data)
     save_initial_listed_file(current_listing_map)
     update_perps_listings_log(current_listing_map, unix_date)

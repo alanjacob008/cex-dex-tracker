@@ -90,22 +90,25 @@ def save_listings_log(log):
 def update_perps_listings_log(current_listing_map, unix_date):
     baseline = load_baseline_listing()
     log = load_listings_log()
-    
+    updated_last = False
+
     # Update or add the "last updated" entry
-    found_last = False
-    for entry in log:
+    for i, entry in enumerate(log):
         if entry.get("action") == "last updated":
-            entry["date"] = unix_date
-            found_last = True
+            if entry["date"] != unix_date:
+                log[i]["date"] = unix_date
+                updated_last = True
+            else:
+                updated_last = True
             break
-    if not found_last:
+    if not updated_last:
         log.append({
             "date": unix_date,
             "symbol": "NA",
             "name": "NA",
             "action": "last updated"
         })
-    
+
     baseline_set = set((m, s) for m, syms in baseline.items() for s in syms)
     current_set = set((m, s) for m, syms in current_listing_map.items() for s in syms)
     new_listings = current_set - baseline_set
@@ -125,6 +128,7 @@ def update_perps_listings_log(current_listing_map, unix_date):
             "action": "delisted"
         })
     save_listings_log(log)
+    print("Updated listings/perps_listings.json at:", unix_date)
 
 # --------- MAIN LOGIC -----------
 

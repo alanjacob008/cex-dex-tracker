@@ -13,9 +13,9 @@ DAILY_COMBINED_FILE = os.path.join(COMBINED_FOLDER, "daily_combined.json")
 DERIVATIVES_API_URL = "https://pro-api.coingecko.com/api/v3/derivatives"
 
 # --------- HELPERS -------------
-def get_unix_today_utc():
+def get_unix_now_utc():
     # Returns UNIX timestamp for today 00:00 UTC
-    return int(datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp())
+    return int(datetime.now(timezone.utc).timestamp())
 
 def ensure_dir(path):
     os.makedirs(path, exist_ok=True)
@@ -199,6 +199,7 @@ def update_daily_combined(exchange, sum_volume, unix_date):
 
 def main():
     print("Starting Perps Data Fetcher")
+    ensure_listings_dir()
     api_key = get_api_key()
     if not api_key:
         print("ERROR: COINGECKO_API_KEY not found in .env")
@@ -214,9 +215,9 @@ def main():
         print("No data fetched from CoinGecko. Exiting.")
         return
 
-    unix_date = get_unix_today_utc()
+    unix_date = get_unix_now_utc()
     # --- LISTINGS LOGIC ---
-    ensure_listings_dir()
+    
     current_listing_map = get_current_listings(all_data)
     save_initial_listed_file(current_listing_map)
     update_perps_listings_log(current_listing_map, unix_date)

@@ -1,0 +1,42 @@
+name: Perps Data Tracker
+
+on:
+  workflow_dispatch:   # manual run
+  schedule:
+    - cron:  '0 0 * * *'   # runs at 12am UTC every day
+
+jobs:
+  fetch-perps-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Set up .env file
+        run: |
+          echo "COINGECKO_API_KEY=${{ secrets.COINGECKO_API_KEY }}" > .env
+
+      - name: Run perps data fetcher
+        run: python perps_data_fetcher.py
+
+      - name: Commit & push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update perps & listings data [bot]"
+          push_options: '--force'   # (Optional: force-push if needed for overwrite)
+          commit_user_name: github-actions
+          commit_user_email: github-actions@github.com
+          file_pattern: |
+            data/perps/**
+            listings/**

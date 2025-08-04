@@ -90,12 +90,15 @@ def save_listings_log(log):
 def update_perps_listings_log(current_listing_map, unix_date):
     baseline = load_baseline_listing()
     log = load_listings_log()
+
+    # Always add a new "last updated" entry with exact timestamp
     log.append({
         "date": unix_date,
         "symbol": "NA",
         "name": "NA",
         "action": "last updated"
     })
+
     baseline_set = set((m, s) for m, syms in baseline.items() for s in syms)
     current_set = set((m, s) for m, syms in current_listing_map.items() for s in syms)
     new_listings = current_set - baseline_set

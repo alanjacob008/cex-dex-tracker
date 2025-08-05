@@ -7,7 +7,6 @@ from datetime import datetime, timezone
 BASE_LIST_FILE = "listings/listedtill_5thAug.json"
 LOG_FILE = "listings/perps_listings.json"
 DERIVATIVES_API_URL = "https://pro-api.coingecko.com/api/v3/derivatives"
-
 PERPS_JSON = "src/perps.json"
 
 def load_perps_exchanges():
@@ -57,6 +56,18 @@ def fetch_derivatives_data(api_key, retries=3, wait_sec=30):
             time.sleep(wait_sec)
     print("ERROR: CoinGecko API failed after 3 attempts, exiting.")
     return None
+
+def build_last_state(log):
+    """
+    Return a dict of (ex, sym) -> last action seen ("listed"/"delisted"), ignoring 'last updated'
+    Only the last action is remembered per pair.
+    """
+    state = {}
+    for entry in log:
+        if entry.get("action") in ("listed", "delisted"):
+            key = (entry.get("name"), entry.get("symbol"))
+            state[key] = entry.get("action")
+    return state
 
 def main():
     tracked_exchanges = load_perps_exchanges()
@@ -108,6 +119,9 @@ def main():
             "action": "last updated"
         }] + log
 
+    # --- Build last known state of each (exchange, symbol) ---
+    last_state = build_last_state(log)
+
     # --- Listings & Delistings ---
     listed, delisted = [], []
     # Listings: in live, not in base
@@ -115,13 +129,17 @@ def main():
         base_syms = base_map.get(ex, set())
         for sym in syms:
             if sym not in base_syms:
-                listed.append((ex, sym))
+                # Only log if not already 'listed'
+                if last_state.get((ex, sym)) != "listed":
+                    listed.append((ex, sym))
     # Delistings: in base, not in live
     for ex, syms in base_map.items():
         live_syms = live_map.get(ex, set())
         for sym in syms:
             if sym not in live_syms:
-                delisted.append((ex, sym))
+                # Only log if not already 'delisted'
+                if last_state.get((ex, sym)) != "delisted":
+                    delisted.append((ex, sym))
 
     for ex, sym in listed:
         log.append({

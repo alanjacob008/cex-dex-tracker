@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754431993,
+    "date": 1754435543,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -568,5 +568,29 @@
     "symbol": "WCT-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1754435543,
+    "symbol": "MODE-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754435543,
+    "symbol": "EGLD-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754435543,
+    "symbol": "BRETT-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754435543,
+    "symbol": "AXS-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

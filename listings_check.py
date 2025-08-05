@@ -1,10 +1,17 @@
 import os
 import json
+import requests
+import time
 from datetime import datetime, timezone
 
 BASE_LIST_FILE = "listings/listedtill_5thAug.json"
-CURRENT_LIST_FILE = "listings/dummy_listings.json"  # for testing
 LOG_FILE = "listings/perps_listings.json"
+DERIVATIVES_API_URL = "https://pro-api.coingecko.com/api/v3/derivatives"
+
+def get_api_key():
+    from dotenv import load_dotenv
+    load_dotenv()
+    return os.environ.get("COINGECKO_API_KEY")
 
 def get_unix_now_utc():
     return int(datetime.now(timezone.utc).timestamp())
@@ -19,24 +26,64 @@ def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
-def normalize(s):
-    return str(s).strip().lower().replace(" ", "").replace("_", "")
-
-def make_pair_set(listing):
-    # Returns set of (exchange, symbol) tuples, all normalized
-    pairs = set()
-    for exch, syms in listing.items():
-        for sym in syms:
-            pairs.add((normalize(exch), normalize(sym)))
-    return pairs
+def fetch_derivatives_data(api_key, retries=3, wait_sec=30):
+    headers = {
+        "accept": "application/json",
+        "x-cg-pro-api-key": api_key
+    }
+    attempt = 0
+    while attempt < retries:
+        try:
+            resp = requests.get(DERIVATIVES_API_URL, headers=headers, timeout=60)
+            resp.raise_for_status()
+            data = resp.json()
+            if isinstance(data, list) and len(data) > 0:
+                return data
+            print(f"Warning: API returned no data or invalid format, attempt {attempt + 1}")
+        except Exception as e:
+            print(f"Error fetching CoinGecko API (attempt {attempt + 1}): {e}")
+        attempt += 1
+        if attempt < retries:
+            print(f"Retrying in {wait_sec} seconds...")
+            time.sleep(wait_sec)
+    print("ERROR: CoinGecko API failed after 3 attempts, exiting.")
+    return None
 
 def main():
-    baseline = load_json(BASE_LIST_FILE)
-    current = load_json(CURRENT_LIST_FILE)
-    log = load_json(LOG_FILE) if os.path.exists(LOG_FILE) else []
+    api_key = get_api_key()
+    if not api_key:
+        print("ERROR: COINGECKO_API_KEY not found in .env")
+        return
+
+    # --- Load Baseline ---
+    baseline = load_json(BASE_LIST_FILE) # {exchange: [symbols, ...]}
+    if not baseline:
+        print(f"ERROR: Could not load baseline from {BASE_LIST_FILE}")
+        return
+
+    # --- Fetch Live Data ---
+    live_data = fetch_derivatives_data(api_key)
+    if not live_data:
+        print("ERROR: No live data from CoinGecko.")
+        return
+
     now = get_unix_now_utc()
 
-    # Update or add the dummy "last updated" entry (always as first element)
+    # --- Map to {exchange: set(symbols)} ---
+    base_map = {ex: set(syms) for ex, syms in baseline.items()}
+    live_map = {}
+    for item in live_data:
+        ex = item.get("market")
+        sym = item.get("symbol")
+        if not ex or not sym:
+            continue
+        if ex not in live_map:
+            live_map[ex] = set()
+        live_map[ex].add(sym)
+
+    # --- Load or Init Log ---
+    log = load_json(LOG_FILE) if os.path.exists(LOG_FILE) else []
+    # Always update 'last updated' as the first row
     if log and log[0].get("action") == "last updated":
         log[0]["date"] = now
     else:
@@ -47,36 +94,40 @@ def main():
             "action": "last updated"
         }] + log
 
-    # Build normalized sets
-    baseline_set = make_pair_set(baseline)
-    current_set = make_pair_set(current)
+    # --- Listings & Delistings ---
+    listed, delisted = [], []
+    # Listings: in live, not in base
+    for ex, syms in live_map.items():
+        base_syms = base_map.get(ex, set())
+        for sym in syms:
+            if sym not in base_syms:
+                listed.append((ex, sym))
+    # Delistings: in base, not in live
+    for ex, syms in base_map.items():
+        live_syms = live_map.get(ex, set())
+        for sym in syms:
+            if sym not in live_syms:
+                delisted.append((ex, sym))
 
-    # Find listings and delistings
-    listed = sorted(current_set - baseline_set)
-    delisted = sorted(baseline_set - current_set)
-    count_listed, count_delisted = 0, 0
-
-    for exch, sym in listed:
+    for ex, sym in listed:
         log.append({
             "date": now,
             "symbol": sym,
-            "name": exch,
+            "name": ex,
             "action": "listed"
         })
-        count_listed += 1
-    for exch, sym in delisted:
+    for ex, sym in delisted:
         log.append({
             "date": now,
             "symbol": sym,
-            "name": exch,
+            "name": ex,
             "action": "delisted"
         })
-        count_delisted += 1
 
     save_json(LOG_FILE, log)
 
-    print(f"Listings check complete: {count_listed} listed, {count_delisted} delisted.")
-    print(f"Log written to {LOG_FILE}")
+    print(f"Listings checked at {now}: {len(listed)} listed, {len(delisted)} delisted")
+    print(f"perps_listings.json updated")
 
 if __name__ == "__main__":
     main()

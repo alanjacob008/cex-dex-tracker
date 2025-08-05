@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754396817,
+    "date": 1754400947,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -291,6 +291,18 @@
     "date": 1754396724,
     "symbol": "ZK-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754400947,
+    "symbol": "TOWNS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754400947,
+    "symbol": "FF_XBTUSD_250808",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

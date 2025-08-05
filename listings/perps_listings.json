@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754403462,
+    "date": 1754406934,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -320,6 +320,60 @@
   {
     "date": 1754403462,
     "symbol": "CHZ-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "TOWNSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "TOWNSUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "TOWNS_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "TOWNSUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "TOWNSUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "PF_LAYERUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "XAI-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "PF_BANUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754406934,
+    "symbol": "KAITO-USD",
     "name": "dYdX Chain",
     "action": "delisted"
   }

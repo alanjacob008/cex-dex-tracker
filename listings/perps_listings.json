@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754393766,
+    "date": 1754396724,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -280,5 +280,17 @@
     "symbol": "GRASS-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1754396724,
+    "symbol": "PF_MNTUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754396724,
+    "symbol": "ZK-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

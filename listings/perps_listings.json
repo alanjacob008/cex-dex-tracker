@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754393766,
+    "date": 1754395753,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -278,6 +278,282 @@
   {
     "date": 1754393766,
     "symbol": "GRASS-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "FARTLESSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "MYXUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "MAMO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "SUP_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "FI_ETHUSD_250926",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "PF_PIXELUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "PF_DEXEUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "PF_MYROUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "FF_ETHUSD_250808",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "PF_MNTUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "PF_ETHWUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "GOAT-PERP",
+    "name": "Drift Protocol",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "ASTR-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "ES-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "ZRO-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "QNT-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "JASMY-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "GAS-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "RUNE-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "HYPEGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "POLGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "listed"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "TRUMPGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "PF_HIVEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "PF_ZENUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "PF_GPSUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "CBK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "NPC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "VVAIFU_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "YBDBD_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "WILD_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "ZERO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "TEL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "SNEK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "LUCE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "WCT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "SIGN-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "GRASS-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "ARKM-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "XTZ-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "BERA-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "BANANA-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "TAIKO-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "MANA-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "TRY-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "EUR-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754395753,
+    "symbol": "SOPH-USD",
     "name": "dYdX Chain",
     "action": "delisted"
   }

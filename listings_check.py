@@ -8,6 +8,15 @@ BASE_LIST_FILE = "listings/listedtill_5thAug.json"
 LOG_FILE = "listings/perps_listings.json"
 DERIVATIVES_API_URL = "https://pro-api.coingecko.com/api/v3/derivatives"
 
+PERPS_JSON = "src/perps.json"
+
+def load_perps_exchanges():
+    if os.path.exists(PERPS_JSON):
+        with open(PERPS_JSON, "r", encoding="utf-8") as f:
+            perps = json.load(f)
+            return set(ex['name'] for ex in perps if 'name' in ex)
+    return set()
+
 def get_api_key():
     from dotenv import load_dotenv
     load_dotenv()
@@ -50,6 +59,11 @@ def fetch_derivatives_data(api_key, retries=3, wait_sec=30):
     return None
 
 def main():
+    tracked_exchanges = load_perps_exchanges()
+    if not tracked_exchanges:
+        print(f"ERROR: Could not load tracked exchanges from {PERPS_JSON}")
+        return
+
     api_key = get_api_key()
     if not api_key:
         print("ERROR: COINGECKO_API_KEY not found in .env")
@@ -70,12 +84,12 @@ def main():
     now = get_unix_now_utc()
 
     # --- Map to {exchange: set(symbols)} ---
-    base_map = {ex: set(syms) for ex, syms in baseline.items()}
+    base_map = {ex: set(syms) for ex, syms in baseline.items() if ex in tracked_exchanges}
     live_map = {}
     for item in live_data:
         ex = item.get("market")
         sym = item.get("symbol")
-        if not ex or not sym:
+        if not ex or not sym or ex not in tracked_exchanges:
             continue
         if ex not in live_map:
             live_map[ex] = set()

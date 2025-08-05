@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754410433,
+    "date": 1754413964,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -442,5 +442,29 @@
     "symbol": "TRB-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1754413964,
+    "symbol": "PROVEUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754413964,
+    "symbol": "PF_MOCAUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754413964,
+    "symbol": "PF_CGPTUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754413964,
+    "symbol": "PF_SLERFUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

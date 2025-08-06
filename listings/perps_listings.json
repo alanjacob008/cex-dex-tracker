@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754511253,
+    "date": 1754514689,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -904,5 +904,17 @@
     "symbol": "ZORA-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1754514689,
+    "symbol": "ORCA-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754514689,
+    "symbol": "HUMA-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

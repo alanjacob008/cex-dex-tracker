@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754493292,
+    "date": 1754497026,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -844,5 +844,17 @@
     "symbol": "DARKSTARUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754497026,
+    "symbol": "PF_CHRUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754497026,
+    "symbol": "PF_CHFUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754457844,
+    "date": 1754461288,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -670,5 +670,11 @@
     "symbol": "NOT-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1754461288,
+    "symbol": "USUAL-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754435543,
+    "date": 1754442222,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -590,6 +590,30 @@
   {
     "date": 1754435543,
     "symbol": "AXS-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754442222,
+    "symbol": "PF_SUNUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754442222,
+    "symbol": "PF_STEEMUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754442222,
+    "symbol": "KAS-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754442222,
+    "symbol": "AI16Z-USD",
     "name": "dYdX Chain",
     "action": "delisted"
   }

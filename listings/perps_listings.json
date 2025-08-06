@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754475285,
+    "date": 1754478702,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -770,6 +770,36 @@
   {
     "date": 1754475285,
     "symbol": "SUSHI-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754478702,
+    "symbol": "PF_ZILUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754478702,
+    "symbol": "PI_ADAUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754478702,
+    "symbol": "NEIRO-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754478702,
+    "symbol": "ETHFI-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754478702,
+    "symbol": "ORDI-USD",
     "name": "dYdX Chain",
     "action": "delisted"
   }

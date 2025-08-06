@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754450957,
+    "date": 1754455048,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -622,5 +622,23 @@
     "symbol": "BOME-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1754455048,
+    "symbol": "TOWNS-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1754455048,
+    "symbol": "PROVE-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1754455048,
+    "symbol": "PROVE-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

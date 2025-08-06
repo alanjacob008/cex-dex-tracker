@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754514689,
+    "date": 1754518392,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -916,5 +916,17 @@
     "symbol": "HUMA-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1754518392,
+    "symbol": "PF_XVSUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754518392,
+    "symbol": "PF_RLCUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

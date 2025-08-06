@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754487397,
+    "date": 1754489813,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -832,5 +832,11 @@
     "symbol": "PI_SOLUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1754489813,
+    "symbol": "LAYER-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

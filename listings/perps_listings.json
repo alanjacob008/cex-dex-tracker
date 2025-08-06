@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754489813,
+    "date": 1754493292,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -837,6 +837,12 @@
     "date": 1754489813,
     "symbol": "LAYER-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754493292,
+    "symbol": "DARKSTARUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

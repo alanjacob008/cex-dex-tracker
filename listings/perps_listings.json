@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754461288,
+    "date": 1754464727,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -675,6 +675,12 @@
     "date": 1754461288,
     "symbol": "USUAL-USD",
     "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754464727,
+    "symbol": "1000CHEEMS-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

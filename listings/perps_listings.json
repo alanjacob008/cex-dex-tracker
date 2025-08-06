@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754507616,
+    "date": 1754511253,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -884,6 +884,24 @@
   {
     "date": 1754507616,
     "symbol": "PNUT-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754511253,
+    "symbol": "PF_TUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754511253,
+    "symbol": "PI_LINKUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754511253,
+    "symbol": "ZORA-USD",
     "name": "dYdX Chain",
     "action": "delisted"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754497026,
+    "date": 1754500582,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -855,6 +855,24 @@
     "date": 1754497026,
     "symbol": "PF_CHFUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754500582,
+    "symbol": "PF_ACTUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754500582,
+    "symbol": "LAUNCHCOIN-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754500582,
+    "symbol": "AERO-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

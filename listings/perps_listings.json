@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754472018,
+    "date": 1754475285,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -718,5 +718,59 @@
     "symbol": "PF_WCTUSD",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "SPARKUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "ALLUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "ALL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "REQ-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "OGN-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "STG-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "KDOGS-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "PI_DOGEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754475285,
+    "symbol": "SUSHI-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

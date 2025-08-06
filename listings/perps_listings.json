@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754464727,
+    "date": 1754468285,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -681,6 +681,36 @@
     "date": 1754464727,
     "symbol": "1000CHEEMS-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754468285,
+    "symbol": "SAHARA_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754468285,
+    "symbol": "SPX_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754468285,
+    "symbol": "RESOLV_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754468285,
+    "symbol": "REZ-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754468285,
+    "symbol": "BABYDOGE-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

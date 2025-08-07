@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754558336,
+    "date": 1754561642,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1150,5 +1150,17 @@
     "symbol": "IN_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754561642,
+    "symbol": "KSM-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754561642,
+    "symbol": "PF_CETUSUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

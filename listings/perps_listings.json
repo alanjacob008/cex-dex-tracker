@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754565134,
+    "date": 1754569597,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1191,6 +1191,36 @@
     "date": 1754565134,
     "symbol": "INUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1754569597,
+    "symbol": "TALEX_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754569597,
+    "symbol": "PF_BNTUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754569597,
+    "symbol": "CRV_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754569597,
+    "symbol": "UNI_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754569597,
+    "symbol": "GALA-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

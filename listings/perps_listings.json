@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754604778,
+    "date": 1754608367,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1318,5 +1318,17 @@
     "symbol": "SAHARA-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1754608367,
+    "symbol": "TURBO-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754608367,
+    "symbol": "CORE-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

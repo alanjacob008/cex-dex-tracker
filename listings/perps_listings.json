@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754544154,
+    "date": 1754547640,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -974,6 +974,90 @@
   {
     "date": 1754541449,
     "symbol": "PF_FIDAUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "NIL-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "AERGO-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "CETUS-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "VET-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "UMA-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "LPT-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "AIXBT-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "MASK-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "GOAT-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "STEEM-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "KDA-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "SKL-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "MEW-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754547640,
+    "symbol": "PF_USDCUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
   }

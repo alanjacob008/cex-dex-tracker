@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754569597,
+    "date": 1754573712,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1222,5 +1222,23 @@
     "symbol": "GALA-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1754573712,
+    "symbol": "TON_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754573712,
+    "symbol": "SAFE-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754573712,
+    "symbol": "PF_POLYXUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

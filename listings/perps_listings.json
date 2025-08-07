@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754583390,
+    "date": 1754586897,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1282,5 +1282,17 @@
     "symbol": "PF_ONGUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1754586897,
+    "symbol": "YALAUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754586897,
+    "symbol": "CARVUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
   }
 ]

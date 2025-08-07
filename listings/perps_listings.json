@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754590757,
+    "date": 1754594065,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1294,5 +1294,29 @@
     "symbol": "CARVUSDT",
     "name": "Binance (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754594065,
+    "symbol": "1KWEN-PERP",
+    "name": "Drift Protocol",
+    "action": "delisted"
+  },
+  {
+    "date": 1754594065,
+    "symbol": "FLOKIGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1754594065,
+    "symbol": "PF_VANAUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754594065,
+    "symbol": "SAHARA-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

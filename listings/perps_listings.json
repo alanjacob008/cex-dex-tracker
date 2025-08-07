@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754547640,
+    "date": 1754551148,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1059,6 +1059,66 @@
     "date": 1754547640,
     "symbol": "PF_USDCUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "LA-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "NEWT-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "API3-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "YFI-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "PAL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "PIVX_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "POLS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "IRISVIRTUAL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "POKT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754551148,
+    "symbol": "BOMB_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

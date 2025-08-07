@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754554706,
+    "date": 1754558336,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1137,6 +1137,18 @@
     "date": 1754554706,
     "symbol": "ZETA-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754558336,
+    "symbol": "MYX_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754558336,
+    "symbol": "IN_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

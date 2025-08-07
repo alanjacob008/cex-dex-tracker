@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754551148,
+    "date": 1754554706,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1120,5 +1120,23 @@
     "symbol": "BOMB_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1754554706,
+    "symbol": "BOSSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754554706,
+    "symbol": "PF_GBPUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754554706,
+    "symbol": "ZETA-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

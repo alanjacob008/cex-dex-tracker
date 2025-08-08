@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754665996,
+    "date": 1754669638,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1682,6 +1682,24 @@
   {
     "date": 1754665996,
     "symbol": "PF_MAJORUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754669638,
+    "symbol": "FI_ETHUSD_251226",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754669638,
+    "symbol": "PF_TLMUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754669638,
+    "symbol": "FI_XBTUSD_250829",
     "name": "Kraken (Futures)",
     "action": "delisted"
   }

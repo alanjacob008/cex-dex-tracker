@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754608367,
+    "date": 1754615040,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1330,5 +1330,29 @@
     "symbol": "CORE-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1754615040,
+    "symbol": "DYM-PERP",
+    "name": "Drift Protocol",
+    "action": "listed"
+  },
+  {
+    "date": 1754615040,
+    "symbol": "TRX_CW",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1754615040,
+    "symbol": "ETH_CW",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1754615040,
+    "symbol": "BTC_CW",
+    "name": "HTX Futures",
+    "action": "delisted"
   }
 ]

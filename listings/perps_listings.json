@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754634036,
+    "date": 1754637546,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1401,6 +1401,66 @@
     "date": 1754634036,
     "symbol": "L3-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "IN-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "SIDEKICK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "GNC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "ACA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "OIK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "PORTO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "JUV_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "PSG_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "WHITE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754637546,
+    "symbol": "ERA-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

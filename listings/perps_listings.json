@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754630564,
+    "date": 1754634036,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1395,6 +1395,12 @@
     "date": 1754630564,
     "symbol": "PF_DENTUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754634036,
+    "symbol": "L3-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }
 ]

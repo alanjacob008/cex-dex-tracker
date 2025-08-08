@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754644740,
+    "date": 1754648034,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1642,5 +1642,11 @@
     "symbol": "PF_KAIAUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1754648034,
+    "symbol": "OGUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

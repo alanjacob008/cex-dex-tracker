@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754637546,
+    "date": 1754641069,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1461,6 +1461,132 @@
     "date": 1754637546,
     "symbol": "ERA-USD",
     "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "YALAUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "SOLUSDT-08AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "BTCUSDT-08AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "ETHUSDT-08AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "SHM_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "NS_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "EDGEN_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "RDO_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "GHIBLI_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "MOBILE_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "MGO_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "POKT_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "WAXL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "FDUSD_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "WHY_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "PRAI_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "PF_ARKUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "BTC-USDT-250808",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "BTC-USD-250808",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "ETH-USD-250808",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754641069,
+    "symbol": "ETH-USDT-250808",
+    "name": "OKX (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754615040,
+    "date": 1754623732,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1353,6 +1353,30 @@
     "date": 1754615040,
     "symbol": "BTC_CW",
     "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1754623732,
+    "symbol": "BOSS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754623732,
+    "symbol": "YALAUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1754623732,
+    "symbol": "PF_TNSRUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754623732,
+    "symbol": "PF_SOLVUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

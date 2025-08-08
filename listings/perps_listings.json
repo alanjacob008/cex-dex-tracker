@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754659988,
+    "date": 1754662518,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1660,5 +1660,17 @@
     "symbol": "V2EXUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754662518,
+    "symbol": "PF_1MBABYDOGEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754662518,
+    "symbol": "LPT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

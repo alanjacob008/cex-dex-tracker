@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754673012,
+    "date": 1754676997,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1702,5 +1702,17 @@
     "symbol": "FI_XBTUSD_250829",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1754676997,
+    "symbol": "DBR-PERP",
+    "name": "Drift Protocol",
+    "action": "listed"
+  },
+  {
+    "date": 1754676997,
+    "symbol": "ID-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

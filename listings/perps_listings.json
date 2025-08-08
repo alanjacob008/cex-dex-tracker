@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754641069,
+    "date": 1754644740,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1587,6 +1587,60 @@
     "date": 1754641069,
     "symbol": "ETH-USDT-250808",
     "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "BTCUSDT-31OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "SOLUSDT-26SEP25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "KUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "ETHUSDT-31OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "BTC-USD-250822",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "ETH-USDT-250822",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "ETH-USD-250822",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "BTC-USDT-250822",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754644740,
+    "symbol": "PF_KAIAUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

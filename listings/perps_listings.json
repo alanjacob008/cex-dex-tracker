@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754756021,
+    "date": 1754759388,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1828,5 +1828,11 @@
     "symbol": "BOXCATUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1754759388,
+    "symbol": "RAY-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

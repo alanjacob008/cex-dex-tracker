@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754701104,
+    "date": 1754707669,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1730,6 +1730,18 @@
   {
     "date": 1754701104,
     "symbol": "GMX-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754707669,
+    "symbol": "KERNEL-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754707669,
+    "symbol": "MOODENG-USD",
     "name": "dYdX Chain",
     "action": "delisted"
   }

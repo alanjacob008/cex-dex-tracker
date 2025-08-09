@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754766535,
+    "date": 1754770365,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1846,5 +1846,11 @@
     "symbol": "ENJ-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1754770365,
+    "symbol": "PF_SONICUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

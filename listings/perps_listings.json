@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754745806,
+    "date": 1754748666,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1791,6 +1791,42 @@
     "date": 1754742120,
     "symbol": "PF_EURUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754748666,
+    "symbol": "JANITORUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754748666,
+    "symbol": "TALEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754748666,
+    "symbol": "GPUUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754748666,
+    "symbol": "SKIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754748666,
+    "symbol": "DARKUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754748666,
+    "symbol": "BOXCATUSDT",
+    "name": "LBank (Futures)",
     "action": "delisted"
   }
 ]

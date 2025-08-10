@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754824188,
+    "date": 1754828538,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1905,6 +1905,12 @@
     "date": 1754820747,
     "symbol": "OMNI-USD",
     "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1754828538,
+    "symbol": "PF_KOMAUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

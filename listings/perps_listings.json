@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754852957,
+    "date": 1754856788,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2037,6 +2037,18 @@
     "date": 1754852957,
     "symbol": "ICGSTOCK_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754856788,
+    "symbol": "USDE-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754856788,
+    "symbol": "CAKE-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

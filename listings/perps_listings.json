@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754781091,
+    "date": 1754788031,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1856,6 +1856,36 @@
   {
     "date": 1754781091,
     "symbol": "PF_SLPUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754788031,
+    "symbol": "PF_PRCLUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754788031,
+    "symbol": "PF_HOTUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754788031,
+    "symbol": "PF_COSUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754788031,
+    "symbol": "PF_CHEEMSUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754788031,
+    "symbol": "PF_MEUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754835047,
+    "date": 1754838682,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1923,6 +1923,12 @@
     "date": 1754835047,
     "symbol": "VIC-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754838682,
+    "symbol": "PF_CYBERUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754817144,
+    "date": 1754820747,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1900,5 +1900,11 @@
     "symbol": "BSUUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754820747,
+    "symbol": "OMNI-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

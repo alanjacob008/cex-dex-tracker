@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754809866,
+    "date": 1754813713,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -1894,5 +1894,11 @@
     "symbol": "NEWT-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1754813713,
+    "symbol": "BSUUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

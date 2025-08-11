@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754867495,
+    "date": 1754874282,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2061,6 +2061,18 @@
     "date": 1754867495,
     "symbol": "PF_QUICKUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1754874282,
+    "symbol": "COOKIE-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1754874282,
+    "symbol": "SYRUP-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

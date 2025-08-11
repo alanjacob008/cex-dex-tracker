@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754910718,
+    "date": 1754915134,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2128,5 +2128,17 @@
     "symbol": "SLAY_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754915134,
+    "symbol": "SLAYUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754915134,
+    "symbol": "BABY-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

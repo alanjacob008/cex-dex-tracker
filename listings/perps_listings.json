@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754936307,
+    "date": 1754939549,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2151,6 +2151,18 @@
     "date": 1754919136,
     "symbol": "CLIPPYUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754939549,
+    "symbol": "FF_ETHUSD_250815",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754939549,
+    "symbol": "FF_XBTUSD_250815",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

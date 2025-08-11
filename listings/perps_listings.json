@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754886966,
+    "date": 1754889690,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2080,5 +2080,17 @@
     "symbol": "SPARK_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754889690,
+    "symbol": "TOKABU_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754889690,
+    "symbol": "MAGIC-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

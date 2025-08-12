@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754966773,
+    "date": 1754970263,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2164,5 +2164,11 @@
     "symbol": "FF_XBTUSD_250815",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1754970263,
+    "symbol": "PF_GTCUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

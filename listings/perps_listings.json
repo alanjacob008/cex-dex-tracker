@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754982831,
+    "date": 1754986626,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2182,5 +2182,23 @@
     "symbol": "PF_RATSUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1754986626,
+    "symbol": "WAI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1754986626,
+    "symbol": "ZKJUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1754986626,
+    "symbol": "PROMUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

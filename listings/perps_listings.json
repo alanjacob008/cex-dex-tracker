@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754997059,
+    "date": 1755001439,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2224,5 +2224,17 @@
     "symbol": "CYBERUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755001439,
+    "symbol": "PF_AIUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755001439,
+    "symbol": "B3-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

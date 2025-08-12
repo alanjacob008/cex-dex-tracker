@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755011590,
+    "date": 1755015319,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2241,6 +2241,12 @@
     "date": 1755011590,
     "symbol": "SWIFUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755015319,
+    "symbol": "WLF-5B-1W-BET",
+    "name": "Drift Protocol",
     "action": "listed"
   }
 ]

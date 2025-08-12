@@ -1,6 +1,6 @@
 [
   {
-    "date": 1754972452,
+    "date": 1754975567,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2170,5 +2170,11 @@
     "symbol": "PF_GTCUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1754975567,
+    "symbol": "CLIPPY_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755083466,
+    "date": 1755087856,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2326,5 +2326,47 @@
     "symbol": "PF_TAIKOUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1755087856,
+    "symbol": "AIOUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755087856,
+    "symbol": "XNYUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755087856,
+    "symbol": "AIO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755087856,
+    "symbol": "XNYUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1755087856,
+    "symbol": "AIOUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1755087856,
+    "symbol": "ORANGEUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755087856,
+    "symbol": "XNYUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

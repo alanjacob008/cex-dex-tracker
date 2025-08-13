@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755087856,
+    "date": 1755091786,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2367,6 +2367,12 @@
     "date": 1755087856,
     "symbol": "XNYUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755091786,
+    "symbol": "OKB-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

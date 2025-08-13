@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755069249,
+    "date": 1755073008,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2265,6 +2265,12 @@
     "date": 1755065932,
     "symbol": "TST_USDC",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755073008,
+    "symbol": "1000000BABYDOGE-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

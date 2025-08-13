@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755104987,
+    "date": 1755109031,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2421,6 +2421,12 @@
     "date": 1755094399,
     "symbol": "KORIUSDT",
     "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755109031,
+    "symbol": "VIRTUAL-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755076503,
+    "date": 1755080009,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2290,5 +2290,23 @@
     "symbol": "BLAST-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1755080009,
+    "symbol": "AIO_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755080009,
+    "symbol": "OKB_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755080009,
+    "symbol": "OKBUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

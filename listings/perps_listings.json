@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755169864,
+    "date": 1755174298,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2565,6 +2565,12 @@
     "date": 1755169864,
     "symbol": "ERA-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755174298,
+    "symbol": "PF_IDUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

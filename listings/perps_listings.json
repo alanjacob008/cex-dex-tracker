@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755180745,
+    "date": 1755184382,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2577,6 +2577,12 @@
     "date": 1755180745,
     "symbol": "BLSHSTOCK_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755184382,
+    "symbol": "PF_JPYUSD",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

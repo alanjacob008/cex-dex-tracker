@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755191495,
+    "date": 1755195469,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2584,5 +2584,11 @@
     "symbol": "PF_JPYUSD",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755195469,
+    "symbol": "PF_BELUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

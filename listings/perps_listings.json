@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755139845,
+    "date": 1755143256,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2445,6 +2445,12 @@
     "date": 1755139845,
     "symbol": "NEO-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1755143256,
+    "symbol": "WILDUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

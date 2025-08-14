@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755155662,
+    "date": 1755159442,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2487,6 +2487,18 @@
     "date": 1755155662,
     "symbol": "BRISE_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755159442,
+    "symbol": "ALLUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755159442,
+    "symbol": "PF_DFUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

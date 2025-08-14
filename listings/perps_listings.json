@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755159442,
+    "date": 1755162929,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2500,5 +2500,17 @@
     "symbol": "PF_DFUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1755162929,
+    "symbol": "OVL_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755162929,
+    "symbol": "OVL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

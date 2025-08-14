@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755152340,
+    "date": 1755155662,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2458,5 +2458,35 @@
     "symbol": "SATS-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1755155662,
+    "symbol": "PEPEONTRON_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755155662,
+    "symbol": "APETH_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755155662,
+    "symbol": "PURR_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755155662,
+    "symbol": "KORI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755155662,
+    "symbol": "BRISE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

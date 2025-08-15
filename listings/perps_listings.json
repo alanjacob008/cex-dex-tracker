@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755245808,
+    "date": 1755249196,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2740,5 +2740,65 @@
     "symbol": "ETH-USDT-250815",
     "name": "OKX (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "SOLUSDT-05SEP25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "ETHUSDT-05SEP25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "BTCUSDT-05SEP25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "PUBLIC_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "SKL-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "ETH-USDT-250829",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "ETH-USD-251031",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "BTC-USD-251031",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "BTC-USDT-251031",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755249196,
+    "symbol": "PUBLIC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

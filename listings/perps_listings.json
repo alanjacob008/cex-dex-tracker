@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755242003,
+    "date": 1755245808,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2643,6 +2643,102 @@
     "date": 1755242003,
     "symbol": "RCADE_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "USELESS-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "SOLUSDT-15AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "ETHUSDT-15AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "BTCUSDT-15AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "LUCE_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "CATS_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "FLY_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "UNITE_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "BLUM_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "APU_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "BUZZ_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "PAL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "BTC-USDT-250815",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "BTC-USD-250815",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "ETH-USD-250815",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755245808,
+    "symbol": "ETH-USDT-250815",
+    "name": "OKX (Futures)",
     "action": "delisted"
   }
 ]

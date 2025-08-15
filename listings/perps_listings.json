@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755252784,
+    "date": 1755256227,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2799,6 +2799,24 @@
     "date": 1755249196,
     "symbol": "PUBLIC_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755256227,
+    "symbol": "PUBLICUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755256227,
+    "symbol": "ZRX-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1755256227,
+    "symbol": "ELX-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755264315,
+    "date": 1755267127,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2842,5 +2842,11 @@
     "symbol": "FF_ETHUSD_250822",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755267127,
+    "symbol": "MEWGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755260566,
+    "date": 1755264315,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2817,6 +2817,30 @@
     "date": 1755256227,
     "symbol": "ELX-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1755264315,
+    "symbol": "USELESSUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755264315,
+    "symbol": "TCOM_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755264315,
+    "symbol": "TCOM_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755264315,
+    "symbol": "FF_ETHUSD_250822",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

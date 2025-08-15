@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755234823,
+    "date": 1755238724,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2596,5 +2596,11 @@
     "symbol": "BLOCK_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755238724,
+    "symbol": "PF_GASUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

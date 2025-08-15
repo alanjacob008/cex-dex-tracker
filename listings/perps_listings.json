@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755281853,
+    "date": 1755284970,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2847,6 +2847,12 @@
     "date": 1755267127,
     "symbol": "MEWGUSDPERP",
     "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1755284970,
+    "symbol": "PF_VOXELUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

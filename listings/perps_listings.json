@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755328245,
+    "date": 1755332098,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2859,6 +2859,30 @@
     "date": 1755321122,
     "symbol": "PF_THEUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755332098,
+    "symbol": "XLM-USD-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755332098,
+    "symbol": "OP-USD-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755332098,
+    "symbol": "ATOM-USD-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755332098,
+    "symbol": "TRX-USD-SWAP",
+    "name": "OKX (Futures)",
     "action": "delisted"
   }
 ]

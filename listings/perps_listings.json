@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755378617,
+    "date": 1755382264,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2908,5 +2908,11 @@
     "symbol": "FF_XBTUSD_250822",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755382264,
+    "symbol": "PAXG-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

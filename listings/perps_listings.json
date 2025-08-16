@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755375135,
+    "date": 1755378617,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2902,5 +2902,11 @@
     "symbol": "RLB-PERP",
     "name": "Drift Protocol",
     "action": "delisted"
+  },
+  {
+    "date": 1755378617,
+    "symbol": "FF_XBTUSD_250822",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755357045,
+    "date": 1755360779,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2890,5 +2890,11 @@
     "symbol": "ANONCOINUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755360779,
+    "symbol": "W-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755350483,
+    "date": 1755353396,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2884,5 +2884,11 @@
     "symbol": "TRX-USD-SWAP",
     "name": "OKX (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1755353396,
+    "symbol": "ANONCOINUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

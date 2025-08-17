@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755428958,
+    "date": 1755433301,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -2973,6 +2973,12 @@
     "date": 1755428958,
     "symbol": "QQQX_USDT",
     "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755433301,
+    "symbol": "FARTCOIN,RAYDIUM,9BB6NFECJBCTNNLFKO2FQVQBQ8HHM13KCYYCDQBGPUMP-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

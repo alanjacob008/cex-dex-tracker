@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755501396,
+    "date": 1755505132,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3034,5 +3034,11 @@
     "symbol": "LIGHTUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755505132,
+    "symbol": "STO-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

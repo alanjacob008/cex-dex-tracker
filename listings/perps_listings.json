@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755479003,
+    "date": 1755487440,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3021,6 +3021,12 @@
     "date": 1755479003,
     "symbol": "ME-PERP",
     "name": "Drift Protocol",
+    "action": "delisted"
+  },
+  {
+    "date": 1755487440,
+    "symbol": "FET-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

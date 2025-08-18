@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755519905,
+    "date": 1755523826,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3070,5 +3070,17 @@
     "symbol": "SAROS-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1755523826,
+    "symbol": "DAMUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755523826,
+    "symbol": "DAMUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
   }
 ]

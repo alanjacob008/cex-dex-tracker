@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755547991,
+    "date": 1755551405,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3088,5 +3088,11 @@
     "symbol": "KAITO-PERP",
     "name": "Drift Protocol",
     "action": "delisted"
+  },
+  {
+    "date": 1755551405,
+    "symbol": "ALUUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

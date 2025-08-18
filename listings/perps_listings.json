@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755515503,
+    "date": 1755519905,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3038,6 +3038,36 @@
   {
     "date": 1755505132,
     "symbol": "STO-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755519905,
+    "symbol": "DAM_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755519905,
+    "symbol": "DAMUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755519905,
+    "symbol": "UNI-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1755519905,
+    "symbol": "DOT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1755519905,
+    "symbol": "SAROS-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
   }

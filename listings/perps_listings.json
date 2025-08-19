@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755591376,
+    "date": 1755594764,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3112,5 +3112,29 @@
     "symbol": "ALPINE-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1755594764,
+    "symbol": "API3USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755594764,
+    "symbol": "MKRUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755594764,
+    "symbol": "PEPEGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1755594764,
+    "symbol": "PF_SUNDOGUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

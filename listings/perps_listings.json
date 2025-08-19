@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755606178,
+    "date": 1755609820,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3148,5 +3148,17 @@
     "symbol": "API3-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1755609820,
+    "symbol": "BTCDOMUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755609820,
+    "symbol": "PF_HOOKUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

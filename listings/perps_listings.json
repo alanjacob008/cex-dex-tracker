@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755609820,
+    "date": 1755612722,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3158,6 +3158,36 @@
   {
     "date": 1755609820,
     "symbol": "PF_HOOKUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755612722,
+    "symbol": "ZORA_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755612722,
+    "symbol": "XLM_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755612722,
+    "symbol": "HBAR_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755612722,
+    "symbol": "PF_ZETAUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755612722,
+    "symbol": "PF_COOKIEUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
   }

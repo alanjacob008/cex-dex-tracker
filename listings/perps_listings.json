@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755601812,
+    "date": 1755606178,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3141,6 +3141,12 @@
     "date": 1755598380,
     "symbol": "ALL_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755606178,
+    "symbol": "API3-USDT",
+    "name": "HTX Futures",
     "action": "listed"
   }
 ]

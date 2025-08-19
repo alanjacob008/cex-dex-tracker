@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755594764,
+    "date": 1755598380,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3136,5 +3136,11 @@
     "symbol": "PF_SUNDOGUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1755598380,
+    "symbol": "ALL_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
   }
 ]

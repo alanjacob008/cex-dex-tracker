@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755684769,
+    "date": 1755688229,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3262,5 +3262,11 @@
     "symbol": "ZEX-PERP",
     "name": "Drift Protocol",
     "action": "delisted"
+  },
+  {
+    "date": 1755688229,
+    "symbol": "CUDISUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

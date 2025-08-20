@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755663310,
+    "date": 1755666745,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3238,5 +3238,11 @@
     "symbol": "DSYNCUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755666745,
+    "symbol": "PF_ZEREBROUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

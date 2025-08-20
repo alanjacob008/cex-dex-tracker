@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755670689,
+    "date": 1755673922,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3244,5 +3244,11 @@
     "symbol": "PF_ZEREBROUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1755673922,
+    "symbol": "TESTPM002-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

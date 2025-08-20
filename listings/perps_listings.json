@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755660974,
+    "date": 1755663310,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3231,6 +3231,12 @@
     "date": 1755660974,
     "symbol": "SKY_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755663310,
+    "symbol": "DSYNCUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

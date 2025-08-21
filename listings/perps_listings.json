@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755760537,
+    "date": 1755764184,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3393,6 +3393,24 @@
     "date": 1755760537,
     "symbol": "ZKWASM_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755764184,
+    "symbol": "CUDIS-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1755764184,
+    "symbol": "SAPIEN-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1755764184,
+    "symbol": "PF_TRUUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

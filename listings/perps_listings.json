@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755743143,
+    "date": 1755747339,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3315,6 +3315,12 @@
     "date": 1755716969,
     "symbol": "SAPIENUSDT",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755747339,
+    "symbol": "YZY_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

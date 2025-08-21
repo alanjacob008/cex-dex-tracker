@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755782660,
+    "date": 1755785543,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3495,6 +3495,30 @@
     "date": 1755782660,
     "symbol": "JTO-USD",
     "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1755785543,
+    "symbol": "LAMBOUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755785543,
+    "symbol": "UNITEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755785543,
+    "symbol": "ASRRUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755785543,
+    "symbol": "CESSUSDT",
+    "name": "LBank (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755774630,
+    "date": 1755778978,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3454,5 +3454,17 @@
     "symbol": "SOLUSDCPERP",
     "name": "Gemini Derivatives",
     "action": "listed"
+  },
+  {
+    "date": 1755778978,
+    "symbol": "AKE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755778978,
+    "symbol": "PF_FLUXUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

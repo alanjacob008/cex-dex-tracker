@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755764184,
+    "date": 1755767570,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3411,6 +3411,18 @@
     "date": 1755764184,
     "symbol": "PF_TRUUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755767570,
+    "symbol": "YZYUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1755767570,
+    "symbol": "APE-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

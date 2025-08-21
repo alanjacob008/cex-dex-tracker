@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755753163,
+    "date": 1755757640,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3352,5 +3352,17 @@
     "symbol": "YZYMNYUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1755757640,
+    "symbol": "SAPIENUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755757640,
+    "symbol": "PF_CELOUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755778978,
+    "date": 1755782660,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3465,6 +3465,36 @@
     "date": 1755778978,
     "symbol": "PF_FLUXUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755782660,
+    "symbol": "ARIA_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755782660,
+    "symbol": "ARIA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755782660,
+    "symbol": "AKEUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1755782660,
+    "symbol": "AKEUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755782660,
+    "symbol": "JTO-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755771157,
+    "date": 1755774630,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3429,6 +3429,30 @@
     "date": 1755771157,
     "symbol": "YZY-USDT",
     "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1755774630,
+    "symbol": "BAS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755774630,
+    "symbol": "RSR-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1755774630,
+    "symbol": "SUPER-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1755774630,
+    "symbol": "SOLUSDCPERP",
+    "name": "Gemini Derivatives",
     "action": "listed"
   }
 ]

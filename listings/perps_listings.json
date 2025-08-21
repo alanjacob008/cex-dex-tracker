@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755767570,
+    "date": 1755771157,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3424,5 +3424,11 @@
     "symbol": "APE-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1755771157,
+    "symbol": "YZY-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

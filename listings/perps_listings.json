@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755747339,
+    "date": 1755749675,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3321,6 +3321,24 @@
     "date": 1755747339,
     "symbol": "YZY_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755749675,
+    "symbol": "MNT_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755749675,
+    "symbol": "YZY_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755749675,
+    "symbol": "YZY-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

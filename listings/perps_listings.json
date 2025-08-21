@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755792841,
+    "date": 1755796540,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3525,6 +3525,12 @@
     "date": 1755789183,
     "symbol": "PF_SCUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755796540,
+    "symbol": "ACT-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

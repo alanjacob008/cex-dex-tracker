@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755846681,
+    "date": 1755850574,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3597,6 +3597,48 @@
     "date": 1755846681,
     "symbol": "ECHO_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755850574,
+    "symbol": "BTC_MUSDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755850574,
+    "symbol": "BCH_MUSDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755850574,
+    "symbol": "ETH_MUSDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755850574,
+    "symbol": "LIONUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755850574,
+    "symbol": "BTCUSDT-22AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755850574,
+    "symbol": "ETHUSDT-22AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755850574,
+    "symbol": "SOLUSDT-22AUG25",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

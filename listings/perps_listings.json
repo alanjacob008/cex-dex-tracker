@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755853969,
+    "date": 1755857554,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3699,6 +3699,30 @@
     "date": 1755853969,
     "symbol": "BCH-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1755857554,
+    "symbol": "XPLUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755857554,
+    "symbol": "XPL_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755857554,
+    "symbol": "XPL-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755857554,
+    "symbol": "XPL_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

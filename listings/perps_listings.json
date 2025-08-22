@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755850574,
+    "date": 1755853969,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3640,5 +3640,65 @@
     "symbol": "SOLUSDT-22AUG25",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "SOLUSDT-12SEP25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "ETHUSDT-12SEP25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "BTCUSDT-12SEP25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "BTC-USD-250905",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "ETH-USDT-250905",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "BTC-USDT-250905",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "ETH-USD-250905",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "APT_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "API3-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1755853969,
+    "symbol": "BCH-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
   }
 ]

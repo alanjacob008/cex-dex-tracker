@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755843474,
+    "date": 1755846681,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3561,6 +3561,42 @@
     "date": 1755833762,
     "symbol": "PF_AUCTIONUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755846681,
+    "symbol": "OPGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1755846681,
+    "symbol": "VSN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755846681,
+    "symbol": "GOONC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755846681,
+    "symbol": "ASRR_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755846681,
+    "symbol": "LAMBO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1755846681,
+    "symbol": "ECHO_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

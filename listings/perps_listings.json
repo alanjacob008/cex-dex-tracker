@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755875517,
+    "date": 1755879228,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3736,5 +3736,17 @@
     "symbol": "PF_CKBUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1755879228,
+    "symbol": "NEET_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755879228,
+    "symbol": "MANTLE-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
   }
 ]

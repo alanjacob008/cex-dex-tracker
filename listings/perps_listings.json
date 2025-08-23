@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755936846,
+    "date": 1755940254,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3862,5 +3862,17 @@
     "symbol": "CHILLGUY-USDT",
     "name": "HTX Futures",
     "action": "delisted"
+  },
+  {
+    "date": 1755940254,
+    "symbol": "WLFIUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755940254,
+    "symbol": "WLFI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

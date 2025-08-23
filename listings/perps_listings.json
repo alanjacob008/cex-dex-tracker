@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755943859,
+    "date": 1755947329,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3873,6 +3873,18 @@
     "date": 1755940254,
     "symbol": "WLFI_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755947329,
+    "symbol": "WLFI-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755947329,
+    "symbol": "WLFIUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

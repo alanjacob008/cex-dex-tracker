@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755922427,
+    "date": 1755925858,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3747,6 +3747,12 @@
     "date": 1755879228,
     "symbol": "MANTLE-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1755925858,
+    "symbol": "FF_ETHUSD_260327",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

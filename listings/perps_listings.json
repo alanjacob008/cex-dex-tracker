@@ -1,6 +1,6 @@
 [
   {
-    "date": 1755951607,
+    "date": 1755955137,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3885,6 +3885,18 @@
     "date": 1755947329,
     "symbol": "WLFIUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755955137,
+    "symbol": "WLFI-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1755955137,
+    "symbol": "BOME-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

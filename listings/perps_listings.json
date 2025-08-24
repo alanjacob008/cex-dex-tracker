@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756044581,
+    "date": 1756048221,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3969,6 +3969,24 @@
     "date": 1756044581,
     "symbol": "W-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756048221,
+    "symbol": "PF_MOVRUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756048221,
+    "symbol": "MEW-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756048221,
+    "symbol": "EIGEN-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

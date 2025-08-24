@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756041568,
+    "date": 1756044581,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3957,6 +3957,18 @@
     "date": 1756041568,
     "symbol": "PF_VELOUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756044581,
+    "symbol": "MAJOR-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1756044581,
+    "symbol": "W-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

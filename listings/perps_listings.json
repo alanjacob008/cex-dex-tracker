@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756083479,
+    "date": 1756089823,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -3993,6 +3993,18 @@
     "date": 1756055370,
     "symbol": "SOPH-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756089823,
+    "symbol": "PF_AEVOUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756089823,
+    "symbol": "PF_IOTXUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

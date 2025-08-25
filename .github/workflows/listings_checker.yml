@@ -5,9 +5,13 @@ on:
     - cron: '0 * * * *'  # every hour at minute 0
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   check-listings:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -29,9 +33,13 @@ jobs:
       - name: Run listings checker
         run: python listings_check.py
 
+      # bot-authored commit so it doesn't appear on your profile
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update listings status [bot]"
           file_pattern: |
             listings/perps_listings.json
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"

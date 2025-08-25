@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756120231,
+    "date": 1756124637,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4078,5 +4078,11 @@
     "symbol": "PAXG-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1756124637,
+    "symbol": "TAKE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

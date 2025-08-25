@@ -5,6 +5,13 @@ on:
   schedule:
     - cron:  '0 0 * * *'   # runs at 12am UTC every day
 
+permissions:
+  contents: write
+
+concurrency:
+  group: perps-data
+  cancel-in-progress: true
+
 jobs:
   fetch-perps-data:
     runs-on: ubuntu-latest
@@ -12,11 +19,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.12'   # keep as you had it
 
       - name: Install dependencies
         run: |
@@ -34,9 +43,12 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update perps & listings data [bot]"
-          push_options: '--force'   # (Optional: force-push if needed for overwrite)
-          commit_user_name: github-actions
-          commit_user_email: github-actions@github.com
           file_pattern: |
             data/perps/**
             listings/**
+          # make BOTH author and committer the bot so it won't appear on your profile
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author_name: github-actions[bot]
+          commit_author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          push_options: '--force'   # keep if you rely on overwriting history

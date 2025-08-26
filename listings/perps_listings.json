@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756169786,
+    "date": 1756175316,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4096,5 +4096,11 @@
     "symbol": "PF_UXLINKUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1756175316,
+    "symbol": "SOMI_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
   }
 ]

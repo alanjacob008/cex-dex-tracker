@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756329030,
+    "date": 1756332633,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4407,6 +4407,12 @@
     "date": 1756329030,
     "symbol": "PF_LEVERUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756332633,
+    "symbol": "BONKGUSDPERP",
+    "name": "Gemini Derivatives",
     "action": "delisted"
   }
 ]

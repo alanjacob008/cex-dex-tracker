@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756318574,
+    "date": 1756321790,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4396,5 +4396,11 @@
     "symbol": "PF_DUCKUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1756321790,
+    "symbol": "NMR-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

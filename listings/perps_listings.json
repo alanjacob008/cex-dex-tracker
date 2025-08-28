@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756390307,
+    "date": 1756393928,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4486,5 +4486,35 @@
     "symbol": "LIVE_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1756393928,
+    "symbol": "MITO_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1756393928,
+    "symbol": "MITO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1756393928,
+    "symbol": "MITOUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1756393928,
+    "symbol": "GMT-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1756393928,
+    "symbol": "FUN-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756375948,
+    "date": 1756379409,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4474,5 +4474,11 @@
     "symbol": "PF_SATSUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1756379409,
+    "symbol": "XPL-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756361882,
+    "date": 1756365174,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4413,6 +4413,42 @@
     "date": 1756332633,
     "symbol": "BONKGUSDPERP",
     "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1756365174,
+    "symbol": "DARKSTAR_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756365174,
+    "symbol": "BNKR_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756365174,
+    "symbol": "ANON_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756365174,
+    "symbol": "MM_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756365174,
+    "symbol": "XO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756365174,
+    "symbol": "URANUS_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

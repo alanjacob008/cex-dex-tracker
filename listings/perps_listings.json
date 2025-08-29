@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756451497,
+    "date": 1756455321,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4593,6 +4593,54 @@
     "date": 1756451497,
     "symbol": "TGT_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756455321,
+    "symbol": "BTCUSDT-29AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756455321,
+    "symbol": "ETHUSDT-29AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756455321,
+    "symbol": "SOLUSDT-29AUG25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756455321,
+    "symbol": "FF_SOLUSD_250829",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756455321,
+    "symbol": "FF_XBTUSD_250829",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756455321,
+    "symbol": "BTC-USDT-250829",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756455321,
+    "symbol": "ETH-USD-250829",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756455321,
+    "symbol": "BTC-USD-250829",
+    "name": "OKX (Futures)",
     "action": "delisted"
   }
 ]

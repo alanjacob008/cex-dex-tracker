@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756480176,
+    "date": 1756484046,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4726,5 +4726,11 @@
     "symbol": "MAGIC-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1756484046,
+    "symbol": "BTCUSDCPERP",
+    "name": "Gemini Derivatives",
+    "action": "listed"
   }
 ]

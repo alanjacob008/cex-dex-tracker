@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756438180,
+    "date": 1756440859,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4540,5 +4540,11 @@
     "symbol": "PNUT-PERP",
     "name": "Drift Protocol",
     "action": "delisted"
+  },
+  {
+    "date": 1756440859,
+    "symbol": "GOATUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

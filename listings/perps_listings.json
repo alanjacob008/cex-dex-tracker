@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756537791,
+    "date": 1756541616,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4744,5 +4744,11 @@
     "symbol": "FF_SOLUSD_251226",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1756541616,
+    "symbol": "JST-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
   }
 ]

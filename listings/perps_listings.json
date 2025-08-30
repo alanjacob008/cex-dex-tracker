@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756541616,
+    "date": 1756545042,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4749,6 +4749,12 @@
     "date": 1756541616,
     "symbol": "JST-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756545042,
+    "symbol": "ANI-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756530639,
+    "date": 1756534498,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4738,5 +4738,11 @@
     "symbol": "TAC-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1756534498,
+    "symbol": "FF_SOLUSD_251226",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

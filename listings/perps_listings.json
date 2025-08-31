@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756624212,
+    "date": 1756628027,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4761,6 +4761,54 @@
     "date": 1756559812,
     "symbol": "HOLD_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756628027,
+    "symbol": "FI_XBTUSD_260327",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1756628027,
+    "symbol": "SUSHI-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756628027,
+    "symbol": "WEMIX_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756628027,
+    "symbol": "OMG_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756628027,
+    "symbol": "BLZ_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756628027,
+    "symbol": "PAAL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756628027,
+    "symbol": "PF_GUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756628027,
+    "symbol": "MOVE-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

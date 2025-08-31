@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756646250,
+    "date": 1756649364,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4851,6 +4851,30 @@
     "date": 1756642827,
     "symbol": "PF_OXTUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756649364,
+    "symbol": "POPCATGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1756649364,
+    "symbol": "RUDIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756649364,
+    "symbol": "DEBTUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756649364,
+    "symbol": "WLD-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

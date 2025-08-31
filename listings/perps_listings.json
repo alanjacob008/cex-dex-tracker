@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756664047,
+    "date": 1756667307,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4899,6 +4899,12 @@
     "date": 1756664047,
     "symbol": "PF_DYMUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756667307,
+    "symbol": "AIXBT-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

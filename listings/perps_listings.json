@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756638527,
+    "date": 1756642827,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4845,6 +4845,12 @@
     "date": 1756631405,
     "symbol": "STMX_USDT",
     "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756642827,
+    "symbol": "PF_OXTUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

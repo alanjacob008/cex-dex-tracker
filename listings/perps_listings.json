@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756696507,
+    "date": 1756700511,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4942,5 +4942,11 @@
     "symbol": "HEMI_USDT",
     "name": "Gate (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1756700511,
+    "symbol": "PF_MASKUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

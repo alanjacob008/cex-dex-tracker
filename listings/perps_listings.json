@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756688661,
+    "date": 1756696507,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -4936,5 +4936,11 @@
     "symbol": "STRK-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1756696507,
+    "symbol": "HEMI_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756869681,
+    "date": 1756872840,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5128,5 +5128,11 @@
     "symbol": "PF_C98USD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1756872840,
+    "symbol": "QUACKAIUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

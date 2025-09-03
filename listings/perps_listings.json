@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756923360,
+    "date": 1756926552,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5320,5 +5320,11 @@
     "symbol": "PF_LOOKSUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1756926552,
+    "symbol": "AITECH-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

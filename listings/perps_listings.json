@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756887329,
+    "date": 1756890720,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5182,5 +5182,11 @@
     "symbol": "PF_BLASTUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1756890720,
+    "symbol": "ENS-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
   }
 ]

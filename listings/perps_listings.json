@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756973705,
+    "date": 1756977107,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5373,6 +5373,30 @@
     "date": 1756973705,
     "symbol": "10000WHY_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756977107,
+    "symbol": "LEVERUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756977107,
+    "symbol": "FBUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756977107,
+    "symbol": "10000WHYUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756977107,
+    "symbol": "MBLUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

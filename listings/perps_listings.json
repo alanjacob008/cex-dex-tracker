@@ -1,6 +1,6 @@
 [
   {
-    "date": 1756969892,
+    "date": 1756973705,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5355,6 +5355,24 @@
     "date": 1756969892,
     "symbol": "LEVERUSDTM",
     "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1756973705,
+    "symbol": "FB_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756973705,
+    "symbol": "MBL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1756973705,
+    "symbol": "10000WHY_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

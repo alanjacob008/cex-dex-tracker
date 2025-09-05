@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757070559,
+    "date": 1757074885,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5548,5 +5548,17 @@
     "symbol": "1000CAT-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1757074885,
+    "symbol": "SHARDS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757074885,
+    "symbol": "UUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

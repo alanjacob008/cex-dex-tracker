@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757060117,
+    "date": 1757063520,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5494,5 +5494,47 @@
     "symbol": "MKR-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1757063520,
+    "symbol": "ETHUSDT-28NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757063520,
+    "symbol": "BTCUSDT-28NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757063520,
+    "symbol": "BTC-USD-250919",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757063520,
+    "symbol": "BTC-USDT-250919",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757063520,
+    "symbol": "ETH-USD-250919",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757063520,
+    "symbol": "ETH-USDT-250919",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757063520,
+    "symbol": "BOOST_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

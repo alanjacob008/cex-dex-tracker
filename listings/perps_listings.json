@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757056305,
+    "date": 1757060117,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5487,6 +5487,12 @@
     "date": 1757056305,
     "symbol": "PF_PORTALUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757060117,
+    "symbol": "MKR-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "delisted"
   }
 ]

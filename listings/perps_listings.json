@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757081456,
+    "date": 1757085128,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5560,5 +5560,11 @@
     "symbol": "UUSDTM",
     "name": "KuCoin Futures",
     "action": "listed"
+  },
+  {
+    "date": 1757085128,
+    "symbol": "BNBGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "delisted"
   }
 ]

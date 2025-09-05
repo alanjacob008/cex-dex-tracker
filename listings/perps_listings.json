@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757053030,
+    "date": 1757056305,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5475,6 +5475,18 @@
     "date": 1757002454,
     "symbol": "TURBO-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757056305,
+    "symbol": "EUL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757056305,
+    "symbol": "PF_PORTALUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

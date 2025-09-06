@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757182418,
+    "date": 1757185658,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5655,6 +5655,18 @@
     "date": 1757182418,
     "symbol": "PENDLE-USD",
     "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1757185658,
+    "symbol": "SKY-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1757185658,
+    "symbol": "PF_SYNUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757142587,
+    "date": 1757146368,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5583,6 +5583,30 @@
     "date": 1757131990,
     "symbol": "PF_BALUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757146368,
+    "symbol": "PF_GLMRUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757146368,
+    "symbol": "PF_MKRUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757146368,
+    "symbol": "PF_PONKEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757146368,
+    "symbol": "MKRUSDTM",
+    "name": "KuCoin Futures",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757128855,
+    "date": 1757131990,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5570,6 +5570,18 @@
   {
     "date": 1757106608,
     "symbol": "PF_ARPAUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757131990,
+    "symbol": "NOICE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757131990,
+    "symbol": "PF_BALUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757229014,
+    "date": 1757232780,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5673,6 +5673,12 @@
     "date": 1757196584,
     "symbol": "PF_WOOUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757232780,
+    "symbol": "MOTHER-PERP",
+    "name": "Drift Protocol",
     "action": "delisted"
   }
 ]

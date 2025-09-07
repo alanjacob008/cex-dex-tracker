@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757236200,
+    "date": 1757239804,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5685,6 +5685,12 @@
     "date": 1757236200,
     "symbol": "PF_ALTUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757239804,
+    "symbol": "MKR-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "delisted"
   }
 ]

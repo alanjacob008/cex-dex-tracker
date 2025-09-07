@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757254142,
+    "date": 1757257788,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5703,6 +5703,18 @@
     "date": 1757250932,
     "symbol": "PF_NEOUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757257788,
+    "symbol": "KTA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757257788,
+    "symbol": "UNIGUSDPERP",
+    "name": "Gemini Derivatives",
     "action": "delisted"
   }
 ]

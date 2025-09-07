@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757261511,
+    "date": 1757264931,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5715,6 +5715,12 @@
     "date": 1757257788,
     "symbol": "UNIGUSDPERP",
     "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1757264931,
+    "symbol": "MKR-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

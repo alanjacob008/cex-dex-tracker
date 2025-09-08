@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757319419,
+    "date": 1757322846,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5740,5 +5740,11 @@
     "symbol": "C98-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1757322846,
+    "symbol": "WLFIUSDC",
+    "name": "Binance (Futures)",
+    "action": "listed"
   }
 ]

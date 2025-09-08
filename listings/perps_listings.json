@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757329775,
+    "date": 1757334238,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5776,5 +5776,17 @@
     "symbol": "PF_ROSEUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1757334238,
+    "symbol": "OPENLEDGER_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757334238,
+    "symbol": "67USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

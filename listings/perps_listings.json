@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757322846,
+    "date": 1757326396,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5746,5 +5746,29 @@
     "symbol": "WLFIUSDC",
     "name": "Binance (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1757326396,
+    "symbol": "WLFI_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757326396,
+    "symbol": "SPYXUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757326396,
+    "symbol": "PF_BANANAUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757326396,
+    "symbol": "WOO-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

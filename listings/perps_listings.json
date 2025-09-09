@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757401919,
+    "date": 1757405805,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5877,6 +5877,24 @@
     "date": 1757401919,
     "symbol": "MKRUSDT",
     "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757405805,
+    "symbol": "SKYUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757405805,
+    "symbol": "MKR_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757405805,
+    "symbol": "MKR_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

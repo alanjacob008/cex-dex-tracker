@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757412758,
+    "date": 1757416224,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5920,5 +5920,17 @@
     "symbol": "MKRUSDT",
     "name": "Binance (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1757416224,
+    "symbol": "SKYUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1757416224,
+    "symbol": "TSLAX-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

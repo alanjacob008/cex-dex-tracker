@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757394696,
+    "date": 1757398698,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5854,5 +5854,11 @@
     "symbol": "MKR-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1757398698,
+    "symbol": "SKY_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
   }
 ]

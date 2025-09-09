@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757379239,
+    "date": 1757384439,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5835,6 +5835,12 @@
     "date": 1757348008,
     "symbol": "WAL-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757384439,
+    "symbol": "PF_CATUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

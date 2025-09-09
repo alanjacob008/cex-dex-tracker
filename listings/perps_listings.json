@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757416224,
+    "date": 1757420620,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5931,6 +5931,24 @@
     "date": 1757416224,
     "symbol": "TSLAX-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1757420620,
+    "symbol": "ART_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757420620,
+    "symbol": "SWTCH_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757420620,
+    "symbol": "LIVEART_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

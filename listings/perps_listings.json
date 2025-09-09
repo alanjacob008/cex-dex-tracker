@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757391242,
+    "date": 1757394696,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5841,6 +5841,18 @@
     "date": 1757384439,
     "symbol": "PF_CATUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757394696,
+    "symbol": "FLOCK1USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757394696,
+    "symbol": "MKR-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

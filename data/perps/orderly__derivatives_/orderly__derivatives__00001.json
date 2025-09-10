@@ -26758,5 +26758,773 @@
     "open_interest": 0.0,
     "volume_24h": 11531.510940668502,
     "date": 1757379605
+  },
+  {
+    "symbol": "BTC-PERP",
+    "open_interest": 17103986.39,
+    "volume_24h": 201976989.59455836,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ETH-PERP",
+    "open_interest": 14319411.41,
+    "volume_24h": 313762557.62755257,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SOL-PERP",
+    "open_interest": 6646740.8,
+    "volume_24h": 85687943.73124036,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ENA-PERP",
+    "open_interest": 1948022.72,
+    "volume_24h": 492449.18806048,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PUMP-PERP",
+    "open_interest": 1811746.74,
+    "volume_24h": 552820.576607432,
+    "date": 1757465909
+  },
+  {
+    "symbol": "LINK-PERP",
+    "open_interest": 1715713.53,
+    "volume_24h": 787043.033985184,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SUI-PERP",
+    "open_interest": 1618191.3,
+    "volume_24h": 911887.7084755,
+    "date": 1757465909
+  },
+  {
+    "symbol": "XRP-PERP",
+    "open_interest": 1597849.02,
+    "volume_24h": 3493017.84988136,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PENGU-PERP",
+    "open_interest": 1327910.37,
+    "volume_24h": 393774.25183054974,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SEI-PERP",
+    "open_interest": 1166955.15,
+    "volume_24h": 4726263.85004162,
+    "date": 1757465909
+  },
+  {
+    "symbol": "INJ-PERP",
+    "open_interest": 1109862.53,
+    "volume_24h": 49916.659201094,
+    "date": 1757465909
+  },
+  {
+    "symbol": "NEAR-PERP",
+    "open_interest": 1059550.24,
+    "volume_24h": 341349.332886718,
+    "date": 1757465909
+  },
+  {
+    "symbol": "AVAX-PERP",
+    "open_interest": 974153.16,
+    "volume_24h": 341230.758956248,
+    "date": 1757465909
+  },
+  {
+    "symbol": "AAVE-PERP",
+    "open_interest": 933716.63,
+    "volume_24h": 82911.06709308781,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ONDO-PERP",
+    "open_interest": 824097.47,
+    "volume_24h": 253430.70661942,
+    "date": 1757465909
+  },
+  {
+    "symbol": "HBAR-PERP",
+    "open_interest": 806874.24,
+    "volume_24h": 58984.68975219,
+    "date": 1757465909
+  },
+  {
+    "symbol": "DOGE-PERP",
+    "open_interest": 731286.73,
+    "volume_24h": 1901648.17558374,
+    "date": 1757465909
+  },
+  {
+    "symbol": "S-PERP",
+    "open_interest": 727649.85,
+    "volume_24h": 257064.69317672,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ORDER-PERP",
+    "open_interest": 696216.93,
+    "volume_24h": 249035.43676282783,
+    "date": 1757465909
+  },
+  {
+    "symbol": "BNB-PERP",
+    "open_interest": 586567.29,
+    "volume_24h": 88097.897655848,
+    "date": 1757465909
+  },
+  {
+    "symbol": "JUP-PERP",
+    "open_interest": 538425.12,
+    "volume_24h": 1223907.9089521,
+    "date": 1757465909
+  },
+  {
+    "symbol": "USELESS-PERP",
+    "open_interest": 510693.67,
+    "volume_24h": 500321.66135086,
+    "date": 1757465909
+  },
+  {
+    "symbol": "OP-PERP",
+    "open_interest": 479895.76,
+    "volume_24h": 7097.003945274,
+    "date": 1757465909
+  },
+  {
+    "symbol": "LTC-PERP",
+    "open_interest": 473226.35,
+    "volume_24h": 59123.4064533,
+    "date": 1757465909
+  },
+  {
+    "symbol": "LDO-PERP",
+    "open_interest": 456906.26,
+    "volume_24h": 568754.6630370116,
+    "date": 1757465909
+  },
+  {
+    "symbol": "BGSC-PERP",
+    "open_interest": 447072.83,
+    "volume_24h": 454699.772873796,
+    "date": 1757465909
+  },
+  {
+    "symbol": "FARTCOIN-PERP",
+    "open_interest": 390946.66,
+    "volume_24h": 395803.7939059,
+    "date": 1757465909
+  },
+  {
+    "symbol": "HYPE-PERP",
+    "open_interest": 385410.28,
+    "volume_24h": 490236.6098922864,
+    "date": 1757465909
+  },
+  {
+    "symbol": "TRUMP-PERP",
+    "open_interest": 338140.97,
+    "volume_24h": 97204.23701365,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ADA-PERP",
+    "open_interest": 329540.6,
+    "volume_24h": 333058.85920314,
+    "date": 1757465909
+  },
+  {
+    "symbol": "WLD-PERP",
+    "open_interest": 323479.34,
+    "volume_24h": 6600133.229535952,
+    "date": 1757465909
+  },
+  {
+    "symbol": "1000PEPE-PERP",
+    "open_interest": 313963.7,
+    "volume_24h": 466117.521087352,
+    "date": 1757465909
+  },
+  {
+    "symbol": "RAY-PERP",
+    "open_interest": 309569.81,
+    "volume_24h": 178581.374370442,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PENDLE-PERP",
+    "open_interest": 280287.23,
+    "volume_24h": 55087.9763627517,
+    "date": 1757465909
+  },
+  {
+    "symbol": "IP-PERP",
+    "open_interest": 265841.24,
+    "volume_24h": 1351647.031307042,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ARB-PERP",
+    "open_interest": 214933.53,
+    "volume_24h": 227210.14518074,
+    "date": 1757465909
+  },
+  {
+    "symbol": "1000BONK-PERP",
+    "open_interest": 206732.73,
+    "volume_24h": 194544.8257495004,
+    "date": 1757465909
+  },
+  {
+    "symbol": "WIF-PERP",
+    "open_interest": 190059.13,
+    "volume_24h": 204359.54521494,
+    "date": 1757465909
+  },
+  {
+    "symbol": "TIA-PERP",
+    "open_interest": 184597.98,
+    "volume_24h": 80888.950313732,
+    "date": 1757465909
+  },
+  {
+    "symbol": "UNI-PERP",
+    "open_interest": 176758.29,
+    "volume_24h": 7992.97318558,
+    "date": 1757465909
+  },
+  {
+    "symbol": "TAO-PERP",
+    "open_interest": 154832.91,
+    "volume_24h": 26138.249112792284,
+    "date": 1757465909
+  },
+  {
+    "symbol": "APT-PERP",
+    "open_interest": 134747.32,
+    "volume_24h": 263860.99204504,
+    "date": 1757465909
+  },
+  {
+    "symbol": "BIO-PERP",
+    "open_interest": 133361.3,
+    "volume_24h": 113850.261632752,
+    "date": 1757465909
+  },
+  {
+    "symbol": "WOO-PERP",
+    "open_interest": 130284.57,
+    "volume_24h": 209034.62941106,
+    "date": 1757465909
+  },
+  {
+    "symbol": "TON-PERP",
+    "open_interest": 120693.12,
+    "volume_24h": 58501.47921363,
+    "date": 1757465909
+  },
+  {
+    "symbol": "CRV-PERP",
+    "open_interest": 108327.55,
+    "volume_24h": 133251.76004937963,
+    "date": 1757465909
+  },
+  {
+    "symbol": "WLFI-PERP",
+    "open_interest": 88076.24,
+    "volume_24h": 697834.4472128386,
+    "date": 1757465909
+  },
+  {
+    "symbol": "FET-PERP",
+    "open_interest": 87217.85,
+    "volume_24h": 25083.256975074,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SPX-PERP",
+    "open_interest": 82639.91,
+    "volume_24h": 123801.33732569808,
+    "date": 1757465909
+  },
+  {
+    "symbol": "1000000MOG-PERP",
+    "open_interest": 72988.8,
+    "volume_24h": 133368.2966988925,
+    "date": 1757465909
+  },
+  {
+    "symbol": "POL-PERP",
+    "open_interest": 70002.39,
+    "volume_24h": 41829.91337834945,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ZRO-PERP",
+    "open_interest": 63977.08,
+    "volume_24h": 4607.227082079695,
+    "date": 1757465909
+  },
+  {
+    "symbol": "RUNE-PERP",
+    "open_interest": 48669.5,
+    "volume_24h": 2027.18188252,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MERL-PERP",
+    "open_interest": 48023.72,
+    "volume_24h": 24095.224056187,
+    "date": 1757465909
+  },
+  {
+    "symbol": "LPT-PERP",
+    "open_interest": 43022.23,
+    "volume_24h": 60343.6418574,
+    "date": 1757465909
+  },
+  {
+    "symbol": "VINE-PERP",
+    "open_interest": 41508.57,
+    "volume_24h": 19594.57915023,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PLUME-PERP",
+    "open_interest": 41347.81,
+    "volume_24h": 220769.468593736,
+    "date": 1757465909
+  },
+  {
+    "symbol": "KAITO-PERP",
+    "open_interest": 41306.39,
+    "volume_24h": 475478.563304392,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ETHFI-PERP",
+    "open_interest": 41265.8,
+    "volume_24h": 8908.06133134,
+    "date": 1757465909
+  },
+  {
+    "symbol": "HSK-PERP",
+    "open_interest": 40431.5,
+    "volume_24h": 7372.84633576,
+    "date": 1757465909
+  },
+  {
+    "symbol": "W-PERP",
+    "open_interest": 39117.71,
+    "volume_24h": 58223.0974901122,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PROMPT-PERP",
+    "open_interest": 38170.12,
+    "volume_24h": 104644.14528434,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ZEUS-PERP",
+    "open_interest": 37606.62,
+    "volume_24h": 7757.230883472,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MNT-PERP",
+    "open_interest": 35522.31,
+    "volume_24h": 162386.7046623,
+    "date": 1757465909
+  },
+  {
+    "symbol": "1000SHIB-PERP",
+    "open_interest": 35473.25,
+    "volume_24h": 39131.63128626068,
+    "date": 1757465909
+  },
+  {
+    "symbol": "VIRTUAL-PERP",
+    "open_interest": 34024.87,
+    "volume_24h": 57029.89372089484,
+    "date": 1757465909
+  },
+  {
+    "symbol": "CRO-PERP",
+    "open_interest": 33046.34,
+    "volume_24h": 62105.972540756,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PAXG-PERP",
+    "open_interest": 32773.27,
+    "volume_24h": 10960.78850378,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SPK-PERP",
+    "open_interest": 32694.07,
+    "volume_24h": 11973.78031489,
+    "date": 1757465909
+  },
+  {
+    "symbol": "DOOD-PERP",
+    "open_interest": 31500.8,
+    "volume_24h": 23931.8244766402,
+    "date": 1757465909
+  },
+  {
+    "symbol": "BERA-PERP",
+    "open_interest": 31083.38,
+    "volume_24h": 1118332.203657032,
+    "date": 1757465909
+  },
+  {
+    "symbol": "BRETT-PERP",
+    "open_interest": 30159.16,
+    "volume_24h": 4751.183763162,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ORDI-PERP",
+    "open_interest": 27825.36,
+    "volume_24h": 14551.15538676,
+    "date": 1757465909
+  },
+  {
+    "symbol": "AIXBT-PERP",
+    "open_interest": 26291.03,
+    "volume_24h": 251957.52059565345,
+    "date": 1757465909
+  },
+  {
+    "symbol": "H-PERP",
+    "open_interest": 25332.71,
+    "volume_24h": 234470.055838154,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MOODENG-PERP",
+    "open_interest": 25069.27,
+    "volume_24h": 39719.54958216188,
+    "date": 1757465909
+  },
+  {
+    "symbol": "TRX-PERP",
+    "open_interest": 24590.34,
+    "volume_24h": 38392.35794943489,
+    "date": 1757465909
+  },
+  {
+    "symbol": "DOT-PERP",
+    "open_interest": 24489.64,
+    "volume_24h": 159745.16824835018,
+    "date": 1757465909
+  },
+  {
+    "symbol": "AI16Z-PERP",
+    "open_interest": 23779.12,
+    "volume_24h": 202844.566421164,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MEME-PERP",
+    "open_interest": 18770.23,
+    "volume_24h": 43455.584720437095,
+    "date": 1757465909
+  },
+  {
+    "symbol": "BCH-PERP",
+    "open_interest": 16203.17,
+    "volume_24h": 4662.281482920853,
+    "date": 1757465909
+  },
+  {
+    "symbol": "HYPER-PERP",
+    "open_interest": 15490.07,
+    "volume_24h": 202337.46031282,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PONKE-PERP",
+    "open_interest": 14534.58,
+    "volume_24h": 41979.57210606,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MODE-PERP",
+    "open_interest": 13637.08,
+    "volume_24h": 2353.042517356,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PNUT-PERP",
+    "open_interest": 13550.83,
+    "volume_24h": 8661.760449174542,
+    "date": 1757465909
+  },
+  {
+    "symbol": "CAKE-PERP",
+    "open_interest": 13320.55,
+    "volume_24h": 7941.406590962,
+    "date": 1757465909
+  },
+  {
+    "symbol": "IO-PERP",
+    "open_interest": 12610.45,
+    "volume_24h": 38230.199090668,
+    "date": 1757465909
+  },
+  {
+    "symbol": "EIGEN-PERP",
+    "open_interest": 11779.61,
+    "volume_24h": 11672.268846120383,
+    "date": 1757465909
+  },
+  {
+    "symbol": "API3-PERP",
+    "open_interest": 10815.35,
+    "volume_24h": 56716.1106088878,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MOVE-PERP",
+    "open_interest": 10600.54,
+    "volume_24h": 4674.384004131517,
+    "date": 1757465909
+  },
+  {
+    "symbol": "GOAT-PERP",
+    "open_interest": 9796.45,
+    "volume_24h": 30376.678524324332,
+    "date": 1757465909
+  },
+  {
+    "symbol": "CHILLGUY-PERP",
+    "open_interest": 9700.57,
+    "volume_24h": 159848.52145049,
+    "date": 1757465909
+  },
+  {
+    "symbol": "TAC-PERP",
+    "open_interest": 9002.86,
+    "volume_24h": 21605.06542254,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MUBARAK-PERP",
+    "open_interest": 8391.45,
+    "volume_24h": 10210.308039898,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MAGIC-PERP",
+    "open_interest": 8298.74,
+    "volume_24h": 19403.66179134,
+    "date": 1757465909
+  },
+  {
+    "symbol": "WCT-PERP",
+    "open_interest": 8233.78,
+    "volume_24h": 13449.68342522,
+    "date": 1757465909
+  },
+  {
+    "symbol": "1000FLOKI-PERP",
+    "open_interest": 8232.98,
+    "volume_24h": 17456.2198546406,
+    "date": 1757465909
+  },
+  {
+    "symbol": "CETUS-PERP",
+    "open_interest": 7791.24,
+    "volume_24h": 31495.291704442825,
+    "date": 1757465909
+  },
+  {
+    "symbol": "NEWT-PERP",
+    "open_interest": 7450.65,
+    "volume_24h": 298385.63213576,
+    "date": 1757465909
+  },
+  {
+    "symbol": "WAL-PERP",
+    "open_interest": 6818.18,
+    "volume_24h": 4898.6225795,
+    "date": 1757465909
+  },
+  {
+    "symbol": "STRK-PERP",
+    "open_interest": 6386.05,
+    "volume_24h": 1541.0093274818,
+    "date": 1757465909
+  },
+  {
+    "symbol": "PYTH-PERP",
+    "open_interest": 5262.14,
+    "volume_24h": 4737.165921644692,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MELANIA-PERP",
+    "open_interest": 5127.37,
+    "volume_24h": 224.642842444,
+    "date": 1757465909
+  },
+  {
+    "symbol": "OKB-PERP",
+    "open_interest": 4953.44,
+    "volume_24h": 19549.251957482,
+    "date": 1757465909
+  },
+  {
+    "symbol": "POPCAT-PERP",
+    "open_interest": 4773.6,
+    "volume_24h": 6560.465102526257,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ZEN-PERP",
+    "open_interest": 4554.16,
+    "volume_24h": 5215.505380262,
+    "date": 1757465909
+  },
+  {
+    "symbol": "BOME-PERP",
+    "open_interest": 3656.41,
+    "volume_24h": 9599.39278739,
+    "date": 1757465909
+  },
+  {
+    "symbol": "AR-PERP",
+    "open_interest": 3153.85,
+    "volume_24h": 2159.0236089,
+    "date": 1757465909
+  },
+  {
+    "symbol": "GRASS-PERP",
+    "open_interest": 2346.1,
+    "volume_24h": 2651.152643404,
+    "date": 1757465909
+  },
+  {
+    "symbol": "VIC-PERP",
+    "open_interest": 1906.65,
+    "volume_24h": 485016.8447265,
+    "date": 1757465909
+  },
+  {
+    "symbol": "LAUNCHCOIN-PERP",
+    "open_interest": 1836.62,
+    "volume_24h": 46814.296627728,
+    "date": 1757465909
+  },
+  {
+    "symbol": "XLM-PERP",
+    "open_interest": 1802.26,
+    "volume_24h": 190.464029574,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SAHARA-PERP",
+    "open_interest": 1250.11,
+    "volume_24h": 3339.914313514,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SYRUP-PERP",
+    "open_interest": 1036.76,
+    "volume_24h": 1981.585013718,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ENS-PERP",
+    "open_interest": 583.68,
+    "volume_24h": 48.45443627182875,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ACT-PERP",
+    "open_interest": 407.67,
+    "volume_24h": 373.56182925866585,
+    "date": 1757465909
+  },
+  {
+    "symbol": "ERA-PERP",
+    "open_interest": 401.68,
+    "volume_24h": 2498.19811043,
+    "date": 1757465909
+  },
+  {
+    "symbol": "COOKIE-PERP",
+    "open_interest": 155.55,
+    "volume_24h": 2626.27888915,
+    "date": 1757465909
+  },
+  {
+    "symbol": "STO-PERP",
+    "open_interest": 127.03,
+    "volume_24h": 9598.534519078,
+    "date": 1757465909
+  },
+  {
+    "symbol": "C98-PERP",
+    "open_interest": 95.27,
+    "volume_24h": 6513.775424312,
+    "date": 1757465909
+  },
+  {
+    "symbol": "FUN-PERP",
+    "open_interest": 6.04,
+    "volume_24h": 4797.5153969816,
+    "date": 1757465909
+  },
+  {
+    "symbol": "1000CHEEMS-PERP",
+    "open_interest": 0.0,
+    "volume_24h": 114.50829948260818,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SOPH-PERP",
+    "open_interest": 42912.05,
+    "volume_24h": 54167.4163036092,
+    "date": 1757465909
+  },
+  {
+    "symbol": "TURBO-PERP",
+    "open_interest": 5762.58,
+    "volume_24h": 2116.996904351953,
+    "date": 1757465909
+  },
+  {
+    "symbol": "1000000BABYDOGE-PERP",
+    "open_interest": 4738.51,
+    "volume_24h": 5779.5227862156,
+    "date": 1757465909
+  },
+  {
+    "symbol": "SAROS-PERP",
+    "open_interest": 4536.82,
+    "volume_24h": 2074.980390906,
+    "date": 1757465909
+  },
+  {
+    "symbol": "MEW-PERP",
+    "open_interest": 1888.88,
+    "volume_24h": 88.87182208,
+    "date": 1757465909
+  },
+  {
+    "symbol": "QTUM-PERP",
+    "open_interest": 571.56,
+    "volume_24h": 2451.5442437113265,
+    "date": 1757465909
   }
 ]

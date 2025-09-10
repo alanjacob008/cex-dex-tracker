@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757531352,
+    "date": 1757535159,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6140,6 +6140,12 @@
   {
     "date": 1757524181,
     "symbol": "MYX-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1757535159,
+    "symbol": "SKY-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
   }

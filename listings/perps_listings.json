@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757506906,
+    "date": 1757510441,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6094,5 +6094,11 @@
     "symbol": "MEMEFIUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1757510441,
+    "symbol": "STREAMERUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

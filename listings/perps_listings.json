@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757499115,
+    "date": 1757502553,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6022,5 +6022,17 @@
     "symbol": "POP_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1757502553,
+    "symbol": "AVNT-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1757502553,
+    "symbol": "NEIROETHUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
   }
 ]

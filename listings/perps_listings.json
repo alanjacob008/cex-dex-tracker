@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757520846,
+    "date": 1757524181,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6124,5 +6124,23 @@
     "symbol": "FI_XBTUSD_251226",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1757524181,
+    "symbol": "POLYFACTSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757524181,
+    "symbol": "LINEA-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1757524181,
+    "symbol": "MYX-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
   }
 ]

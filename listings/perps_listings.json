@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757502553,
+    "date": 1757506906,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6033,6 +6033,66 @@
     "date": 1757502553,
     "symbol": "NEIROETHUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "MNDE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "AIC1USDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "COLLATUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "1000WHYUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "BOMBUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "BOOPUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "ABUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "SAROSUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "SOLAMIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757506906,
+    "symbol": "MEMEFIUSDT",
+    "name": "LBank (Futures)",
     "action": "delisted"
   }
 ]

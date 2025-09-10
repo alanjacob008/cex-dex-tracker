@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757517103,
+    "date": 1757520846,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6100,5 +6100,29 @@
     "symbol": "STREAMERUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1757520846,
+    "symbol": "LINEAUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757520846,
+    "symbol": "LINEAUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1757520846,
+    "symbol": "LINEA_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757520846,
+    "symbol": "FI_XBTUSD_251226",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

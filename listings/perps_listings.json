@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757495539,
+    "date": 1757499115,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6015,6 +6015,12 @@
     "date": 1757495539,
     "symbol": "IRYNAUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757499115,
+    "symbol": "POP_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

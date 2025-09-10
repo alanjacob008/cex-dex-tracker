@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757485058,
+    "date": 1757488312,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -5992,5 +5992,17 @@
     "symbol": "XYO-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1757488312,
+    "symbol": "AVNTUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757488312,
+    "symbol": "PF_HAEDALUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

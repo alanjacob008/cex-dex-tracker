@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757585517,
+    "date": 1757588976,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6177,6 +6177,24 @@
     "date": 1757581921,
     "symbol": "RAIN_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757588976,
+    "symbol": "HOLO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757588976,
+    "symbol": "HOLOUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757588976,
+    "symbol": "LAYER-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

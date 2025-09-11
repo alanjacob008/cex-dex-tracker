@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757571468,
+    "date": 1757574715,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6154,5 +6154,23 @@
     "symbol": "LINEA-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1757574715,
+    "symbol": "GAIA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757574715,
+    "symbol": "CESS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757574715,
+    "symbol": "WAN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

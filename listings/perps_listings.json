@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757599902,
+    "date": 1757603486,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6266,6 +6266,18 @@
   {
     "date": 1757599902,
     "symbol": "MSFTSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757603486,
+    "symbol": "HOLO-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1757603486,
+    "symbol": "PINGPONG_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
   }

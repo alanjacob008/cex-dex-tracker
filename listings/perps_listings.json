@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757593299,
+    "date": 1757596655,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6219,6 +6219,24 @@
     "date": 1757593299,
     "symbol": "MINA-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1757596655,
+    "symbol": "HOLOUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757596655,
+    "symbol": "HOLOUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757596655,
+    "symbol": "HOLOUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

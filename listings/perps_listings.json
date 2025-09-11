@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757596655,
+    "date": 1757599902,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6237,6 +6237,36 @@
     "date": 1757596655,
     "symbol": "HOLOUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1757599902,
+    "symbol": "NFLXSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757599902,
+    "symbol": "MSTRSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757599902,
+    "symbol": "AVGOSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757599902,
+    "symbol": "PLTRSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757599902,
+    "symbol": "MSFTSTOCK_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

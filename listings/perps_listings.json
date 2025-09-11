@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757588976,
+    "date": 1757593299,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6194,6 +6194,30 @@
   {
     "date": 1757588976,
     "symbol": "LAYER-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1757593299,
+    "symbol": "HOLO_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757593299,
+    "symbol": "OKBUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757593299,
+    "symbol": "SKY-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757593299,
+    "symbol": "MINA-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757607239,
+    "date": 1757610552,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6279,6 +6279,12 @@
     "date": 1757603486,
     "symbol": "PINGPONG_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757610552,
+    "symbol": "PF_XAUTUSD",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

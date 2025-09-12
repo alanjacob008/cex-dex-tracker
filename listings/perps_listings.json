@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757707930,
+    "date": 1757711374,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6567,6 +6567,12 @@
     "date": 1757707930,
     "symbol": "FF_XBTUSD_250919",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757711374,
+    "symbol": "CGLD-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

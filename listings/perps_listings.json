@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757657827,
+    "date": 1757661068,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6292,5 +6292,47 @@
     "symbol": "LBK2USDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1757661068,
+    "symbol": "VRA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757661068,
+    "symbol": "ALTCOIN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757661068,
+    "symbol": "MEMEFI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757661068,
+    "symbol": "BOOP_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757661068,
+    "symbol": "KBBB_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757661068,
+    "symbol": "DEAI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757661068,
+    "symbol": "CSKY_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

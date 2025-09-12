@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757661068,
+    "date": 1757664916,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6333,6 +6333,72 @@
     "date": 1757661068,
     "symbol": "CSKY_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "XPIN_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "UB_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "PROMPT-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "ZKWASM_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "MBL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "DARK_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "BTT_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "MAT_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "SEND_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "SUPRA_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757664916,
+    "symbol": "FB_USDT",
+    "name": "Gate (Futures)",
     "action": "delisted"
   }
 ]

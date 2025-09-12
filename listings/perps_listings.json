@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757675351,
+    "date": 1757679708,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6489,6 +6489,54 @@
     "date": 1757675351,
     "symbol": "UBUSDT",
     "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757679708,
+    "symbol": "AA_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757679708,
+    "symbol": "QUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757679708,
+    "symbol": "XPINUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757679708,
+    "symbol": "SOLUSDT-03OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757679708,
+    "symbol": "AA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757679708,
+    "symbol": "UBUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1757679708,
+    "symbol": "XPINUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757679708,
+    "symbol": "LINEA-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757664916,
+    "date": 1757668310,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6399,6 +6399,72 @@
     "date": 1757664916,
     "symbol": "FB_USDT",
     "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "XPINUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "UB_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "BTCUSDH26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "ETHUSDH26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "ETH-USDT-260327",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "BTC-USDT-251128",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "ETH-USD-251128",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "BTC-USD-251128",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "XPINUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "UBUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757668310,
+    "symbol": "BUNKERUSDT",
+    "name": "LBank (Futures)",
     "action": "delisted"
   }
 ]

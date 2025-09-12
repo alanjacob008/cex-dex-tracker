@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757704119,
+    "date": 1757707930,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6561,6 +6561,12 @@
     "date": 1757700861,
     "symbol": "KSL2GUSDPERP",
     "name": "Gemini Derivatives",
+    "action": "listed"
+  },
+  {
+    "date": 1757707930,
+    "symbol": "FF_XBTUSD_250919",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757772518,
+    "date": 1757776150,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6663,6 +6663,12 @@
     "date": 1757761702,
     "symbol": "EXOUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757776150,
+    "symbol": "EXO_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757747372,
+    "date": 1757751191,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6574,5 +6574,77 @@
     "symbol": "CGLD-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "SKATE-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "BROCCOLI-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "THE-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "ACT-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "ICNT-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "MKR-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "NEIROETH-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "WAXP-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "DGB-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "ALCH-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "ZEREBRO-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1757751191,
+    "symbol": "DOG-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757887792,
+    "date": 1757891382,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6705,6 +6705,12 @@
     "date": 1757862572,
     "symbol": "ALT-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1757891382,
+    "symbol": "FF_ETHUSD_250919",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

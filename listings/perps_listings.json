@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757945531,
+    "date": 1757949186,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6742,5 +6742,41 @@
     "symbol": "PF_GLMUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1757949186,
+    "symbol": "ZKCUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757949186,
+    "symbol": "ZKC_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757949186,
+    "symbol": "ZKCUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757949186,
+    "symbol": "ZKC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757949186,
+    "symbol": "ZKCUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1757949186,
+    "symbol": "ZKCUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

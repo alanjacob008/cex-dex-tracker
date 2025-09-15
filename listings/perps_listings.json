@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757920348,
+    "date": 1757924190,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6728,6 +6728,12 @@
   {
     "date": 1757920348,
     "symbol": "KINDUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1757924190,
+    "symbol": "OPENXUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
   }

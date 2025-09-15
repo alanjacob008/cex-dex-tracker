@@ -1,6 +1,6 @@
 [
   {
-    "date": 1757934611,
+    "date": 1757938958,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6736,5 +6736,11 @@
     "symbol": "OPENXUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1757938958,
+    "symbol": "PF_GLMUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

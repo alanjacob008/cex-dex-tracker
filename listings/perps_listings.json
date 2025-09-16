@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758020968,
+    "date": 1758025333,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6813,6 +6813,18 @@
     "date": 1758017530,
     "symbol": "PENDLEPERP",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758025333,
+    "symbol": "PORTALS_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758025333,
+    "symbol": "VLR_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758006749,
+    "date": 1758010574,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6777,6 +6777,12 @@
     "date": 1757949186,
     "symbol": "ZKCUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758010574,
+    "symbol": "ZKC-USDT",
+    "name": "HTX Futures",
     "action": "listed"
   }
 ]

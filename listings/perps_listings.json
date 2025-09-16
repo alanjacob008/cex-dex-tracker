@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758013969,
+    "date": 1758017530,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6790,5 +6790,29 @@
     "symbol": "BSWUSDT",
     "name": "Binance (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758017530,
+    "symbol": "WLFIPERP",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758017530,
+    "symbol": "ICNTPERP",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758017530,
+    "symbol": "HPERP",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758017530,
+    "symbol": "PENDLEPERP",
+    "name": "Bybit (Futures)",
+    "action": "listed"
   }
 ]

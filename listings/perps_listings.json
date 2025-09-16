@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758039267,
+    "date": 1758042596,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6843,6 +6843,12 @@
     "date": 1758039267,
     "symbol": "STBL_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758042596,
+    "symbol": "STBLUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758125675,
+    "date": 1758128963,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6994,5 +6994,23 @@
     "symbol": "0G_USDT",
     "name": "Gate (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1758128963,
+    "symbol": "0G_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758128963,
+    "symbol": "ZORA-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1758128963,
+    "symbol": "PF_SPELLUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758089867,
+    "date": 1758093093,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6892,5 +6892,23 @@
     "symbol": "TOSHIUSDTM",
     "name": "KuCoin Futures",
     "action": "listed"
+  },
+  {
+    "date": 1758093093,
+    "symbol": "BAL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758093093,
+    "symbol": "RDO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758093093,
+    "symbol": "SWFTC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

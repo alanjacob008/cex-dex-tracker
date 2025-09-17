@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758082463,
+    "date": 1758085902,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6855,6 +6855,12 @@
     "date": 1758082463,
     "symbol": "STBL_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758085902,
+    "symbol": "TOSHIUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

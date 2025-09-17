@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758096936,
+    "date": 1758100355,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6928,5 +6928,11 @@
     "symbol": "OMNI_USDT",
     "name": "Gate (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758100355,
+    "symbol": "AVNT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
   }
 ]

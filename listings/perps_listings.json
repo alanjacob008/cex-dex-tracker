@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758121973,
+    "date": 1758125675,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6982,5 +6982,17 @@
     "symbol": "PF_SSVUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758125675,
+    "symbol": "0GUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758125675,
+    "symbol": "0G_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
   }
 ]

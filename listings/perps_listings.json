@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758085902,
+    "date": 1758089867,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6861,6 +6861,36 @@
     "date": 1758085902,
     "symbol": "TOSHIUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758089867,
+    "symbol": "TOSHIUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758089867,
+    "symbol": "STBLUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758089867,
+    "symbol": "SKY-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758089867,
+    "symbol": "STBLUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758089867,
+    "symbol": "TOSHIUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

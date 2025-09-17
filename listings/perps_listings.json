@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758093093,
+    "date": 1758096936,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -6909,6 +6909,24 @@
     "date": 1758093093,
     "symbol": "SWFTC_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758096936,
+    "symbol": "PENDLE-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758096936,
+    "symbol": "ENA-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758096936,
+    "symbol": "OMNI_USDT",
+    "name": "Gate (Futures)",
     "action": "delisted"
   }
 ]

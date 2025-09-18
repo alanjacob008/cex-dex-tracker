@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758198101,
+    "date": 1758201685,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7192,5 +7192,11 @@
     "symbol": "MOREUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758201685,
+    "symbol": "BARD-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

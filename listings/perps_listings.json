@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758183320,
+    "date": 1758186742,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7072,5 +7072,35 @@
     "symbol": "AZERO_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758186742,
+    "symbol": "AIAUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758186742,
+    "symbol": "AIA_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758186742,
+    "symbol": "AIA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758186742,
+    "symbol": "AIAUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758186742,
+    "symbol": "AIAUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

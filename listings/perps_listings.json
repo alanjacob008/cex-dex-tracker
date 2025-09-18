@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758172270,
+    "date": 1758176258,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7036,5 +7036,11 @@
     "symbol": "PF_XVGUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758176258,
+    "symbol": "JOBLESSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

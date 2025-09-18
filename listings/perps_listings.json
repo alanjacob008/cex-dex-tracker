@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758215429,
+    "date": 1758219433,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7215,6 +7215,24 @@
     "date": 1758204731,
     "symbol": "STBL-USDT",
     "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758219433,
+    "symbol": "XBTMZ25",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758219433,
+    "symbol": "PF_CTCUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758219433,
+    "symbol": "FI_ETHUSD_260327",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

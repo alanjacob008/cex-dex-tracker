@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758190330,
+    "date": 1758193754,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7112,6 +7112,24 @@
   {
     "date": 1758190330,
     "symbol": "SKY-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1758193754,
+    "symbol": "AIAUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758193754,
+    "symbol": "WLFI-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1758193754,
+    "symbol": "CRO-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }

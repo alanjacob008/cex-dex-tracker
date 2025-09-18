@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758176258,
+    "date": 1758179497,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7042,5 +7042,35 @@
     "symbol": "JOBLESSUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1758179497,
+    "symbol": "PF_PIPPINUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758179497,
+    "symbol": "PFVS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758179497,
+    "symbol": "BLUM_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758179497,
+    "symbol": "MORE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758179497,
+    "symbol": "AZERO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

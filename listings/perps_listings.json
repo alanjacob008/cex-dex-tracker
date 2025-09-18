@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758193754,
+    "date": 1758198101,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7132,5 +7132,65 @@
     "symbol": "CRO-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "BARDUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "BARD_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "BARDUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "BARD_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "BARDUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "BARDUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "UUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "BLUMUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "ZKWASMUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758198101,
+    "symbol": "MOREUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

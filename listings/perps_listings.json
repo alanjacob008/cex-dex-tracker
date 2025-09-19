@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758273180,
+    "date": 1758276782,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7306,5 +7306,23 @@
     "symbol": "BTC-USDT-251003",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1758276782,
+    "symbol": "AIA-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758276782,
+    "symbol": "DAMUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758276782,
+    "symbol": "MKR-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

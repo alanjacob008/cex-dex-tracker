@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758280175,
+    "date": 1758284549,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7329,6 +7329,18 @@
     "date": 1758280175,
     "symbol": "ASTER-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758284549,
+    "symbol": "DL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758284549,
+    "symbol": "ASTERUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

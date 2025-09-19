@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758269727,
+    "date": 1758273180,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7264,5 +7264,47 @@
     "symbol": "LUNC-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758273180,
+    "symbol": "SOLUSDT-10OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758273180,
+    "symbol": "BTCUSDT-10OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758273180,
+    "symbol": "ETHUSDT-10OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758273180,
+    "symbol": "ETH-USDT-251003",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758273180,
+    "symbol": "BTC-USD-251003",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758273180,
+    "symbol": "ETH-USD-251003",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758273180,
+    "symbol": "BTC-USDT-251003",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

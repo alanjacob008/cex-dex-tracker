@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758265946,
+    "date": 1758269727,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7252,5 +7252,17 @@
     "symbol": "1COINUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1758269727,
+    "symbol": "USTC-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758269727,
+    "symbol": "LUNC-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
   }
 ]

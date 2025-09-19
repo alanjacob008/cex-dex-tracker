@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758252493,
+    "date": 1758255238,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7240,5 +7240,17 @@
     "symbol": "HYPER-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1758255238,
+    "symbol": "ASTER_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758255238,
+    "symbol": "1COINUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

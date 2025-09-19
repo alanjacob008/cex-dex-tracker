@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758284549,
+    "date": 1758288068,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7340,6 +7340,54 @@
   {
     "date": 1758284549,
     "symbol": "ASTERUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758288068,
+    "symbol": "ASTERUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758288068,
+    "symbol": "TRADOORUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758288068,
+    "symbol": "TRADOOR_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758288068,
+    "symbol": "ASTER_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758288068,
+    "symbol": "JOJO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758288068,
+    "symbol": "ASTERUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758288068,
+    "symbol": "TRADOORUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758288068,
+    "symbol": "DORAUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
   }

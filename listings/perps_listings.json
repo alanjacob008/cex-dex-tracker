@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758392032,
+    "date": 1758395258,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7467,6 +7467,12 @@
     "date": 1758384736,
     "symbol": "DUCK-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758395258,
+    "symbol": "PF_REZUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

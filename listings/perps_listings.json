@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758356021,
+    "date": 1758359468,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7449,6 +7449,12 @@
     "date": 1758356021,
     "symbol": "ASP-USDT",
     "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1758359468,
+    "symbol": "SLFUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

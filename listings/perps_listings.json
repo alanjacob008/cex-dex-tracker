@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758338498,
+    "date": 1758341607,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7400,6 +7400,12 @@
   {
     "date": 1758312744,
     "symbol": "SYND_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758341607,
+    "symbol": "AOP_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
   }

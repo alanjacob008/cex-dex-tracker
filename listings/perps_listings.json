@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758438585,
+    "date": 1758442377,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7480,5 +7480,11 @@
     "symbol": "INJGUSDPERP",
     "name": "Gemini Derivatives",
     "action": "delisted"
+  },
+  {
+    "date": 1758442377,
+    "symbol": "AVNT-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

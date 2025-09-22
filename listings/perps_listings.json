@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758529021,
+    "date": 1758532468,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7515,6 +7515,36 @@
     "date": 1758517928,
     "symbol": "ASTER-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758532468,
+    "symbol": "GIGGLE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758532468,
+    "symbol": "NUMI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758532468,
+    "symbol": "RIVER_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758532468,
+    "symbol": "GIGGLEUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758532468,
+    "symbol": "ASTER-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

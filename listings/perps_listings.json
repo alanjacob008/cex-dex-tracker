@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758514468,
+    "date": 1758517928,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7509,6 +7509,12 @@
     "date": 1758514468,
     "symbol": "STBL-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758517928,
+    "symbol": "ASTER-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

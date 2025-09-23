@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758633733,
+    "date": 1758636720,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7653,6 +7653,12 @@
     "date": 1758633733,
     "symbol": "RSC_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758636720,
+    "symbol": "HEMIUSDT",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

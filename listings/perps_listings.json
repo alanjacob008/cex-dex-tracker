@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758611541,
+    "date": 1758615337,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7594,5 +7594,11 @@
     "symbol": "AVNT-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1758615337,
+    "symbol": "OMNIUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
   }
 ]

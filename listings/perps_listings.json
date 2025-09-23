@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758630148,
+    "date": 1758633733,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7647,6 +7647,12 @@
     "date": 1758630148,
     "symbol": "FLOCK_USDC_PERP",
     "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758633733,
+    "symbol": "RSC_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

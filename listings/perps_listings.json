@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758712186,
+    "date": 1758716569,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7792,5 +7792,59 @@
     "symbol": "FLUIDUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "FLUIDUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "FLUIDUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "PF_0GUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "UXLINKUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "MICHIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "BRICUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "STONKSUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "DUPEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758716569,
+    "symbol": "IKUNUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

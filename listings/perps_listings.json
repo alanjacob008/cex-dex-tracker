@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758744769,
+    "date": 1758748210,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7863,6 +7863,12 @@
     "date": 1758737795,
     "symbol": "BCHUSD_250926",
     "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758748210,
+    "symbol": "MELANIA-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758716569,
+    "date": 1758720149,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7846,5 +7846,11 @@
     "symbol": "IKUNUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758720149,
+    "symbol": "GAIN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

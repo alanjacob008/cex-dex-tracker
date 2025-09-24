@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758697930,
+    "date": 1758701769,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7713,6 +7713,36 @@
     "date": 1758697930,
     "symbol": "TAKER_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758701769,
+    "symbol": "HEMI-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758701769,
+    "symbol": "AERO_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758701769,
+    "symbol": "PENDLE_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758701769,
+    "symbol": "0G_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758701769,
+    "symbol": "OMNI-USDT",
+    "name": "HTX Futures",
     "action": "delisted"
   }
 ]

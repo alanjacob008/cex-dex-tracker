@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758751831,
+    "date": 1758755427,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7870,5 +7870,11 @@
     "symbol": "MELANIA-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1758755427,
+    "symbol": "KRL-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

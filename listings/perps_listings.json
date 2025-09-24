@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758701769,
+    "date": 1758705163,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7743,6 +7743,30 @@
     "date": 1758701769,
     "symbol": "OMNI-USDT",
     "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1758705163,
+    "symbol": "FLUID_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758705163,
+    "symbol": "BLESS-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758705163,
+    "symbol": "ALPHAUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758705163,
+    "symbol": "UXLINK_USDT",
+    "name": "Gate (Futures)",
     "action": "delisted"
   }
 ]

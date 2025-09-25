@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758788165,
+    "date": 1758791559,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7936,5 +7936,11 @@
     "symbol": "COAIUSDTM",
     "name": "KuCoin Futures",
     "action": "listed"
+  },
+  {
+    "date": 1758791559,
+    "symbol": "OMNIUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
   }
 ]

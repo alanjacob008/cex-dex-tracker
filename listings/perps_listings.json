@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758803029,
+    "date": 1758806614,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7954,5 +7954,17 @@
     "symbol": "UXLINKUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758806614,
+    "symbol": "COAIUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758806614,
+    "symbol": "PNKSTRUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

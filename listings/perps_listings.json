@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758791559,
+    "date": 1758795159,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7941,6 +7941,12 @@
     "date": 1758791559,
     "symbol": "OMNIUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758795159,
+    "symbol": "GOAT-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758781081,
+    "date": 1758784345,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -7888,5 +7888,29 @@
     "symbol": "ONT-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1758784345,
+    "symbol": "RAI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758784345,
+    "symbol": "PHY_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758784345,
+    "symbol": "DUPE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758784345,
+    "symbol": "FARTBOY_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

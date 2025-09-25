@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758820220,
+    "date": 1758824254,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8013,6 +8013,12 @@
     "date": 1758813168,
     "symbol": "XPL-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1758824254,
+    "symbol": "XPL-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

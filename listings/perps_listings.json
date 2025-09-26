@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758899553,
+    "date": 1758903247,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8409,6 +8409,12 @@
     "date": 1758899553,
     "symbol": "RLUSDUSDT",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758903247,
+    "symbol": "PF_STBLUSD",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758881538,
+    "date": 1758884995,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8295,6 +8295,12 @@
     "date": 1758881538,
     "symbol": "PF_ASTERUSD",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758884995,
+    "symbol": "AKE_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

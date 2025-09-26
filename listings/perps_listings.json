@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758877974,
+    "date": 1758881538,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8260,5 +8260,41 @@
     "symbol": "PF_OMNIUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1758881538,
+    "symbol": "ETHUSDT-17OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758881538,
+    "symbol": "H_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758881538,
+    "symbol": "ICNT_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758881538,
+    "symbol": "PENDLE_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758881538,
+    "symbol": "PINGPONGUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758881538,
+    "symbol": "PF_ASTERUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

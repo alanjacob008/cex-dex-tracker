@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758870724,
+    "date": 1758874582,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8037,6 +8037,150 @@
     "date": 1758870724,
     "symbol": "OMNI_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "CYCUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "XRPUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "DOTUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "ADAUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "BTCUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "LTCUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "LINKUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "BNBUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "SOLUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "ETHUSD_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "ETHUSDU25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "BTCUSDU25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "ETHUSDT-26SEP25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "BTCUSDT-26SEP25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "BTC-26SEP25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "ETH-26SEP25",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "FF_ETHUSD_250926",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "FF_XBTUSD_250926",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "FF_SOLUSD_250926",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "XBTMU25",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "ETH-USDT-250926",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "ETH-USD-250926",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "BTC-USD-250926",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758874582,
+    "symbol": "BTC-USDT-250926",
+    "name": "OKX (Futures)",
     "action": "delisted"
   }
 ]

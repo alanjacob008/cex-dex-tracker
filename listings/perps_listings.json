@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758910496,
+    "date": 1758913726,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8427,6 +8427,18 @@
     "date": 1758906611,
     "symbol": "FF_SOLUSD_251031",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758913726,
+    "symbol": "PF_XPLUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758913726,
+    "symbol": "XPL-PERP",
+    "name": "Drift Protocol",
     "action": "listed"
   }
 ]

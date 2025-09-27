@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758956978,
+    "date": 1758960797,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8451,6 +8451,84 @@
     "date": 1758956978,
     "symbol": "UXLINK_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "BTCUSDT_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "ETHUSDT_250926",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "REQ_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "RFC_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "WEN_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "AMP_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "ARC-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "ORBS-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "MAJOR-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "VINE-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "GRIFFAIN-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "SWARMS-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758960797,
+    "symbol": "GODS-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "delisted"
   }
 ]

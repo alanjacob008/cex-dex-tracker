@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758992926,
+    "date": 1758996860,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8649,6 +8649,12 @@
     "date": 1758989519,
     "symbol": "BICO-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1758996860,
+    "symbol": "PF_SOONUSD",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

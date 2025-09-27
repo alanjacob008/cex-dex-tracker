@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758953703,
+    "date": 1758956978,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8440,5 +8440,17 @@
     "symbol": "XPL-PERP",
     "name": "Drift Protocol",
     "action": "listed"
+  },
+  {
+    "date": 1758956978,
+    "symbol": "APEX-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758956978,
+    "symbol": "UXLINK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

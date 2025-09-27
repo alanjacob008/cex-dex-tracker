@@ -1,6 +1,6 @@
 [
   {
-    "date": 1758971304,
+    "date": 1758975555,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8571,6 +8571,60 @@
     "date": 1758967854,
     "symbol": "NEIROETH-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "LIGHTUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "LIGHT_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "LIGHT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "LIGHTUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "RSS3USDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "PRAIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "WENUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "OMNIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1758975555,
+    "symbol": "RFCUSDT",
+    "name": "LBank (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759040146,
+    "date": 1759043400,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8674,5 +8674,11 @@
     "symbol": "TRILLIONS_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759043400,
+    "symbol": "UXLINK-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
   }
 ]

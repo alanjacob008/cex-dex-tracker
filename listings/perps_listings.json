@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759062016,
+    "date": 1759065379,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8710,5 +8710,17 @@
     "symbol": "ALTSOLUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1759065379,
+    "symbol": "TRILLIONSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759065379,
+    "symbol": "PF_MYXUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

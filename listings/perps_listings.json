@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759086504,
+    "date": 1759090302,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8727,6 +8727,12 @@
     "date": 1759072177,
     "symbol": "PF_SXTUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759090302,
+    "symbol": "PYTH-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

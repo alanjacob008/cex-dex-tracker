@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759057712,
+    "date": 1759062016,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8698,5 +8698,17 @@
     "symbol": "APEXUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759062016,
+    "symbol": "NEIROETHUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759062016,
+    "symbol": "ALTSOLUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

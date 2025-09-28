@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759068515,
+    "date": 1759072177,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8722,5 +8722,11 @@
     "symbol": "PF_MYXUSD",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759072177,
+    "symbol": "PF_SXTUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759152236,
+    "date": 1759155143,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8829,6 +8829,24 @@
     "date": 1759152236,
     "symbol": "FFUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759155143,
+    "symbol": "FFUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759155143,
+    "symbol": "FF_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759155143,
+    "symbol": "FFUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

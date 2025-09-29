@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759144232,
+    "date": 1759148592,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8793,6 +8793,30 @@
     "date": 1759144232,
     "symbol": "APEX-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759148592,
+    "symbol": "XANUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759148592,
+    "symbol": "XANUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759148592,
+    "symbol": "XANUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759148592,
+    "symbol": "APEX_USDC_PERP",
+    "name": "Backpack (Futures)",
     "action": "listed"
   }
 ]

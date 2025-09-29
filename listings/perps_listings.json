@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759129963,
+    "date": 1759133854,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8738,6 +8738,24 @@
   {
     "date": 1759101016,
     "symbol": "PF_SHELLUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759133854,
+    "symbol": "FI_ETHUSD_251031",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759133854,
+    "symbol": "SLERF_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759133854,
+    "symbol": "PF_ANKRUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
   }

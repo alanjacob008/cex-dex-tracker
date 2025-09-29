@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759140831,
+    "date": 1759144232,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8775,6 +8775,24 @@
     "date": 1759140831,
     "symbol": "XAN_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759144232,
+    "symbol": "XAN_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759144232,
+    "symbol": "ORDER-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1759144232,
+    "symbol": "APEX-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

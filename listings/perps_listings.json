@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759133854,
+    "date": 1759137251,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8756,6 +8756,18 @@
   {
     "date": 1759133854,
     "symbol": "PF_ANKRUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759137251,
+    "symbol": "MIRA-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759137251,
+    "symbol": "PF_QTUMUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
   }

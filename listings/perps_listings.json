@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759162341,
+    "date": 1759165876,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8872,5 +8872,11 @@
     "symbol": "EDGE-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1759165876,
+    "symbol": "XAN-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759227144,
+    "date": 1759230635,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8913,6 +8913,12 @@
     "date": 1759227144,
     "symbol": "EDEN_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759230635,
+    "symbol": "EDENUSDT",
+    "name": "Binance (Futures)",
     "action": "listed"
   }
 ]

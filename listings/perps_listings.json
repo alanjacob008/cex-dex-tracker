@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759245019,
+    "date": 1759248887,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9003,6 +9003,12 @@
     "date": 1759238627,
     "symbol": "EDEN-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759248887,
+    "symbol": "ORDER-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

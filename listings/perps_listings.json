@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759235030,
+    "date": 1759238627,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8972,6 +8972,36 @@
   {
     "date": 1759235030,
     "symbol": "FF-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759238627,
+    "symbol": "VFYUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759238627,
+    "symbol": "XAN-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759238627,
+    "symbol": "EDEN-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759238627,
+    "symbol": "VFYUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759238627,
+    "symbol": "EDEN-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
   }

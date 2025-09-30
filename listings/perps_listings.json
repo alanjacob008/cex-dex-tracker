@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759193657,
+    "date": 1759198597,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8884,5 +8884,11 @@
     "symbol": "GOONER-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1759198597,
+    "symbol": "PF_BICOUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759230635,
+    "date": 1759235030,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8919,6 +8919,60 @@
     "date": 1759230635,
     "symbol": "EDENUSDT",
     "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "VFYUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "VFY_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "EDEN_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "EDENUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "VFY_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "EDEN-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "EDENUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "EDENUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759235030,
+    "symbol": "FF-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759216362,
+    "date": 1759220192,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8889,6 +8889,24 @@
     "date": 1759198597,
     "symbol": "PF_BICOUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759220192,
+    "symbol": "ULTIUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759220192,
+    "symbol": "OMGUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759220192,
+    "symbol": "CATSUSDTM",
+    "name": "KuCoin Futures",
     "action": "delisted"
   }
 ]

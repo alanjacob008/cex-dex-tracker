@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759223555,
+    "date": 1759227144,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -8908,5 +8908,11 @@
     "symbol": "CATSUSDTM",
     "name": "KuCoin Futures",
     "action": "delisted"
+  },
+  {
+    "date": 1759227144,
+    "symbol": "EDEN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

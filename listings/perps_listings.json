@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759321432,
+    "date": 1759325033,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9063,6 +9063,18 @@
     "date": 1759321432,
     "symbol": "TRUTHUSDT",
     "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759325033,
+    "symbol": "TRUTH_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759325033,
+    "symbol": "TRUTHUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

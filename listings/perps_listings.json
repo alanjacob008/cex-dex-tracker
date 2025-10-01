@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759313553,
+    "date": 1759317061,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9051,6 +9051,12 @@
     "date": 1759310022,
     "symbol": "NOMUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759317061,
+    "symbol": "NOMUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

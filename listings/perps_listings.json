@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759325033,
+    "date": 1759327952,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9075,6 +9075,12 @@
     "date": 1759325033,
     "symbol": "TRUTHUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759327952,
+    "symbol": "TRUTH_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

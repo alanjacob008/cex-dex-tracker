@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759299454,
+    "date": 1759302732,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9010,5 +9010,17 @@
     "symbol": "ORDER-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759302732,
+    "symbol": "NOM_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759302732,
+    "symbol": "NEIROETH_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759302732,
+    "date": 1759306573,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9022,5 +9022,17 @@
     "symbol": "NEIROETH_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1759306573,
+    "symbol": "NOMUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759306573,
+    "symbol": "NOM_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
   }
 ]

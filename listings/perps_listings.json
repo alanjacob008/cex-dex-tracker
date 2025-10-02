@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759417923,
+    "date": 1759421629,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9207,6 +9207,12 @@
     "date": 1759417923,
     "symbol": "2Z_USDC_PERP",
     "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759421629,
+    "symbol": "2Z-PERP",
+    "name": "Drift Protocol",
     "action": "listed"
   }
 ]

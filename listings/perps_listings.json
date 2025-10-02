@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759411270,
+    "date": 1759414290,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9159,6 +9159,48 @@
     "date": 1759407700,
     "symbol": "2Z_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759414290,
+    "symbol": "2ZUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759414290,
+    "symbol": "2ZUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759414290,
+    "symbol": "ZEC-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759414290,
+    "symbol": "2Z-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759414290,
+    "symbol": "2Z-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759414290,
+    "symbol": "2ZUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759414290,
+    "symbol": "2ZUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759403380,
+    "date": 1759407700,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9147,6 +9147,18 @@
     "date": 1759403380,
     "symbol": "KMNO-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759407700,
+    "symbol": "2Z_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759407700,
+    "symbol": "2Z_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

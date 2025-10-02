@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759399891,
+    "date": 1759403380,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9112,5 +9112,41 @@
     "symbol": "BSWUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1759403380,
+    "symbol": "4_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759403380,
+    "symbol": "4USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759403380,
+    "symbol": "XPL-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759403380,
+    "symbol": "XAN-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759403380,
+    "symbol": "BARD-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759403380,
+    "symbol": "KMNO-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759428981,
+    "date": 1759432164,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9213,6 +9213,12 @@
     "date": 1759421629,
     "symbol": "2Z-PERP",
     "name": "Drift Protocol",
+    "action": "listed"
+  },
+  {
+    "date": 1759432164,
+    "symbol": "PF_ORDERUSD",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

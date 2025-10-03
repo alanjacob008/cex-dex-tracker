@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759464817,
+    "date": 1759468279,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9250,5 +9250,11 @@
     "symbol": "LINKGUSDPERP",
     "name": "Gemini Derivatives",
     "action": "delisted"
+  },
+  {
+    "date": 1759468279,
+    "symbol": "CLASH_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

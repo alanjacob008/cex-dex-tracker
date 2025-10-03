@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759515370,
+    "date": 1759518540,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9376,5 +9376,11 @@
     "symbol": "FF_ETHUSD_251010",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759518540,
+    "symbol": "AI16Z-PERP",
+    "name": "Drift Protocol",
+    "action": "delisted"
   }
 ]

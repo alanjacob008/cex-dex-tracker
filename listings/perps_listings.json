@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759475481,
+    "date": 1759479302,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9262,5 +9262,11 @@
     "symbol": "4_USDT",
     "name": "Gate (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759479302,
+    "symbol": "IO-PERP",
+    "name": "Drift Protocol",
+    "action": "delisted"
   }
 ]

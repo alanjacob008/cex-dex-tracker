@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759486332,
+    "date": 1759489786,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9321,6 +9321,18 @@
     "date": 1759486332,
     "symbol": "EVAA_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759489786,
+    "symbol": "EVAA_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759489786,
+    "symbol": "EVAAUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

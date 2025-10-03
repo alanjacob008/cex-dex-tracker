@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759504299,
+    "date": 1759508009,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9358,5 +9358,11 @@
     "symbol": "PF_MAGICUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1759508009,
+    "symbol": "2Z-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

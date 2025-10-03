@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759482712,
+    "date": 1759486332,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9310,5 +9310,17 @@
     "symbol": "SLERFUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1759486332,
+    "symbol": "SOLUSDT-24OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759486332,
+    "symbol": "EVAA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

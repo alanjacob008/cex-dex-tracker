@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759479302,
+    "date": 1759482712,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9267,6 +9267,48 @@
     "date": 1759479302,
     "symbol": "IO-PERP",
     "name": "Drift Protocol",
+    "action": "delisted"
+  },
+  {
+    "date": 1759482712,
+    "symbol": "ETHUSDT-24OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759482712,
+    "symbol": "BTCUSDT-24OCT25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759482712,
+    "symbol": "BTC-USDT-251017",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759482712,
+    "symbol": "BTC-USD-251017",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759482712,
+    "symbol": "ETH-USD-251017",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759482712,
+    "symbol": "ETH-USDT-251017",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759482712,
+    "symbol": "SLERFUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

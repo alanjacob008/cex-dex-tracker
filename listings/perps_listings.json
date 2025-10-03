@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759508009,
+    "date": 1759511395,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9363,6 +9363,18 @@
     "date": 1759508009,
     "symbol": "2Z-USDT",
     "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759511395,
+    "symbol": "FF_XBTUSD_251010",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759511395,
+    "symbol": "FF_ETHUSD_251010",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

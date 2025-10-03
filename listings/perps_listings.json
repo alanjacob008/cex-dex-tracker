@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759446600,
+    "date": 1759452749,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9232,5 +9232,23 @@
     "symbol": "2Z-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1759452749,
+    "symbol": "PF_PROMPTUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759452749,
+    "symbol": "2Z-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1759452749,
+    "symbol": "LINKGUSDPERP",
+    "name": "Gemini Derivatives",
+    "action": "delisted"
   }
 ]

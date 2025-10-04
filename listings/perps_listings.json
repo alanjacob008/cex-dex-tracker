@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759576095,
+    "date": 1759580373,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9454,5 +9454,11 @@
     "symbol": "HIFIUSDT",
     "name": "Binance (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1759580373,
+    "symbol": "EVAAUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

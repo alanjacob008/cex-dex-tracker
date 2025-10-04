@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759561779,
+    "date": 1759565585,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9393,6 +9393,54 @@
     "date": 1759561779,
     "symbol": "HOUSE_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759565585,
+    "symbol": "SKYAI-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759565585,
+    "symbol": "XTZ-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759565585,
+    "symbol": "RVN-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759565585,
+    "symbol": "HAEDAL-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759565585,
+    "symbol": "WCT-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759565585,
+    "symbol": "BAKEUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759565585,
+    "symbol": "HIFIUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1759565585,
+    "symbol": "SLERFUSDTM",
+    "name": "KuCoin Futures",
     "action": "delisted"
   }
 ]

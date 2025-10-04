@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759580373,
+    "date": 1759583725,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9460,5 +9460,11 @@
     "symbol": "EVAAUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759583725,
+    "symbol": "PF_BIGTIMEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

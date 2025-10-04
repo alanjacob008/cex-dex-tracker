@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759558510,
+    "date": 1759561779,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9381,6 +9381,18 @@
     "date": 1759518540,
     "symbol": "AI16Z-PERP",
     "name": "Drift Protocol",
+    "action": "delisted"
+  },
+  {
+    "date": 1759561779,
+    "symbol": "PF_ZEUSUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759561779,
+    "symbol": "HOUSE_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

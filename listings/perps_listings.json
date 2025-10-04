@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759597713,
+    "date": 1759601670,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9465,6 +9465,12 @@
     "date": 1759583725,
     "symbol": "PF_BIGTIMEUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759601670,
+    "symbol": "MOODENG-PERP",
+    "name": "Drift Protocol",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759749006,
+    "date": 1759753394,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9616,5 +9616,35 @@
     "symbol": "MNT_USDC_PERP",
     "name": "Backpack (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759753394,
+    "symbol": "HIFIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759753394,
+    "symbol": "PALUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759753394,
+    "symbol": "HOSICOUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759753394,
+    "symbol": "BAKEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759753394,
+    "symbol": "TROLLUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

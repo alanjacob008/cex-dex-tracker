@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759843420,
+    "date": 1759846361,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9814,5 +9814,23 @@
     "symbol": "LEVER_USDT",
     "name": "Gate (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1759846361,
+    "symbol": "KGEN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759846361,
+    "symbol": "KGENUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759846361,
+    "symbol": "BIANRENSHENGUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

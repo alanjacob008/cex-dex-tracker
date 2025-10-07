@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759824987,
+    "date": 1759828371,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9741,6 +9741,30 @@
     "date": 1759824987,
     "symbol": "PF_KNCUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759828371,
+    "symbol": "SPECUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759828371,
+    "symbol": "MYRIAUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759828371,
+    "symbol": "ATAUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759828371,
+    "symbol": "10000LADYSUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759810462,
+    "date": 1759813898,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9646,5 +9646,17 @@
     "symbol": "TROLLUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1759813898,
+    "symbol": "BIANRENSHENG_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759813898,
+    "symbol": "LYNUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

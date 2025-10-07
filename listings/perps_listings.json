@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759849960,
+    "date": 1759853661,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9849,6 +9849,12 @@
     "date": 1759849960,
     "symbol": "KGENUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1759853661,
+    "symbol": "KGENUSDT",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

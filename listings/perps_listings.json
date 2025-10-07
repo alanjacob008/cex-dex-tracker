@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759846361,
+    "date": 1759849960,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9831,6 +9831,24 @@
     "date": 1759846361,
     "symbol": "BIANRENSHENGUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759849960,
+    "symbol": "KGENUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759849960,
+    "symbol": "KGEN_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759849960,
+    "symbol": "KGENUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

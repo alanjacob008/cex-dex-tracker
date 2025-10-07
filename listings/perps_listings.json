@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759839797,
+    "date": 1759843420,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9807,6 +9807,12 @@
     "date": 1759835412,
     "symbol": "BAKEUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759843420,
+    "symbol": "LEVER_USDT",
+    "name": "Gate (Futures)",
     "action": "delisted"
   }
 ]

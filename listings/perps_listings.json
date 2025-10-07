@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759828371,
+    "date": 1759831944,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9764,6 +9764,36 @@
   {
     "date": 1759828371,
     "symbol": "10000LADYSUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759831944,
+    "symbol": "W_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759831944,
+    "symbol": "10000COQUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759831944,
+    "symbol": "PRIMEUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759831944,
+    "symbol": "XEMUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759831944,
+    "symbol": "QIUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
   }

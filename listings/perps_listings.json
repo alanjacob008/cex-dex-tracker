@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759914782,
+    "date": 1759918349,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -9969,6 +9969,36 @@
     "date": 1759911399,
     "symbol": "BAL_USDT",
     "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1759918349,
+    "symbol": "PF_PTBUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759918349,
+    "symbol": "LDO_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759918349,
+    "symbol": "KMNO_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759918349,
+    "symbol": "JTO_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759918349,
+    "symbol": "UXLINK-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }
 ]

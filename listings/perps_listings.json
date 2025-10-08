@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759926228,
+    "date": 1759929849,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10000,5 +10000,17 @@
     "symbol": "UXLINK-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1759929849,
+    "symbol": "4USDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759929849,
+    "symbol": "4USDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

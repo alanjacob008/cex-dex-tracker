@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759936361,
+    "date": 1759940072,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10029,6 +10029,12 @@
     "date": 1759936361,
     "symbol": "SZNUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1759940072,
+    "symbol": "PIPE_USDC_PERP",
+    "name": "Backpack (Futures)",
     "action": "listed"
   }
 ]

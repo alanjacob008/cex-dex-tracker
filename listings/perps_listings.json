@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759983257,
+    "date": 1759986705,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10036,5 +10036,11 @@
     "symbol": "PIPE_USDC_PERP",
     "name": "Backpack (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1759986705,
+    "symbol": "GRT-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

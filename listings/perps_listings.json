@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760001166,
+    "date": 1760004780,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10059,6 +10059,30 @@
     "date": 1760001166,
     "symbol": "BNBHOLDER_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760004780,
+    "symbol": "GIGGLEUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760004780,
+    "symbol": "COAI-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760004780,
+    "symbol": "4-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760004780,
+    "symbol": "GIGGLEUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

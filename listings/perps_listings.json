@@ -1,6 +1,6 @@
 [
   {
-    "date": 1759997759,
+    "date": 1760001166,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10047,6 +10047,18 @@
     "date": 1759997759,
     "symbol": "BNBHOLDERUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760001166,
+    "symbol": "GIGGLE_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760001166,
+    "symbol": "BNBHOLDER_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

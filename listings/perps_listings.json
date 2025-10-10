@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760109106,
+    "date": 1760112870,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10305,6 +10305,12 @@
     "date": 1760109106,
     "symbol": "FF_XBTUSD_251017",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760112870,
+    "symbol": "YBUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

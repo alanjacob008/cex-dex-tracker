@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760098997,
+    "date": 1760102527,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10269,6 +10269,18 @@
     "date": 1760098997,
     "symbol": "ZORA-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760102527,
+    "symbol": "MON_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760102527,
+    "symbol": "FF_ETHUSD_251017",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

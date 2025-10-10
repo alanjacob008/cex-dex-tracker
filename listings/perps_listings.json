@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760080301,
+    "date": 1760084169,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10132,5 +10132,23 @@
     "symbol": "HAJIMIUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760084169,
+    "symbol": "MONUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760084169,
+    "symbol": "MONUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760084169,
+    "symbol": "PUMP-PERP",
+    "name": "Drift Protocol",
+    "action": "delisted"
   }
 ]

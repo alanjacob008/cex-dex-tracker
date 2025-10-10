@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760091201,
+    "date": 1760094616,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10233,6 +10233,12 @@
     "date": 1760091201,
     "symbol": "MONUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760094616,
+    "symbol": "MET-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

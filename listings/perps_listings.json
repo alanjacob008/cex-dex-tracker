@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760105525,
+    "date": 1760109106,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10280,6 +10280,30 @@
   {
     "date": 1760102527,
     "symbol": "FF_ETHUSD_251017",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760109106,
+    "symbol": "YBUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760109106,
+    "symbol": "YB_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760109106,
+    "symbol": "YB_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760109106,
+    "symbol": "FF_XBTUSD_251017",
     "name": "Kraken (Futures)",
     "action": "listed"
   }

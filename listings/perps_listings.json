@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760188550,
+    "date": 1760191749,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10365,6 +10365,12 @@
     "date": 1760188550,
     "symbol": "METUSDT",
     "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760191749,
+    "symbol": "CDL_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760195362,
+    "date": 1760199136,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10371,6 +10371,12 @@
     "date": 1760191749,
     "symbol": "CDL_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760199136,
+    "symbol": "METUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760170440,
+    "date": 1760173841,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10329,6 +10329,24 @@
     "date": 1760170440,
     "symbol": "PF_BAKEUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760173841,
+    "symbol": "KGEN-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760173841,
+    "symbol": "METEORAUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760173841,
+    "symbol": "VTHOUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

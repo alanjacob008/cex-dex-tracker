@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760185202,
+    "date": 1760188550,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10359,6 +10359,12 @@
     "date": 1760177457,
     "symbol": "KT5GUSDPERP",
     "name": "Gemini Derivatives",
+    "action": "listed"
+  },
+  {
+    "date": 1760188550,
+    "symbol": "METUSDT",
+    "name": "Binance (Futures)",
     "action": "listed"
   }
 ]

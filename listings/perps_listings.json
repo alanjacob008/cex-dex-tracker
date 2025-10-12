@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760253007,
+    "date": 1760256836,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10390,5 +10390,41 @@
     "symbol": "YB-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760256836,
+    "symbol": "NAILONGUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760256836,
+    "symbol": "XEM_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760256836,
+    "symbol": "MYRIA_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760256836,
+    "symbol": "BAIDOGE_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760256836,
+    "symbol": "NEIROETH_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760256836,
+    "symbol": "PRIME_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
   }
 ]

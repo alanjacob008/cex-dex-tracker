@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760271605,
+    "date": 1760274979,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10426,5 +10426,11 @@
     "symbol": "PRIME_USDT",
     "name": "Gate (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1760274979,
+    "symbol": "CORL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

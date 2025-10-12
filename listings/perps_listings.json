@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760292866,
+    "date": 1760296106,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10431,6 +10431,12 @@
     "date": 1760274979,
     "symbol": "CORL_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760296106,
+    "symbol": "FI_XRPUSD_251031",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

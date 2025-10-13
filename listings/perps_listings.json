@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760361880,
+    "date": 1760364754,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10479,6 +10479,12 @@
     "date": 1760361880,
     "symbol": "XYZ:XYZ100-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760364754,
+    "symbol": "PF_EDENUSD",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

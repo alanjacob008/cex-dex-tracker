@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760364754,
+    "date": 1760368330,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10485,6 +10485,18 @@
     "date": 1760364754,
     "symbol": "PF_EDENUSD",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760368330,
+    "symbol": "EULUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760368330,
+    "symbol": "EULUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

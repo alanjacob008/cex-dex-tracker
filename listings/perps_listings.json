@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760336354,
+    "date": 1760339592,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10438,5 +10438,11 @@
     "symbol": "FI_XRPUSD_251031",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760339592,
+    "symbol": "PF_MOVEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

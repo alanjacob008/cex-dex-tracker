@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760350467,
+    "date": 1760353833,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10461,6 +10461,12 @@
     "date": 1760350467,
     "symbol": "EUL_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760353833,
+    "symbol": "GOOGLXUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

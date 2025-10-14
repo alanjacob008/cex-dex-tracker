@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760454811,
+    "date": 1760458481,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10647,6 +10647,12 @@
     "date": 1760444647,
     "symbol": "CLOUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760458481,
+    "symbol": "CLV-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

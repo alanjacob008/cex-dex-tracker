@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760422714,
+    "date": 1760425964,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10552,5 +10552,17 @@
     "symbol": "YIDAFANGUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760425964,
+    "symbol": "SPON_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760425964,
+    "symbol": "GOR_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

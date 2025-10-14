@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760440220,
+    "date": 1760444647,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10611,6 +10611,42 @@
     "date": 1760440220,
     "symbol": "CLO_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760444647,
+    "symbol": "CLOUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760444647,
+    "symbol": "FLK_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760444647,
+    "symbol": "LAB_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760444647,
+    "symbol": "CLO_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760444647,
+    "symbol": "ENSOUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760444647,
+    "symbol": "CLOUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

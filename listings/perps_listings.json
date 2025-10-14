@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760429700,
+    "date": 1760433223,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10563,6 +10563,18 @@
     "date": 1760425964,
     "symbol": "GOR_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760433223,
+    "symbol": "EULUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760433223,
+    "symbol": "REXUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

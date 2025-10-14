@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760433223,
+    "date": 1760436800,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10576,5 +10576,35 @@
     "symbol": "REXUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1760436800,
+    "symbol": "ENSOUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760436800,
+    "symbol": "ENSO_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760436800,
+    "symbol": "ENSOUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760436800,
+    "symbol": "ENSO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760436800,
+    "symbol": "ENSOUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

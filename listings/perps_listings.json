@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760412527,
+    "date": 1760415250,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10522,5 +10522,29 @@
     "symbol": "XIUXIAN_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760415250,
+    "symbol": "WORTHLESSUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760415250,
+    "symbol": "RATOUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760415250,
+    "symbol": "BOOMUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760415250,
+    "symbol": "RWAUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

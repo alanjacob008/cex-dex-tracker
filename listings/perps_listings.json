@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760499152,
+    "date": 1760501662,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10658,6 +10658,12 @@
   {
     "date": 1760494947,
     "symbol": "NAS100-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1760501662,
+    "symbol": "SPX500-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
   }

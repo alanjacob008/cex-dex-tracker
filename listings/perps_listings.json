@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760509093,
+    "date": 1760512376,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10666,5 +10666,35 @@
     "symbol": "SPX500-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1760512376,
+    "symbol": "RWA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760512376,
+    "symbol": "SLF_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760512376,
+    "symbol": "HOSICO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760512376,
+    "symbol": "ZIG_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760512376,
+    "symbol": "BSW_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760512376,
+    "date": 1760516234,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10696,5 +10696,17 @@
     "symbol": "BSW_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1760516234,
+    "symbol": "LAB_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760516234,
+    "symbol": "CHONGSHENGUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

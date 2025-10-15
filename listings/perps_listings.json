@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760516234,
+    "date": 1760519618,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10708,5 +10708,17 @@
     "symbol": "CHONGSHENGUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760519618,
+    "symbol": "CLO-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760519618,
+    "symbol": "DUCKUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
   }
 ]

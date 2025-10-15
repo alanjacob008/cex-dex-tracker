@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760548266,
+    "date": 1760552268,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10773,6 +10773,12 @@
     "date": 1760541140,
     "symbol": "COAI-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760552268,
+    "symbol": "PF_YBUSD",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

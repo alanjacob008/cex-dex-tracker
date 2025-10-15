@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760537562,
+    "date": 1760541140,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10767,6 +10767,12 @@
     "date": 1760537562,
     "symbol": "WBAI_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760541140,
+    "symbol": "COAI-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

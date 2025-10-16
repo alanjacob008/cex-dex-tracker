@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760617445,
+    "date": 1760621139,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10833,6 +10833,12 @@
     "date": 1760613022,
     "symbol": "SNX-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1760621139,
+    "symbol": "PIRATE-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

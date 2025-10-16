@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760598752,
+    "date": 1760602636,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10803,6 +10803,18 @@
     "date": 1760598752,
     "symbol": "PF_COWUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760602636,
+    "symbol": "ALPHA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760602636,
+    "symbol": "DUCK_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760569828,
+    "date": 1760576090,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10779,6 +10779,12 @@
     "date": 1760552268,
     "symbol": "PF_YBUSD",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760576090,
+    "symbol": "YB-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

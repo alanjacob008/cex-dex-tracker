@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760595491,
+    "date": 1760598752,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10786,5 +10786,23 @@
     "symbol": "YB-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1760598752,
+    "symbol": "RECALL-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760598752,
+    "symbol": "LABUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760598752,
+    "symbol": "PF_COWUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

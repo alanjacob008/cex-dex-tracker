@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760602636,
+    "date": 1760606039,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10815,6 +10815,18 @@
     "date": 1760602636,
     "symbol": "DUCK_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760606039,
+    "symbol": "ALPHAUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760606039,
+    "symbol": "HOTUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

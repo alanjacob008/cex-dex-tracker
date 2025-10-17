@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760731994,
+    "date": 1760735417,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11104,5 +11104,23 @@
     "symbol": "POL-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1760735417,
+    "symbol": "PF_FFUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760735417,
+    "symbol": "PF_B2USD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760735417,
+    "symbol": "PF_XANUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

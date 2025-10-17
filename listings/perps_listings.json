@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760710322,
+    "date": 1760713925,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11079,6 +11079,18 @@
     "date": 1760710322,
     "symbol": "ZBTUSDT",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760713925,
+    "symbol": "LABUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760713925,
+    "symbol": "RIVERUSDT",
+    "name": "Binance (Futures)",
     "action": "listed"
   }
 ]

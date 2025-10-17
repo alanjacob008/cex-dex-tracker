@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760713925,
+    "date": 1760717649,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11092,5 +11092,17 @@
     "symbol": "RIVERUSDT",
     "name": "Binance (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760717649,
+    "symbol": "FF_XBTUSD_251024",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760717649,
+    "symbol": "POL-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

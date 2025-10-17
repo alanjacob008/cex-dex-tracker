@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760689003,
+    "date": 1760692424,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10954,5 +10954,47 @@
     "symbol": "J_USDT",
     "name": "Gate (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1760692424,
+    "symbol": "ETHUSDT-07NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760692424,
+    "symbol": "SOLUSDT-07NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760692424,
+    "symbol": "BTCUSDT-07NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760692424,
+    "symbol": "ANOME_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760692424,
+    "symbol": "BTC-USDT-260626",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760692424,
+    "symbol": "ETH-USDT-251031",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760692424,
+    "symbol": "ETH-USD-260626",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

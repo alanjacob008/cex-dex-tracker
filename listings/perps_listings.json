@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760699419,
+    "date": 1760703774,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11001,6 +11001,60 @@
     "date": 1760699419,
     "symbol": "SUBHUB_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "ZBTUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "ZBT_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "ZBT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "PROVE-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "ZBT-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "ZBTUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "ZBTUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "PF_BARDUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760703774,
+    "symbol": "FF_ETHUSD_251024",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

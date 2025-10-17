@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760685119,
+    "date": 1760689003,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -10846,5 +10846,113 @@
     "symbol": "DASH-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "LABUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "SANTOS_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "ROAM_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "ORBS_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "L3_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "PYR_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "GIGA_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "GNO_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "MLN_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "ATA_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "OBT_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "XEC_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "FUEL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "ALU_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "MILK_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "DODO_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "BAKE_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760689003,
+    "symbol": "J_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760771411,
+    "date": 1760775265,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11133,6 +11133,12 @@
     "date": 1760768149,
     "symbol": "RIVERUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760775265,
+    "symbol": "RIVER_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

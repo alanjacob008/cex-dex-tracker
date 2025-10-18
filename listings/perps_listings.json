@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760760796,
+    "date": 1760764270,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11121,6 +11121,12 @@
     "date": 1760735417,
     "symbol": "PF_XANUSD",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760764270,
+    "symbol": "KGEN-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760793421,
+    "date": 1760796587,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11210,6 +11210,30 @@
   {
     "date": 1760793421,
     "symbol": "VRUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760796587,
+    "symbol": "RVVUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760796587,
+    "symbol": "RVV_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760796587,
+    "symbol": "10000WENUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760796587,
+    "symbol": "SOLOUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
   }

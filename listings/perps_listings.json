@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760764270,
+    "date": 1760768149,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11127,6 +11127,12 @@
     "date": 1760764270,
     "symbol": "KGEN-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1760768149,
+    "symbol": "RIVERUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760785716,
+    "date": 1760790038,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11140,5 +11140,59 @@
     "symbol": "RIVER_USDT",
     "name": "Gate (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "NURAUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "DUCKUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "REXUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "1000000PEIPEI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "RHEA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "J_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "VR_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "SOLO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760790038,
+    "symbol": "10000WEN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760876436,
+    "date": 1760879847,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11379,6 +11379,12 @@
     "date": 1760868682,
     "symbol": "SERAPHUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760879847,
+    "symbol": "DEBT_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

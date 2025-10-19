@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760879847,
+    "date": 1760882989,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11385,6 +11385,12 @@
     "date": 1760879847,
     "symbol": "DEBT_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760882989,
+    "symbol": "PNUT-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

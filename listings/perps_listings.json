@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760882989,
+    "date": 1760886597,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11391,6 +11391,12 @@
     "date": 1760882989,
     "symbol": "PNUT-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760886597,
+    "symbol": "PF_SYRUPUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

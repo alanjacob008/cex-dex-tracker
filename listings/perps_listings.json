@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760861622,
+    "date": 1760865062,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11331,6 +11331,42 @@
     "date": 1760861622,
     "symbol": "SEND_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760865062,
+    "symbol": "RFCUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760865062,
+    "symbol": "XTERUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760865062,
+    "symbol": "SENDUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760865062,
+    "symbol": "MASAUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760865062,
+    "symbol": "CPOOLUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760865062,
+    "symbol": "RIFUSDTM",
+    "name": "KuCoin Futures",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760857834,
+    "date": 1760861622,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11272,5 +11272,65 @@
     "symbol": "RVV-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "AERGO-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "FUN-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "BSW-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "CROSS-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "CPOOL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "MASA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "SERAPH_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "MVL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "RFC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760861622,
+    "symbol": "SEND_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

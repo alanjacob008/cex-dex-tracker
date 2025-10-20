@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760941139,
+    "date": 1760944385,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11403,6 +11403,12 @@
     "date": 1760893757,
     "symbol": "AVAXGUSDPERP",
     "name": "Gemini Derivatives",
+    "action": "delisted"
+  },
+  {
+    "date": 1760944385,
+    "symbol": "RENDER-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

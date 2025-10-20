@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760987390,
+    "date": 1760991235,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11440,5 +11440,17 @@
     "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
     "name": "Binance (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1760991235,
+    "symbol": "AR-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1760991235,
+    "symbol": "HSK-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

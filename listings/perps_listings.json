@@ -1,6 +1,6 @@
 [
   {
-    "date": 1760944385,
+    "date": 1760948229,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11410,5 +11410,11 @@
     "symbol": "RENDER-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1760948229,
+    "symbol": "ZBT-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

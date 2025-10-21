@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761038018,
+    "date": 1761041590,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11500,5 +11500,23 @@
     "symbol": "SLERFUSDT",
     "name": "Binance (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1761041590,
+    "symbol": "MLN-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761041590,
+    "symbol": "SVSAUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761041590,
+    "symbol": "NOM-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
   }
 ]

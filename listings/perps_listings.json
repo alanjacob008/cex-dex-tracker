@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761030778,
+    "date": 1761034653,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11470,5 +11470,29 @@
     "symbol": "SUOLALAUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1761034653,
+    "symbol": "BINANCELIFEUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761034653,
+    "symbol": "DUCKUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761034653,
+    "symbol": "ALPHAUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761034653,
+    "symbol": "NEIROUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
   }
 ]

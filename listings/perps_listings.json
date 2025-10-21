@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761020063,
+    "date": 1761023545,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11464,5 +11464,11 @@
     "symbol": "PF_XCNUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1761023545,
+    "symbol": "SUOLALAUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

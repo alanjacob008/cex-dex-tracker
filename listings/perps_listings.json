@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761049463,
+    "date": 1761053289,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11584,5 +11584,11 @@
     "symbol": "FUELUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1761053289,
+    "symbol": "FLOKIONBNBUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

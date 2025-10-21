@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761077645,
+    "date": 1761081064,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11596,5 +11596,11 @@
     "symbol": "PF_BBUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1761081064,
+    "symbol": "DODGERSWIN-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

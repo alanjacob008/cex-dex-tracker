@@ -1,0 +1,2042 @@
+[
+  {
+    "symbol": "PF_XBTUSD",
+    "open_interest": 261124412.39,
+    "volume_24h": 387914870.7744,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ETHUSD",
+    "open_interest": 85701153.94,
+    "volume_24h": 182784730.074,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SOLUSD",
+    "open_interest": 38878410.06,
+    "volume_24h": 171880320.277,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_XRPUSD",
+    "open_interest": 17553248.49,
+    "volume_24h": 33207596.30027,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SUIUSD",
+    "open_interest": 9769191.39,
+    "volume_24h": 6659414.5096,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DOGEUSD",
+    "open_interest": 7510650.12,
+    "volume_24h": 10329727.551744,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LINKUSD",
+    "open_interest": 7304487.25,
+    "volume_24h": 10453723.2228,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PI_XBTUSD",
+    "open_interest": 7036545.0,
+    "volume_24h": 1551340.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ADAUSD",
+    "open_interest": 5258853.61,
+    "volume_24h": 8380253.98091,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AVAXUSD",
+    "open_interest": 4556241.84,
+    "volume_24h": 7365627.5211,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZECUSD",
+    "open_interest": 4113567.91,
+    "volume_24h": 12579188.787,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BNBUSD",
+    "open_interest": 4068612.27,
+    "volume_24h": 10043900.7805,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LTCUSD",
+    "open_interest": 3338928.84,
+    "volume_24h": 4701757.608,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DOTUSD",
+    "open_interest": 2907188.72,
+    "volume_24h": 2710335.6271,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PI_ETHUSD",
+    "open_interest": 2668290.0,
+    "volume_24h": 546517.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ALGOUSD",
+    "open_interest": 2451378.79,
+    "volume_24h": 659229.92836,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ONDOUSD",
+    "open_interest": 2283160.13,
+    "volume_24h": 652400.3706,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_HYPEUSD",
+    "open_interest": 2170160.16,
+    "volume_24h": 1392842.119,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_XLMUSD",
+    "open_interest": 2122810.27,
+    "volume_24h": 1100221.19627,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TAOUSD",
+    "open_interest": 2095909.71,
+    "volume_24h": 5157949.6295,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_APTUSD",
+    "open_interest": 2033326.07,
+    "volume_24h": 1089334.09956,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TRXUSD",
+    "open_interest": 1989118.18,
+    "volume_24h": 1234445.764525,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_WIFUSD",
+    "open_interest": 1870992.8,
+    "volume_24h": 5365543.3753,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_THETAUSD",
+    "open_interest": 1750411.45,
+    "volume_24h": 76009.7844,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FARTCOINUSD",
+    "open_interest": 1683122.13,
+    "volume_24h": 2275549.7994,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FILUSD",
+    "open_interest": 1557947.01,
+    "volume_24h": 1323250.90189,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_XAUTUSD",
+    "open_interest": 1485583.63,
+    "volume_24h": 1068248.536,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_POPCATUSD",
+    "open_interest": 1467341.99,
+    "volume_24h": 995830.91649,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SEIUSD",
+    "open_interest": 1443836.57,
+    "volume_24h": 321295.74262,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_NEARUSD",
+    "open_interest": 1413010.5,
+    "volume_24h": 2359653.8511,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AAVEUSD",
+    "open_interest": 1412153.08,
+    "volume_24h": 3925694.575,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CRVUSD",
+    "open_interest": 1330924.82,
+    "volume_24h": 1780009.1337,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PEPEUSD",
+    "open_interest": 1326241.0,
+    "volume_24h": 2502868.5486728,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_OPUSD",
+    "open_interest": 1299545.33,
+    "volume_24h": 282139.8354,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ENAUSD",
+    "open_interest": 1297898.58,
+    "volume_24h": 5131404.50832,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_UNIUSD",
+    "open_interest": 1270976.27,
+    "volume_24h": 400797.1688,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BONKUSD",
+    "open_interest": 1257079.84,
+    "volume_24h": 883476.44015,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SHIBUSD",
+    "open_interest": 1255269.06,
+    "volume_24h": 2531825.9748,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_XMRUSD",
+    "open_interest": 1166694.45,
+    "volume_24h": 1785089.9136,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_HBARUSD",
+    "open_interest": 1144505.77,
+    "volume_24h": 584669.54172,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TRUMPUSD",
+    "open_interest": 1141118.08,
+    "volume_24h": 167887.3553,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_KSMUSD",
+    "open_interest": 1118544.88,
+    "volume_24h": 110500.632,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ARBUSD",
+    "open_interest": 1105939.58,
+    "volume_24h": 2526639.5869,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BCHUSD",
+    "open_interest": 1039830.46,
+    "volume_24h": 336915.936,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SPXUSD",
+    "open_interest": 953208.55,
+    "volume_24h": 1281457.6326,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PAXGUSD",
+    "open_interest": 942699.37,
+    "volume_24h": 244699.9245,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LDOUSD",
+    "open_interest": 834639.47,
+    "volume_24h": 466505.603,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_STRKUSD",
+    "open_interest": 797297.93,
+    "volume_24h": 334850.10432,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GALAUSD",
+    "open_interest": 781429.61,
+    "volume_24h": 381665.439784,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ATOMUSD",
+    "open_interest": 761138.49,
+    "volume_24h": 4511984.2025,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AXSUSD",
+    "open_interest": 618072.18,
+    "volume_24h": 82442.68739,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_RENDERUSD",
+    "open_interest": 615374.08,
+    "volume_24h": 130755.584,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TIAUSD",
+    "open_interest": 603557.31,
+    "volume_24h": 221379.97238,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_INJUSD",
+    "open_interest": 559947.04,
+    "volume_24h": 1267458.9788,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZKUSD",
+    "open_interest": 546896.46,
+    "volume_24h": 35358.002148,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TONUSD",
+    "open_interest": 539829.47,
+    "volume_24h": 309756.832,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ASTERUSD",
+    "open_interest": 525766.58,
+    "volume_24h": 150575.6212,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_WLDUSD",
+    "open_interest": 511616.93,
+    "volume_24h": 375492.832,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PI_XRPUSD",
+    "open_interest": 475953.0,
+    "volume_24h": 302686.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PENGUUSD",
+    "open_interest": 460356.02,
+    "volume_24h": 270562.3767,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SNXUSD",
+    "open_interest": 438968.79,
+    "volume_24h": 2919412.6776,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ETCUSD",
+    "open_interest": 427490.85,
+    "volume_24h": 255154.9728,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ICPUSD",
+    "open_interest": 417597.5,
+    "volume_24h": 351450.6267,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SANDUSD",
+    "open_interest": 414692.59,
+    "volume_24h": 80186.1676,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_WUSD",
+    "open_interest": 409348.18,
+    "volume_24h": 29913.99561,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DYDXUSD",
+    "open_interest": 399715.9,
+    "volume_24h": 82198.878,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DASHUSD",
+    "open_interest": 396402.22,
+    "volume_24h": 2669547.2615,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FETUSD",
+    "open_interest": 384218.78,
+    "volume_24h": 369966.46632,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CHZUSD",
+    "open_interest": 371582.45,
+    "volume_24h": 525704.8689,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_XTZUSD",
+    "open_interest": 360022.13,
+    "volume_24h": 520851.604,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PYTHUSD",
+    "open_interest": 333423.73,
+    "volume_24h": 488165.94429,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_POLUSD",
+    "open_interest": 332573.74,
+    "volume_24h": 1524438.59442,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_WLFIUSD",
+    "open_interest": 331287.08,
+    "volume_24h": 36616.6755,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MANAUSD",
+    "open_interest": 321774.41,
+    "volume_24h": 181378.1584,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MOODENGUSD",
+    "open_interest": 296068.06,
+    "volume_24h": 337669.65612,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PUMPUSD",
+    "open_interest": 289893.81,
+    "volume_24h": 2312073.764,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_APEUSD",
+    "open_interest": 274532.53,
+    "volume_24h": 1534052.0903,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZROUSD",
+    "open_interest": 258519.16,
+    "volume_24h": 43807.5036,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_QNTUSD",
+    "open_interest": 258408.31,
+    "volume_24h": 111908.742,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_1INCHUSD",
+    "open_interest": 232362.55,
+    "volume_24h": 86951.4297,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CROUSD",
+    "open_interest": 230981.5,
+    "volume_24h": 32877.3641,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GOATUSD",
+    "open_interest": 230194.7,
+    "volume_24h": 262617.54558,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_JUPUSD",
+    "open_interest": 229611.35,
+    "volume_24h": 92638.6404,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GRTUSD",
+    "open_interest": 213032.46,
+    "volume_24h": 111024.1626,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_VIRTUALUSD",
+    "open_interest": 204762.9,
+    "volume_24h": 123536.4223,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_OMUSD",
+    "open_interest": 203169.88,
+    "volume_24h": 484804.9549,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SUSHIUSD",
+    "open_interest": 201027.43,
+    "volume_24h": 3019503.7974,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_USUALUSD",
+    "open_interest": 198096.7,
+    "volume_24h": 1882.03527,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_RSRUSD",
+    "open_interest": 193146.96,
+    "volume_24h": 13304.4882,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_KASUSD",
+    "open_interest": 192046.79,
+    "volume_24h": 187274.11048,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_STXUSD",
+    "open_interest": 191651.86,
+    "volume_24h": 159136.1177,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_COMPUSD",
+    "open_interest": 187472.42,
+    "volume_24h": 62079.8624,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_RUNEUSD",
+    "open_interest": 186210.06,
+    "volume_24h": 170222.0856,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FLOKIUSD",
+    "open_interest": 183744.2,
+    "volume_24h": 1502606.20738,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MNTUSD",
+    "open_interest": 179093.14,
+    "volume_24h": 141237.0702,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_VETUSD",
+    "open_interest": 171821.49,
+    "volume_24h": 37635.433068,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GMTUSD",
+    "open_interest": 166115.07,
+    "volume_24h": 27364.55232,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ORDIUSD",
+    "open_interest": 162921.44,
+    "volume_24h": 219097.87969,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PI_LTCUSD",
+    "open_interest": 161986.0,
+    "volume_24h": 206603.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_KAVAUSD",
+    "open_interest": 161144.64,
+    "volume_24h": 74115.3641,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_JASMYUSD",
+    "open_interest": 154323.81,
+    "volume_24h": 285387.900077,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZRXUSD",
+    "open_interest": 147770.04,
+    "volume_24h": 2875.4215,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ENSUSD",
+    "open_interest": 140247.66,
+    "volume_24h": 168005.582,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_STORJUSD",
+    "open_interest": 134203.32,
+    "volume_24h": 1123.02,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_IMXUSD",
+    "open_interest": 133928.41,
+    "volume_24h": 58923.0319,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_NMRUSD",
+    "open_interest": 125231.89,
+    "volume_24h": 5912.3484,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_EIGENUSD",
+    "open_interest": 123813.37,
+    "volume_24h": 122471.0786,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CFXUSD",
+    "open_interest": 121820.51,
+    "volume_24h": 10508.67279,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TURBOUSD",
+    "open_interest": 117848.69,
+    "volume_24h": 66674.67576,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BERAUSD",
+    "open_interest": 116502.94,
+    "volume_24h": 30228.0376,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_YFIUSD",
+    "open_interest": 115892.47,
+    "volume_24h": 39654.3,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BIOUSD",
+    "open_interest": 115302.78,
+    "volume_24h": 1287832.49711,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_API3USD",
+    "open_interest": 115286.37,
+    "volume_24h": 92195.037,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SUSD",
+    "open_interest": 108336.74,
+    "volume_24h": 35970.5194,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_RAYUSD",
+    "open_interest": 107938.39,
+    "volume_24h": 73100.9216,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PENDLEUSD",
+    "open_interest": 107749.56,
+    "volume_24h": 53015.7852,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ARUSD",
+    "open_interest": 104343.08,
+    "volume_24h": 27925.66981,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_JTOUSD",
+    "open_interest": 104195.64,
+    "volume_24h": 195667.524,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BATUSD",
+    "open_interest": 103069.76,
+    "volume_24h": 236822.13966,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MINAUSD",
+    "open_interest": 101923.71,
+    "volume_24h": 6844.115,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BOMEUSD",
+    "open_interest": 100440.95,
+    "volume_24h": 23997.4579152,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ARKMUSD",
+    "open_interest": 99638.67,
+    "volume_24h": 2929.819,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LPTUSD",
+    "open_interest": 94553.08,
+    "volume_24h": 69300.7974,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ETHFIUSD",
+    "open_interest": 90560.92,
+    "volume_24h": 38200.90382,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CAKEUSD",
+    "open_interest": 83966.6,
+    "volume_24h": 43075.1853,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TRBUSD",
+    "open_interest": 82941.92,
+    "volume_24h": 1630.6381,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_NOTUSD",
+    "open_interest": 81793.42,
+    "volume_24h": 1873.8714423,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_STGUSD",
+    "open_interest": 81444.68,
+    "volume_24h": 16103.34,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BANDUSD",
+    "open_interest": 78670.12,
+    "volume_24h": 83341.72746,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SPKUSD",
+    "open_interest": 78348.36,
+    "volume_24h": 1878.34284,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MELANIAUSD",
+    "open_interest": 76950.25,
+    "volume_24h": 64522.6481,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AEVOUSD",
+    "open_interest": 76925.66,
+    "volume_24h": 8075.2223,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_USDTUSD",
+    "open_interest": 75357.21,
+    "volume_24h": 3580.4919,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DYMUSD",
+    "open_interest": 74770.33,
+    "volume_24h": 2403.41108,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TRUUSD",
+    "open_interest": 74237.46,
+    "volume_24h": 22835.39525,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_NEIROUSD",
+    "open_interest": 72719.19,
+    "volume_24h": 77146.20576896,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GLMUSD",
+    "open_interest": 72499.06,
+    "volume_24h": 4023.80735,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_EGLDUSD",
+    "open_interest": 70283.46,
+    "volume_24h": 6531.1654,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MORPHOUSD",
+    "open_interest": 68490.38,
+    "volume_24h": 69575.1232,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BRETTUSD",
+    "open_interest": 67690.22,
+    "volume_24h": 43336.2244,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GRASSUSD",
+    "open_interest": 61191.48,
+    "volume_24h": 19120.896,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_IPUSD",
+    "open_interest": 60899.37,
+    "volume_24h": 197557.413,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SPELLUSD",
+    "open_interest": 59185.71,
+    "volume_24h": 6607.905147,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SUPERUSD",
+    "open_interest": 57211.49,
+    "volume_24h": 15197.533,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_UMAUSD",
+    "open_interest": 56906.44,
+    "volume_24h": 69520.01277,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AGLDUSD",
+    "open_interest": 54061.13,
+    "volume_24h": 53356.4652,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CTSIUSD",
+    "open_interest": 51377.91,
+    "volume_24h": 6038.80674,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZEREBROUSD",
+    "open_interest": 51305.63,
+    "volume_24h": 11463.96104,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ENJUSD",
+    "open_interest": 50905.18,
+    "volume_24h": 750.3378,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LRCUSD",
+    "open_interest": 50511.64,
+    "volume_24h": 5762.8229,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_COTIUSD",
+    "open_interest": 48306.01,
+    "volume_24h": 42880.15196,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_XPLUSD",
+    "open_interest": 47538.77,
+    "volume_24h": 101944.3782,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PEOPLEUSD",
+    "open_interest": 47324.28,
+    "volume_24h": 593.970944,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ASTRUSD",
+    "open_interest": 47106.89,
+    "volume_24h": 3400.02135,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_KAITOUSD",
+    "open_interest": 46291.34,
+    "volume_24h": 9430.791,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ALTUSD",
+    "open_interest": 46024.92,
+    "volume_24h": 1735.89244,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_YGGUSD",
+    "open_interest": 45578.93,
+    "volume_24h": 10984.539,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ANKRUSD",
+    "open_interest": 44973.68,
+    "volume_24h": 962.72685,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_VINEUSD",
+    "open_interest": 44723.36,
+    "volume_24h": 4227.70926,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_IOUSD",
+    "open_interest": 44658.25,
+    "volume_24h": 4577.5721,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ATHUSD",
+    "open_interest": 43370.81,
+    "volume_24h": 13917.645,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TLMUSD",
+    "open_interest": 42687.8,
+    "volume_24h": 412.97754,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FXSUSD",
+    "open_interest": 42235.02,
+    "volume_24h": 7241.445,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TAIKOUSD",
+    "open_interest": 40699.3,
+    "volume_24h": 6389.592,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_WCTUSD",
+    "open_interest": 40200.13,
+    "volume_24h": 2895.9008,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_REZUSD",
+    "open_interest": 39908.51,
+    "volume_24h": 621.114295,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MUBARAKUSD",
+    "open_interest": 39484.85,
+    "volume_24h": 1232.406,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AUCTIONUSD",
+    "open_interest": 38602.05,
+    "volume_24h": 214187.9709,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_KOMAUSD",
+    "open_interest": 37647.71,
+    "volume_24h": 14901.6375,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CELRUSD",
+    "open_interest": 37604.7,
+    "volume_24h": 1764.597016,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ACHUSD",
+    "open_interest": 36307.57,
+    "volume_24h": 46271.6582,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PNUTUSD",
+    "open_interest": 35057.88,
+    "volume_24h": 78928.60449,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FLOWUSD",
+    "open_interest": 33935.6,
+    "volume_24h": 497.7616,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_QTUMUSD",
+    "open_interest": 32236.34,
+    "volume_24h": 1569.132,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ARPAUSD",
+    "open_interest": 31971.92,
+    "volume_24h": 16207.22925,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CVXUSD",
+    "open_interest": 31170.23,
+    "volume_24h": 1758.7764,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_HFTUSD",
+    "open_interest": 30963.81,
+    "volume_24h": 13683.6961,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BNTUSD",
+    "open_interest": 30061.65,
+    "volume_24h": 5125.6773,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CGPTUSD",
+    "open_interest": 29353.63,
+    "volume_24h": 3591.41664,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MEWUSD",
+    "open_interest": 28301.91,
+    "volume_24h": 22804.3436628,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZENUSD",
+    "open_interest": 27991.53,
+    "volume_24h": 226546.9479,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FLRUSD",
+    "open_interest": 27807.37,
+    "volume_24h": 74129.02991,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DRIFTUSD",
+    "open_interest": 26946.08,
+    "volume_24h": 14430.80324,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AKTUSD",
+    "open_interest": 25660.91,
+    "volume_24h": 1654.862,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AI16ZUSD",
+    "open_interest": 25008.83,
+    "volume_24h": 307098.4565,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CHFUSD",
+    "open_interest": 24060.3,
+    "volume_24h": 2536.58349,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MOVRUSD",
+    "open_interest": 23926.82,
+    "volume_24h": 622.6704,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_NEOUSD",
+    "open_interest": 23534.68,
+    "volume_24h": 1692.6273,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BLURUSD",
+    "open_interest": 23105.58,
+    "volume_24h": 10454.55275,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CELOUSD",
+    "open_interest": 23070.45,
+    "volume_24h": 2188.848,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ALICEUSD",
+    "open_interest": 20791.95,
+    "volume_24h": 82334.8911,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GUSD",
+    "open_interest": 20638.34,
+    "volume_24h": 713.169704,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AIXBTUSD",
+    "open_interest": 20178.77,
+    "volume_24h": 5451.1954,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SOLVUSD",
+    "open_interest": 20069.62,
+    "volume_24h": 2428.309408,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MOGUSD",
+    "open_interest": 19328.62,
+    "volume_24h": 7129.8836784,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SATSUSD",
+    "open_interest": 19195.24,
+    "volume_24h": 7944.36026831735,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GRIFFAINUSD",
+    "open_interest": 18814.16,
+    "volume_24h": 3538.25472,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DOGSUSD",
+    "open_interest": 18633.51,
+    "volume_24h": 5173.00388045,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_HIPPOUSD",
+    "open_interest": 18440.46,
+    "volume_24h": 259.49178,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LUNA2USD",
+    "open_interest": 18234.04,
+    "volume_24h": 9650.40755,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ROSEUSD",
+    "open_interest": 17741.88,
+    "volume_24h": 25.84816,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ARCUSD",
+    "open_interest": 17408.63,
+    "volume_24h": 538.07696,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZEUSUSD",
+    "open_interest": 17095.5,
+    "volume_24h": 2693.81,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MAGICUSD",
+    "open_interest": 16983.24,
+    "volume_24h": 11389.49387,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_WOOUSD",
+    "open_interest": 16148.2,
+    "volume_24h": 1164.43424,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_IOTAUSD",
+    "open_interest": 16065.0,
+    "volume_24h": 1184.70684,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_RLCUSD",
+    "open_interest": 15969.3,
+    "volume_24h": 3581.3217,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LINEAUSD",
+    "open_interest": 15851.81,
+    "volume_24h": 8603.58968,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_OXTUSD",
+    "open_interest": 15700.18,
+    "volume_24h": 32.6094,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DOGUSD",
+    "open_interest": 15628.69,
+    "volume_24h": 11244.2757077,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SCRUSD",
+    "open_interest": 15145.32,
+    "volume_24h": 740.6808,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TNSRUSD",
+    "open_interest": 13469.52,
+    "volume_24h": 595.8,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SYNUSD",
+    "open_interest": 12866.55,
+    "volume_24h": 5862.5147,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SOONUSD",
+    "open_interest": 12601.92,
+    "volume_24h": 37905.4083,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ALCHUSD",
+    "open_interest": 12297.87,
+    "volume_24h": 3298.412,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MTLUSD",
+    "open_interest": 12217.45,
+    "volume_24h": 1082.4543,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_STBLUSD",
+    "open_interest": 12007.33,
+    "volume_24h": 3462.29688,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_C98USD",
+    "open_interest": 11953.09,
+    "volume_24h": 257.9912,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SSVUSD",
+    "open_interest": 11868.21,
+    "volume_24h": 7927.5897,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CATUSD",
+    "open_interest": 11797.69,
+    "volume_24h": 89203.331562,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DEEPUSD",
+    "open_interest": 11112.66,
+    "volume_24h": 116.626752,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_IOTXUSD",
+    "open_interest": 10905.56,
+    "volume_24h": 6893.36695,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SKLUSD",
+    "open_interest": 10712.84,
+    "volume_24h": 5254.47608,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SAGAUSD",
+    "open_interest": 10536.36,
+    "volume_24h": 5325.19722,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GMXUSD",
+    "open_interest": 10499.11,
+    "volume_24h": 12863.33925,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BANUSD",
+    "open_interest": 10251.74,
+    "volume_24h": 10171.96859,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CYBERUSD",
+    "open_interest": 10192.85,
+    "volume_24h": 273.798,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_METISUSD",
+    "open_interest": 9469.11,
+    "volume_24h": 2839.7364,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_VELOUSD",
+    "open_interest": 9460.19,
+    "volume_24h": 8607.44034,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FLMUSD",
+    "open_interest": 9396.27,
+    "volume_24h": 621.2607,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SWELLUSD",
+    "open_interest": 9171.96,
+    "volume_24h": 469.589831,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_RAREUSD",
+    "open_interest": 8864.06,
+    "volume_24h": 899.5487,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GASUSD",
+    "open_interest": 8744.1,
+    "volume_24h": 6207.7626,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BLESSUSD",
+    "open_interest": 8621.36,
+    "volume_24h": 20680.845867,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZILUSD",
+    "open_interest": 8457.01,
+    "volume_24h": 6116.1485,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SWEATUSD",
+    "open_interest": 8355.17,
+    "volume_24h": 5614.4604208,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ONTUSD",
+    "open_interest": 8048.45,
+    "volume_24h": 221.76,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_XVGUSD",
+    "open_interest": 7828.29,
+    "volume_24h": 21123.8217,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PORTALUSD",
+    "open_interest": 7674.48,
+    "volume_24h": 3795.58205,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TOSHIUSD",
+    "open_interest": 7542.98,
+    "volume_24h": 4512.074,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BELUSD",
+    "open_interest": 7541.99,
+    "volume_24h": 10649.48017,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BIGTIMEUSD",
+    "open_interest": 6989.52,
+    "volume_24h": 78.144,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DENTUSD",
+    "open_interest": 6897.91,
+    "volume_24h": 397.55232,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DEXEUSD",
+    "open_interest": 6854.73,
+    "volume_24h": 87.074,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FIOUSD",
+    "open_interest": 6665.7,
+    "volume_24h": 2759.5737,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ETHWUSD",
+    "open_interest": 6562.2,
+    "volume_24h": 125.5662,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AIUSD",
+    "open_interest": 6397.7,
+    "volume_24h": 941.97974,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DEGENUSD",
+    "open_interest": 6365.64,
+    "volume_24h": 640.026312,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PIPPINUSD",
+    "open_interest": 6230.62,
+    "volume_24h": 23405.99058,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DUSKUSD",
+    "open_interest": 6115.18,
+    "volume_24h": 7067.62125,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SONICUSD",
+    "open_interest": 6078.52,
+    "volume_24h": 462.1182,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DUCKUSD",
+    "open_interest": 5951.58,
+    "volume_24h": 1076.3262484,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CATIUSD",
+    "open_interest": 5777.03,
+    "volume_24h": 884.49912,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_RATSUSD",
+    "open_interest": 5358.05,
+    "volume_24h": 673.05936,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CHRUSD",
+    "open_interest": 5232.46,
+    "volume_24h": 4106.78036,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MASKUSD",
+    "open_interest": 5028.74,
+    "volume_24h": 1566.752,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SHELLUSD",
+    "open_interest": 4631.39,
+    "volume_24h": 1980.70696,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_HOTUSD",
+    "open_interest": 4498.08,
+    "volume_24h": 4526.9942476,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GIGAUSD",
+    "open_interest": 4422.64,
+    "volume_24h": 448.776,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_COOKIEUSD",
+    "open_interest": 4373.47,
+    "volume_24h": 167.72747,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_XVSUSD",
+    "open_interest": 4322.4,
+    "volume_24h": 241.2244,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FLUXUSD",
+    "open_interest": 4289.7,
+    "volume_24h": 2815.5284,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ARKUSD",
+    "open_interest": 4219.11,
+    "volume_24h": 16.9442,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_FIDAUSD",
+    "open_interest": 4097.2,
+    "volume_24h": 3236.76,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SWARMSUSD",
+    "open_interest": 4025.17,
+    "volume_24h": 4882.738,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BADGERUSD",
+    "open_interest": 4019.37,
+    "volume_24h": 3172.91152,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LQTYUSD",
+    "open_interest": 3999.14,
+    "volume_24h": 8170.0623,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_VVVUSD",
+    "open_interest": 3985.21,
+    "volume_24h": 2036.5488,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_QUICKUSD",
+    "open_interest": 3926.65,
+    "volume_24h": 868.920609,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_VOXELUSD",
+    "open_interest": 3792.75,
+    "volume_24h": 1152.02645,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_INITUSD",
+    "open_interest": 3741.29,
+    "volume_24h": 300.1944,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_IOSTUSD",
+    "open_interest": 3725.88,
+    "volume_24h": 1756.014,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_DFUSD",
+    "open_interest": 3400.12,
+    "volume_24h": 40.62,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_AUDIOUSD",
+    "open_interest": 3316.64,
+    "volume_24h": 792.92352,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PTBUSD",
+    "open_interest": 3316.24,
+    "volume_24h": 45865.1925,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MEUSD",
+    "open_interest": 2808.66,
+    "volume_24h": 29.6207,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_COSUSD",
+    "open_interest": 2677.82,
+    "volume_24h": 2610.67884,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_GPSUSD",
+    "open_interest": 2566.29,
+    "volume_24h": 1003.314467,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ALPHAUSD",
+    "open_interest": 2545.51,
+    "volume_24h": 31.2741,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MYROUSD",
+    "open_interest": 2500.85,
+    "volume_24h": 6084.15605,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LUMIAUSD",
+    "open_interest": 1909.89,
+    "volume_24h": 543.2,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MOCAUSD",
+    "open_interest": 1856.18,
+    "volume_24h": 50.78799,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SLPUSD",
+    "open_interest": 1739.63,
+    "volume_24h": 386.7,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_POLYXUSD",
+    "open_interest": 1697.33,
+    "volume_24h": 2130.17905,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_YBUSD",
+    "open_interest": 1638.95,
+    "volume_24h": 1008.2352,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_COWUSD",
+    "open_interest": 1509.53,
+    "volume_24h": 315.9,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ORDERUSD",
+    "open_interest": 1346.96,
+    "volume_24h": 1238.0082,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LOOKSUSD",
+    "open_interest": 1058.46,
+    "volume_24h": 1057.7973,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PRCLUSD",
+    "open_interest": 1043.45,
+    "volume_24h": 1742.38218,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_1MBABYDOGEUSD",
+    "open_interest": 586.33,
+    "volume_24h": 101.8808,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LAYERUSD",
+    "open_interest": 470.24,
+    "volume_24h": 17.9279,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SXTUSD",
+    "open_interest": 52.84,
+    "volume_24h": 16.37574,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MUSD",
+    "open_interest": 4.05,
+    "volume_24h": 14.1736,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_HUSD",
+    "open_interest": 0,
+    "volume_24h": 124.96974,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_EURUSD",
+    "open_interest": 246923.84,
+    "volume_24h": 63296.1681,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PERPUSD",
+    "open_interest": 31597.68,
+    "volume_24h": 355.8236,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BBUSD",
+    "open_interest": 30971.44,
+    "volume_24h": 2191.32214,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ZETAUSD",
+    "open_interest": 22270.49,
+    "volume_24h": 32.1677,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SXPUSD",
+    "open_interest": 19365.9,
+    "volume_24h": 253.18575,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_MOVEUSD",
+    "open_interest": 18510.03,
+    "volume_24h": 240.856,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ACEUSD",
+    "open_interest": 17629.29,
+    "volume_24h": 25.2403,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_OGNUSD",
+    "open_interest": 15990.54,
+    "volume_24h": 2516.94387,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_LSKUSD",
+    "open_interest": 15093.25,
+    "volume_24h": 339.3688,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BEAMUSD",
+    "open_interest": 14146.65,
+    "volume_24h": 0.016206,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ANIMEUSD",
+    "open_interest": 13949.73,
+    "volume_24h": 1047.29625,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TOKENUSD",
+    "open_interest": 13749.81,
+    "volume_24h": 109.27752,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_SUNUSD",
+    "open_interest": 12856.87,
+    "volume_24h": 375.056,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BANANAUSD",
+    "open_interest": 10148.43,
+    "volume_24h": 212.85,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CETUSUSD",
+    "open_interest": 8072.29,
+    "volume_24h": 150.84045,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CHILLGUYUSD",
+    "open_interest": 7553.57,
+    "volume_24h": 259.70776,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_TSTUSD",
+    "open_interest": 6579.2,
+    "volume_24h": 426.89444,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_B3USD",
+    "open_interest": 5813.77,
+    "volume_24h": 461.46604,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_THEUSD",
+    "open_interest": 5718.34,
+    "volume_24h": 88.146,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_CKBUSD",
+    "open_interest": 5245.14,
+    "volume_24h": 0.020748,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BLASTUSD",
+    "open_interest": 4573.84,
+    "volume_24h": 14.99616,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_PONKEUSD",
+    "open_interest": 4554.04,
+    "volume_24h": 29.97463,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ONEUSD",
+    "open_interest": 4264.57,
+    "volume_24h": 1074.4316,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_HMSTRUSD",
+    "open_interest": 2542.68,
+    "volume_24h": 242.79216,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_ACTUSD",
+    "open_interest": 2300.83,
+    "volume_24h": 15.04064,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_STEEMUSD",
+    "open_interest": 2180.76,
+    "volume_24h": 589.70619,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_IDUSD",
+    "open_interest": 1649.1,
+    "volume_24h": 52.33144,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_RADUSD",
+    "open_interest": 1067.76,
+    "volume_24h": 71.7267,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PI_DOGEUSD",
+    "open_interest": 10.5,
+    "volume_24h": 50.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_B2USD",
+    "open_interest": 0,
+    "volume_24h": 10881.96,
+    "date": 1761008552
+  },
+  {
+    "symbol": "PF_BARDUSD",
+    "open_interest": 0,
+    "volume_24h": 1133.7546,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_SOLUSD_251226",
+    "open_interest": 6274.21,
+    "volume_24h": 108.68,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_SOLUSD_251031",
+    "open_interest": 3161.4,
+    "volume_24h": 29.19,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_ETHUSD_260327",
+    "open_interest": 415.56,
+    "volume_24h": 4.127,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_ETHUSD_251226",
+    "open_interest": 329.67,
+    "volume_24h": 57.334,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_ETHUSD_251031",
+    "open_interest": 109.92,
+    "volume_24h": 1.282,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_XBTUSD_260327",
+    "open_interest": 57.76,
+    "volume_24h": 16.0608,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_XBTUSD_251226",
+    "open_interest": 49.97,
+    "volume_24h": 1.1263,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_XBTUSD_251031",
+    "open_interest": 9.47,
+    "volume_24h": 0.3189,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FI_XBTUSD_251226",
+    "open_interest": 20429970.0,
+    "volume_24h": 5000.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FI_XBTUSD_251031",
+    "open_interest": 571827.0,
+    "volume_24h": 2142.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FI_ETHUSD_251226",
+    "open_interest": 310002.0,
+    "volume_24h": 23801.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FI_ETHUSD_260327",
+    "open_interest": 167080.0,
+    "volume_24h": 24206.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FI_LTCUSD_251226",
+    "open_interest": 150550.0,
+    "volume_24h": 975.0,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_ETHUSD_251024",
+    "open_interest": 2.94,
+    "volume_24h": 0.125,
+    "date": 1761008552
+  },
+  {
+    "symbol": "FF_XBTUSD_251024",
+    "open_interest": 0.02,
+    "volume_24h": 0.0078,
+    "date": 1761008552
+  }
+]

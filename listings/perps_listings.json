@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761045027,
+    "date": 1761049463,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11518,5 +11518,71 @@
     "symbol": "NOM-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "BLUAIUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "BLUAI_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "BLUAI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "BLUAIUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "BLUAIUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "ZEREBRO-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "SERAPHUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "ROAMUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "RHEAUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "AIDOGEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761049463,
+    "symbol": "FUELUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

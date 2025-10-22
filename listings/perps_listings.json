@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761139663,
+    "date": 1761142411,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11709,6 +11709,96 @@
     "date": 1761139663,
     "symbol": "SCA_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "BGBUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "OSMOUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "TANSSIUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "BDXNUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "FISUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "FHEUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "GORKUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "TOKENUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "SKATEUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "AGTUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "FRAGUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "MAJORUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "SCAUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "GORKUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761142411,
+    "symbol": "NODEUSDT",
+    "name": "LBank (Futures)",
     "action": "delisted"
   }
 ]

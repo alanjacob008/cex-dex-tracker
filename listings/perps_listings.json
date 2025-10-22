@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761113933,
+    "date": 1761117149,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11608,5 +11608,23 @@
     "symbol": "SUOLALA_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1761117149,
+    "symbol": "\u5e01\u5b89\u4eba\u751f_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761117149,
+    "symbol": "SHARKSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761117149,
+    "symbol": "TRUMP_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

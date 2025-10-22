@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761142411,
+    "date": 1761145902,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11799,6 +11799,42 @@
     "date": 1761142411,
     "symbol": "NODEUSDT",
     "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761145902,
+    "symbol": "TURTLE_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761145902,
+    "symbol": "MAJORUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761145902,
+    "symbol": "FRAGUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761145902,
+    "symbol": "DMCUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761145902,
+    "symbol": "SWELLUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761145902,
+    "symbol": "SCAUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

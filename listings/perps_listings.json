@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761117149,
+    "date": 1761121108,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11626,5 +11626,17 @@
     "symbol": "TRUMP_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1761121108,
+    "symbol": "F-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761121108,
+    "symbol": "BLUAI-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761228772,
+    "date": 1761232373,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11967,6 +11967,18 @@
     "date": 1761226001,
     "symbol": "APRUSDT",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761232373,
+    "symbol": "METUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761232373,
+    "symbol": "MET_USDC_PERP",
+    "name": "Backpack (Futures)",
     "action": "listed"
   }
 ]

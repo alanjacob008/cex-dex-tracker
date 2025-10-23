@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761214388,
+    "date": 1761217856,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11919,6 +11919,36 @@
     "date": 1761214388,
     "symbol": "BLUAI-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761217856,
+    "symbol": "APRUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761217856,
+    "symbol": "APR_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761217856,
+    "symbol": "APR_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761217856,
+    "symbol": "APRUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761217856,
+    "symbol": "APRUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

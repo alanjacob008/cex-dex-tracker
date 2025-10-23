@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761190307,
+    "date": 1761192879,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11877,6 +11877,24 @@
     "date": 1761157116,
     "symbol": "ATH-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1761192879,
+    "symbol": "LMTS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761192879,
+    "symbol": "BELIEVE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761192879,
+    "symbol": "LMTSUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

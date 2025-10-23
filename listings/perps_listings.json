@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761239460,
+    "date": 1761243442,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11991,6 +11991,12 @@
     "date": 1761239460,
     "symbol": "MET-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1761243442,
+    "symbol": "PF_ZORAUSD",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

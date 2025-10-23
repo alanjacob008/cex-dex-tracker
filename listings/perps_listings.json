@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761207418,
+    "date": 1761210814,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11901,6 +11901,18 @@
     "date": 1761203553,
     "symbol": "MEXCUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761210814,
+    "symbol": "TURTLE-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761210814,
+    "symbol": "EVAA-USDT",
+    "name": "HTX Futures",
     "action": "listed"
   }
 ]

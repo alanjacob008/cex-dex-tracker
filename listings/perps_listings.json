@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761217856,
+    "date": 1761222256,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -11949,6 +11949,18 @@
     "date": 1761217856,
     "symbol": "APRUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761222256,
+    "symbol": "CGN_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761222256,
+    "symbol": "CGN_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

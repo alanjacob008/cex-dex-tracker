@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761300798,
+    "date": 1761304249,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12147,6 +12147,18 @@
     "date": 1761300798,
     "symbol": "TROY-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1761304249,
+    "symbol": "AT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761304249,
+    "symbol": "TURTLE-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

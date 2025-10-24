@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761293794,
+    "date": 1761297245,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12034,5 +12034,107 @@
     "symbol": "10000WENUSDTM",
     "name": "KuCoin Futures",
     "action": "delisted"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "ONUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "ON_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "SOLUSDT-14NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "ETHUSDT-14NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "XRPUSDT-14NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "BTCUSDT-14NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "ON_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "PING_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "BTC-USDT-251107",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "ETH-USDT-251107",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "BTC-USD-251107",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "ETH-USD-251107",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "DFDVXUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "PINGUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "SANTAUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "OROCHIUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761297245,
+    "symbol": "ONUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

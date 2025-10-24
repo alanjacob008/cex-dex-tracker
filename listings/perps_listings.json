@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761304249,
+    "date": 1761308664,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12159,6 +12159,24 @@
     "date": 1761304249,
     "symbol": "TURTLE-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761308664,
+    "symbol": "APR-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761308664,
+    "symbol": "MET-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761308664,
+    "symbol": "APROUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

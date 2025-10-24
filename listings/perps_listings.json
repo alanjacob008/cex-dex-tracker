@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761297245,
+    "date": 1761300798,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12135,6 +12135,18 @@
     "date": 1761297245,
     "symbol": "ONUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761300798,
+    "symbol": "PF_RARIUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761300798,
+    "symbol": "TROY-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

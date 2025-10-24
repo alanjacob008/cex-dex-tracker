@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761308664,
+    "date": 1761312308,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12178,5 +12178,23 @@
     "symbol": "APROUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1761312308,
+    "symbol": "BLUAIUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761312308,
+    "symbol": "HANA-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761312308,
+    "symbol": "LAUNCHCOIN-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
   }
 ]

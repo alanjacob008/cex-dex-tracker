@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761289924,
+    "date": 1761293794,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12021,6 +12021,18 @@
     "date": 1761289924,
     "symbol": "100000AIDOGE_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761293794,
+    "symbol": "10000LADYSUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761293794,
+    "symbol": "10000WENUSDTM",
+    "name": "KuCoin Futures",
     "action": "delisted"
   }
 ]

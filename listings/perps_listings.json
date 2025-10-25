@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761408788,
+    "date": 1761412156,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12375,6 +12375,12 @@
     "date": 1761401391,
     "symbol": "KDAUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761412156,
+    "symbol": "STRK-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

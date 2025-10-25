@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761347480,
+    "date": 1761353633,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12213,6 +12213,12 @@
     "date": 1761340221,
     "symbol": "CHILLGUY-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761353633,
+    "symbol": "PF_SWEATUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

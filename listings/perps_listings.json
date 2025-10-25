@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761423139,
+    "date": 1761426594,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12387,6 +12387,12 @@
     "date": 1761423139,
     "symbol": "MORPHO-USD",
     "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1761426594,
+    "symbol": "DOGEGUSDPERP",
+    "name": "Gemini Derivatives",
     "action": "delisted"
   }
 ]

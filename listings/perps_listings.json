@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761390520,
+    "date": 1761394821,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12357,6 +12357,12 @@
     "date": 1761383477,
     "symbol": "DOGSUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761394821,
+    "symbol": "PF_STGUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

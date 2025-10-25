@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761358814,
+    "date": 1761363030,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12218,6 +12218,12 @@
   {
     "date": 1761353633,
     "symbol": "PF_SWEATUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761363030,
+    "symbol": "PF_AUDIOUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761376243,
+    "date": 1761380047,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12225,6 +12225,132 @@
     "date": 1761363030,
     "symbol": "PF_AUDIOUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "F-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "GIGGLE-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "RSS3_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "DUCK_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "SOLO_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "FRAG_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "SERAPH_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "PF_ALPHAUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "PF_BADGERUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "PF_ACHUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "MEMEFIUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "JUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "RFCUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "XEMUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "OL-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "FLM-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "PERP-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "AVAAI-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "DOGS-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "SLP-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761380047,
+    "symbol": "T-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "delisted"
   }
 ]

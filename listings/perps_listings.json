@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761398239,
+    "date": 1761401391,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12363,6 +12363,18 @@
     "date": 1761394821,
     "symbol": "PF_STGUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761401391,
+    "symbol": "TQQQX_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761401391,
+    "symbol": "KDAUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

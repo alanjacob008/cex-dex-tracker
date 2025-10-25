@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761419313,
+    "date": 1761423139,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12381,6 +12381,12 @@
     "date": 1761412156,
     "symbol": "STRK-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761423139,
+    "symbol": "MORPHO-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

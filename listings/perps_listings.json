@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761509563,
+    "date": 1761513008,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12429,6 +12429,12 @@
     "date": 1761469878,
     "symbol": "BADGERUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761513008,
+    "symbol": "WCT-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761462629,
+    "date": 1761466478,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12417,6 +12417,12 @@
     "date": 1761462629,
     "symbol": "LOOKS_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761466478,
+    "symbol": "LAUNCHCOIN_USDT",
+    "name": "Gate (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761459383,
+    "date": 1761462629,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12399,6 +12399,24 @@
     "date": 1761459383,
     "symbol": "LAUNCHCOINUSDTM",
     "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761462629,
+    "symbol": "BADGER_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761462629,
+    "symbol": "LAUNCHCOIN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761462629,
+    "symbol": "LOOKS_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

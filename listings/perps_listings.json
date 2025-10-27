@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761538945,
+    "date": 1761542016,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12435,6 +12435,18 @@
     "date": 1761513008,
     "symbol": "WCT-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761542016,
+    "symbol": "PAYAI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761542016,
+    "symbol": "ZEUS-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

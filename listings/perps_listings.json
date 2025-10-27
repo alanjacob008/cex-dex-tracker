@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761560091,
+    "date": 1761563467,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12574,5 +12574,35 @@
     "symbol": "LAUNCHCOINUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1761563467,
+    "symbol": "42USDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761563467,
+    "symbol": "42_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761563467,
+    "symbol": "42_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761563467,
+    "symbol": "42USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761563467,
+    "symbol": "42USDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761567871,
+    "date": 1761571586,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12622,5 +12622,23 @@
     "symbol": "AVAILUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1761571586,
+    "symbol": "COMMONUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761571586,
+    "symbol": "COMMON_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761571586,
+    "symbol": "COMMONUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

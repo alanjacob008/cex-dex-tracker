@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761549198,
+    "date": 1761553061,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12454,5 +12454,53 @@
     "symbol": "PAYAIUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1761553061,
+    "symbol": "XNAP_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761553061,
+    "symbol": "LAUNCHCOIN-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761553061,
+    "symbol": "LOOKSUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761553061,
+    "symbol": "AVAILUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761553061,
+    "symbol": "FUELUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761553061,
+    "symbol": "LAUNCHCOINUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761553061,
+    "symbol": "AVAIL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761553061,
+    "symbol": "SWEAT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

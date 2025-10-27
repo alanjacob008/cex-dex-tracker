@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761556550,
+    "date": 1761560091,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12554,6 +12554,24 @@
   {
     "date": 1761556550,
     "symbol": "LOOKSUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761560091,
+    "symbol": "LABUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761560091,
+    "symbol": "AVAILUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761560091,
+    "symbol": "LAUNCHCOINUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
   }

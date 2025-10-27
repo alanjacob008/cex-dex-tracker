@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761571586,
+    "date": 1761574386,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12639,6 +12639,18 @@
     "date": 1761571586,
     "symbol": "COMMONUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761574386,
+    "symbol": "COMMONUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761574386,
+    "symbol": "COMMONUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

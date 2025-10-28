@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761660777,
+    "date": 1761664413,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12699,6 +12699,12 @@
     "date": 1761654207,
     "symbol": "XNAPUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761664413,
+    "symbol": "XMR-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

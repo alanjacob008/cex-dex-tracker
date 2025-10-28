@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761635561,
+    "date": 1761639419,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12658,5 +12658,11 @@
     "symbol": "PF_USUALUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1761639419,
+    "symbol": "COMMON-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

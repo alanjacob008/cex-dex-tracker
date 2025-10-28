@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761612873,
+    "date": 1761618208,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12652,5 +12652,11 @@
     "symbol": "COMMONUSDTM",
     "name": "KuCoin Futures",
     "action": "listed"
+  },
+  {
+    "date": 1761618208,
+    "symbol": "PF_USUALUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

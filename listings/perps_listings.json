@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761649825,
+    "date": 1761654207,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12687,6 +12687,18 @@
     "date": 1761649825,
     "symbol": "GIGGLE-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1761654207,
+    "symbol": "PIGGY_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761654207,
+    "symbol": "XNAPUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

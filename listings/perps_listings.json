@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761646453,
+    "date": 1761649825,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12675,6 +12675,18 @@
     "date": 1761646453,
     "symbol": "FUNSOL_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761649825,
+    "symbol": "PIGGY_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761649825,
+    "symbol": "GIGGLE-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

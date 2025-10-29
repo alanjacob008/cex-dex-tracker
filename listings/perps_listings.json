@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761725838,
+    "date": 1761729204,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12741,6 +12741,36 @@
     "date": 1761725838,
     "symbol": "FRAGUSDTM",
     "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761729204,
+    "symbol": "MNTUSDT-14NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761729204,
+    "symbol": "DOGEUSDT-28NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761729204,
+    "symbol": "PIGGYUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761729204,
+    "symbol": "DOGSUSD_PERP",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761729204,
+    "symbol": "GMTUSD_PERP",
+    "name": "Binance (Futures)",
     "action": "delisted"
   }
 ]

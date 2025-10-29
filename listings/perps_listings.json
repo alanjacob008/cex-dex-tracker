@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761747191,
+    "date": 1761750817,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12897,6 +12897,12 @@
     "date": 1761747191,
     "symbol": "KITE_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761750817,
+    "symbol": "ATUSDT",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

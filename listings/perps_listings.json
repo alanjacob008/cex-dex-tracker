@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761721965,
+    "date": 1761725838,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12712,5 +12712,35 @@
     "symbol": "RIVER-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1761725838,
+    "symbol": "PIGGY-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761725838,
+    "symbol": "PIGGYUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761725838,
+    "symbol": "GORKUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761725838,
+    "symbol": "MAJORUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761725838,
+    "symbol": "FRAGUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
   }
 ]

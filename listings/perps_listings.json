@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761718756,
+    "date": 1761721965,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12705,6 +12705,12 @@
     "date": 1761664413,
     "symbol": "XMR-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1761721965,
+    "symbol": "RIVER-USDT",
+    "name": "HTX Futures",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761744452,
+    "date": 1761747191,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12891,6 +12891,12 @@
     "date": 1761744452,
     "symbol": "KITEUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761747191,
+    "symbol": "KITE_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761736264,
+    "date": 1761740690,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12801,6 +12801,42 @@
     "date": 1761736264,
     "symbol": "KITEUSDT",
     "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761740690,
+    "symbol": "ATUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761740690,
+    "symbol": "KITE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761740690,
+    "symbol": "BOS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761740690,
+    "symbol": "XNL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761740690,
+    "symbol": "EAT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761740690,
+    "symbol": "KITEUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

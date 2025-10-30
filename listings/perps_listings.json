@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761795527,
+    "date": 1761797664,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12908,6 +12908,18 @@
   {
     "date": 1761795527,
     "symbol": "SUPERUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761797664,
+    "symbol": "HNTUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761797664,
+    "symbol": "FLRUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
   }

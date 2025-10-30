@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761812183,
+    "date": 1761815632,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12921,6 +12921,30 @@
     "date": 1761797664,
     "symbol": "FLRUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761815632,
+    "symbol": "OL-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761815632,
+    "symbol": "ENSO-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761815632,
+    "symbol": "PIGGY-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761815632,
+    "symbol": "CLANKER-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

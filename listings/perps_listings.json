@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761792086,
+    "date": 1761795527,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12903,6 +12903,12 @@
     "date": 1761750817,
     "symbol": "ATUSDT",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761795527,
+    "symbol": "SUPERUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

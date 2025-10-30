@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761819204,
+    "date": 1761822649,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12945,6 +12945,18 @@
     "date": 1761815632,
     "symbol": "CLANKER-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1761822649,
+    "symbol": "RECALL-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761822649,
+    "symbol": "AT-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

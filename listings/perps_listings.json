@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761894753,
+    "date": 1761898562,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -12976,5 +12976,83 @@
     "symbol": "LAB-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "MET-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "ELX_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "SWEAT_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "MAJOR_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "RHEA_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "REX_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "SYN_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "GORK_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "SCA_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "SCR-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "TNSR-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "STORJ-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761898562,
+    "symbol": "NXPC-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "delisted"
   }
 ]

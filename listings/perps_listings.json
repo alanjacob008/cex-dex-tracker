@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761917079,
+    "date": 1761923489,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13179,6 +13179,36 @@
     "date": 1761917079,
     "symbol": "CC-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761923489,
+    "symbol": "MNTUSDT-21NOV25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761923489,
+    "symbol": "CC-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761923489,
+    "symbol": "CANTONUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761923489,
+    "symbol": "CCUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1761923489,
+    "symbol": "FF_SOLUSD_251128",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

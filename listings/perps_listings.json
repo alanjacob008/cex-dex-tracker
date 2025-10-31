@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761905605,
+    "date": 1761909024,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13112,6 +13112,18 @@
   {
     "date": 1761905605,
     "symbol": "GNOUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761909024,
+    "symbol": "AXLUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761909024,
+    "symbol": "TWTUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761995338,
+    "date": 1761999640,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13281,6 +13281,12 @@
     "date": 1761991896,
     "symbol": "BEAT_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1761999640,
+    "symbol": "LAB-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

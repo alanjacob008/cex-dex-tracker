@@ -1,6 +1,6 @@
 [
   {
-    "date": 1761981085,
+    "date": 1761984912,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13216,5 +13216,59 @@
     "symbol": "FF_ETHUSD_251107",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "KDA_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "AIN-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "HFT-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "B-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "NEWT-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "SAHARA-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "SIGN-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "CKB-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1761984912,
+    "symbol": "VELVET-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
   }
 ]

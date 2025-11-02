@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762096221,
+    "date": 1762099959,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13306,5 +13306,11 @@
     "symbol": "LITKEY_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762099959,
+    "symbol": "APT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

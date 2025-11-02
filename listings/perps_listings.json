@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762038630,
+    "date": 1762051602,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13288,5 +13288,11 @@
     "symbol": "LAB-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762051602,
+    "symbol": "PENDLE-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

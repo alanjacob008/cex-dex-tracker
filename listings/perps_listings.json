@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762071259,
+    "date": 1762078311,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13293,6 +13293,12 @@
     "date": 1762051602,
     "symbol": "PENDLE-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762078311,
+    "symbol": "FLMUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

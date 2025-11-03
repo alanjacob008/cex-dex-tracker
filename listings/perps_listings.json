@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762154061,
+    "date": 1762157958,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13317,6 +13317,18 @@
     "date": 1762154061,
     "symbol": "ZEN-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762157958,
+    "symbol": "TITN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762157958,
+    "symbol": "ZENTUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

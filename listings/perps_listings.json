@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762150783,
+    "date": 1762154061,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13312,5 +13312,11 @@
     "symbol": "APT-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1762154061,
+    "symbol": "ZEN-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

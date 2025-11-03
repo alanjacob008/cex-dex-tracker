@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762157958,
+    "date": 1762161387,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13328,6 +13328,24 @@
   {
     "date": 1762157958,
     "symbol": "ZENTUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762161387,
+    "symbol": "DASH-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762161387,
+    "symbol": "ZEN-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762161387,
+    "symbol": "ZENUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
   }

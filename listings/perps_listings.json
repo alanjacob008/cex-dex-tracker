@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762244225,
+    "date": 1762247711,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13383,6 +13383,24 @@
     "date": 1762244225,
     "symbol": "TYCOON_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762247711,
+    "symbol": "PAXG_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762247711,
+    "symbol": "ZRO_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762247711,
+    "symbol": "MORPHO-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

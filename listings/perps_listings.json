@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762237207,
+    "date": 1762240354,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13372,5 +13372,11 @@
     "symbol": "KITE-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1762240354,
+    "symbol": "HIFI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

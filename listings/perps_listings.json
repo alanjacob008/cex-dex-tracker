@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762355597,
+    "date": 1762359354,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13522,5 +13522,11 @@
     "symbol": "SENTIS_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762359354,
+    "symbol": "HNT-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

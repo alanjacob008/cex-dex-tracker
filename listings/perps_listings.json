@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762334044,
+    "date": 1762337683,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13468,5 +13468,41 @@
     "symbol": "MMT-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1762337683,
+    "symbol": "TRUSTUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762337683,
+    "symbol": "TRUST_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762337683,
+    "symbol": "1_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762337683,
+    "symbol": "TRUST_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762337683,
+    "symbol": "TRUSTUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762337683,
+    "symbol": "RAY-PERP",
+    "name": "Drift Protocol",
+    "action": "delisted"
   }
 ]

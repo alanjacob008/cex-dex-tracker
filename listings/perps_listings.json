@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762345513,
+    "date": 1762349195,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13515,6 +13515,12 @@
     "date": 1762345513,
     "symbol": "TRUST-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762349195,
+    "symbol": "SENTIS_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

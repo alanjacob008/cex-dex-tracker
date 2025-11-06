@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762438411,
+    "date": 1762442020,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13695,6 +13695,24 @@
     "date": 1762438411,
     "symbol": "UAIUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762442020,
+    "symbol": "PLTRX_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762442020,
+    "symbol": "ORCLX_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762442020,
+    "symbol": "STABLE_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

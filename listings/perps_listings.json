@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762431929,
+    "date": 1762435579,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13648,5 +13648,47 @@
     "symbol": "NEETUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1762435579,
+    "symbol": "STABLEUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762435579,
+    "symbol": "FOLKSUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762435579,
+    "symbol": "STABLE_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762435579,
+    "symbol": "FOLKS_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762435579,
+    "symbol": "ORE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762435579,
+    "symbol": "STABLEUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762435579,
+    "symbol": "FOLKSUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

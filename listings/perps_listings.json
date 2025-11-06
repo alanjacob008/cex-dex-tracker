@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762396903,
+    "date": 1762400579,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13528,5 +13528,17 @@
     "symbol": "HNT-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1762400579,
+    "symbol": "ZEC-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762400579,
+    "symbol": "DASH-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762406056,
+    "date": 1762413138,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13552,5 +13552,35 @@
     "symbol": "XAUT_USDC",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762413138,
+    "symbol": "TRUST-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762413138,
+    "symbol": "PF_VVVUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762413138,
+    "symbol": "PSTAKE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762413138,
+    "symbol": "UNITE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762413138,
+    "symbol": "HSK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

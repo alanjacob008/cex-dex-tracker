@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762402745,
+    "date": 1762406056,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13539,6 +13539,18 @@
     "date": 1762400579,
     "symbol": "DASH-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762406056,
+    "symbol": "PAXG_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762406056,
+    "symbol": "XAUT_USDC",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

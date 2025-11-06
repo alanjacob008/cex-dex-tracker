@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762420501,
+    "date": 1762424127,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13588,5 +13588,17 @@
     "symbol": "PF_AI16ZUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1762424127,
+    "symbol": "LONG_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762424127,
+    "symbol": "BULLA-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

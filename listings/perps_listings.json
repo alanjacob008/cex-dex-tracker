@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762482511,
+    "date": 1762486766,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13737,6 +13737,12 @@
     "date": 1762470699,
     "symbol": "PF_ZBTUSD",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762486766,
+    "symbol": "ELIZAOS_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

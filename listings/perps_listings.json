@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762531973,
+    "date": 1762535450,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13942,5 +13942,17 @@
     "symbol": "FF_XBTUSD_251114",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762535450,
+    "symbol": "PF_ENSOUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762535450,
+    "symbol": "POPCAT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

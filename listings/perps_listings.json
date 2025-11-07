@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762524767,
+    "date": 1762528394,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13917,6 +13917,24 @@
     "date": 1762518216,
     "symbol": "KDAUSDT",
     "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762528394,
+    "symbol": "ZEC_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762528394,
+    "symbol": "DASH_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762528394,
+    "symbol": "AI16Z-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }
 ]

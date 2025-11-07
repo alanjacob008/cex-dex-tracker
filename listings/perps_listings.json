@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762503451,
+    "date": 1762506792,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13808,6 +13808,66 @@
   {
     "date": 1762503451,
     "symbol": "CETUS-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "ETH-USD-251121",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "ETH-USDT-251121",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "BTC-USD-251121",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "BTC-USDT-251121",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "ZK-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "KDAUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "AI16ZUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "AI16ZUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "AI16Z-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762506792,
+    "symbol": "SYRUP-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762572668,
+    "date": 1762575243,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13954,5 +13954,11 @@
     "symbol": "POPCAT-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1762575243,
+    "symbol": "ICP-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

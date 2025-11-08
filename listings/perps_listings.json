@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762578684,
+    "date": 1762582598,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -13960,5 +13960,11 @@
     "symbol": "ICP-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762582598,
+    "symbol": "MUBARAK-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

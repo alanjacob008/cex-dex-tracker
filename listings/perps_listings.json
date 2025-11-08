@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762589663,
+    "date": 1762593081,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14019,6 +14019,24 @@
     "date": 1762589663,
     "symbol": "ERA-USDT",
     "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1762593081,
+    "symbol": "AXSUSD_PERP",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762593081,
+    "symbol": "THETAUSD_PERP",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762593081,
+    "symbol": "AI16Z-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "delisted"
   }
 ]

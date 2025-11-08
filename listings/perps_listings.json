@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762618423,
+    "date": 1762621760,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14043,6 +14043,12 @@
     "date": 1762607904,
     "symbol": "FF_ETHUSD_251114",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762621760,
+    "symbol": "DREAMSX402_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

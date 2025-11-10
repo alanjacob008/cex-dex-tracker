@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762769687,
+    "date": 1762773045,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14078,6 +14078,30 @@
   {
     "date": 1762769687,
     "symbol": "AIA-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1762773045,
+    "symbol": "JCTUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762773045,
+    "symbol": "JCT_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762773045,
+    "symbol": "JCTUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762773045,
+    "symbol": "FIL-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
   }

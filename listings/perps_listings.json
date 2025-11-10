@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762729825,
+    "date": 1762736412,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14050,5 +14050,11 @@
     "symbol": "DREAMSX402_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762736412,
+    "symbol": "PF_BANDUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

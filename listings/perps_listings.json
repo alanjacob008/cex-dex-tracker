@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762766119,
+    "date": 1762769687,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14067,6 +14067,18 @@
     "date": 1762762704,
     "symbol": "TRUTH-USDT",
     "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762769687,
+    "symbol": "JCT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762769687,
+    "symbol": "AIA-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

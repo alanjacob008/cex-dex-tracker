@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762773045,
+    "date": 1762777467,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14104,5 +14104,17 @@
     "symbol": "FIL-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1762777467,
+    "symbol": "ULTIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1762777467,
+    "symbol": "FWOGUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762867522,
+    "date": 1762870356,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14175,6 +14175,12 @@
     "date": 1762867522,
     "symbol": "ALLO_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762870356,
+    "symbol": "ALLOUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

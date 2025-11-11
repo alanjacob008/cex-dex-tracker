@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762841951,
+    "date": 1762845189,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14146,5 +14146,11 @@
     "symbol": "PF_ASTRUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1762845189,
+    "symbol": "AERO-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

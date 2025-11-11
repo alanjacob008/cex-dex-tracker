@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762828971,
+    "date": 1762832487,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14134,5 +14134,11 @@
     "symbol": "PF_HFTUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1762832487,
+    "symbol": "AVICI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

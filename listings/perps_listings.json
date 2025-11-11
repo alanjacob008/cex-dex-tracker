@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762881078,
+    "date": 1762885026,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14193,6 +14193,12 @@
     "date": 1762873981,
     "symbol": "ALLOUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762885026,
+    "symbol": "ALLO-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

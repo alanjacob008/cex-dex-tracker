@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762938874,
+    "date": 1762942499,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14212,5 +14212,35 @@
     "symbol": "NCUSDTM",
     "name": "KuCoin Futures",
     "action": "delisted"
+  },
+  {
+    "date": 1762942499,
+    "symbol": "FUTUON_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762942499,
+    "symbol": "RDDTON_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762942499,
+    "symbol": "NFLXON_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762942499,
+    "symbol": "JDON_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762942499,
+    "symbol": "PF_METUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

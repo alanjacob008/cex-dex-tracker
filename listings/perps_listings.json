@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762950284,
+    "date": 1762954095,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14271,6 +14271,36 @@
     "date": 1762950284,
     "symbol": "CLANKERUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762954095,
+    "symbol": "CLANKERUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762954095,
+    "symbol": "BEATUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762954095,
+    "symbol": "BEATUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762954095,
+    "symbol": "CLANKERUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762954095,
+    "symbol": "VVV-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762928343,
+    "date": 1762931569,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14200,5 +14200,17 @@
     "symbol": "ALLO-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762931569,
+    "symbol": "ALLO-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1762931569,
+    "symbol": "NCUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
   }
 ]

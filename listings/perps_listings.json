@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762945886,
+    "date": 1762950284,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14248,5 +14248,29 @@
     "symbol": "AKT-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1762950284,
+    "symbol": "BEAT_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762950284,
+    "symbol": "CLANKER_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762950284,
+    "symbol": "BEATUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1762950284,
+    "symbol": "CLANKERUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

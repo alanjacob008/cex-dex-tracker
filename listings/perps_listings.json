@@ -1,6 +1,6 @@
 [
   {
-    "date": 1762942499,
+    "date": 1762945886,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14242,5 +14242,11 @@
     "symbol": "PF_METUSD",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1762945886,
+    "symbol": "AKT-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

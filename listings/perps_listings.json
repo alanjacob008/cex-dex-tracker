@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763017948,
+    "date": 1763021844,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14344,5 +14344,11 @@
     "symbol": "PF_GRIFFAINUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1763021844,
+    "symbol": "BULLISH_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763050518,
+    "date": 1763053974,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14398,5 +14398,11 @@
     "symbol": "PLANCKUSDTM",
     "name": "KuCoin Futures",
     "action": "listed"
+  },
+  {
+    "date": 1763053974,
+    "symbol": "PF_ALICEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

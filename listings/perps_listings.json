@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763010784,
+    "date": 1763014797,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14331,6 +14331,18 @@
     "date": 1763007513,
     "symbol": "TNSR-PERP",
     "name": "Drift Protocol",
+    "action": "delisted"
+  },
+  {
+    "date": 1763014797,
+    "symbol": "BEAT-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1763014797,
+    "symbol": "PF_GRIFFAINUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

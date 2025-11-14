@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763133137,
+    "date": 1763136936,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14607,6 +14607,18 @@
     "date": 1763133137,
     "symbol": "SENTUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763136936,
+    "symbol": "XYZ:PLTR-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763136936,
+    "symbol": "SENT-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

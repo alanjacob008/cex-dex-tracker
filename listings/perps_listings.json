@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763108211,
+    "date": 1763111609,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14439,6 +14439,54 @@
     "date": 1763108211,
     "symbol": "CLOUD_USDT",
     "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763111609,
+    "symbol": "ETHUSDT-05DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763111609,
+    "symbol": "MNTUSDT-05DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763111609,
+    "symbol": "ETH-USD-260130",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763111609,
+    "symbol": "BTC-USDT-260130",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763111609,
+    "symbol": "BTC-USD-260130",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763111609,
+    "symbol": "ETH-USDT-251128",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763111609,
+    "symbol": "PLANCKUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763111609,
+    "symbol": "MANAUSD_PERP",
+    "name": "Binance (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763129569,
+    "date": 1763133137,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14589,6 +14589,24 @@
     "date": 1763129569,
     "symbol": "SENTUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1763133137,
+    "symbol": "PLAYSOLANA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763133137,
+    "symbol": "SENT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763133137,
+    "symbol": "SENTUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

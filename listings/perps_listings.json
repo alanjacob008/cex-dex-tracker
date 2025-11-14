@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763111609,
+    "date": 1763115275,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14488,5 +14488,17 @@
     "symbol": "MANAUSD_PERP",
     "name": "Binance (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1763115275,
+    "symbol": "SOLUSDT-05DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763115275,
+    "symbol": "BTCUSDT-05DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
   }
 ]

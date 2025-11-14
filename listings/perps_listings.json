@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763093751,
+    "date": 1763097169,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14404,5 +14404,11 @@
     "symbol": "PF_ALICEUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1763097169,
+    "symbol": "WOJAKONX_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

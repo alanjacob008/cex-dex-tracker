@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763215798,
+    "date": 1763219458,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14805,6 +14805,12 @@
     "date": 1763201492,
     "symbol": "AIUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763219458,
+    "symbol": "PUMP-USD",
+    "name": "dYdX Chain",
     "action": "delisted"
   }
 ]

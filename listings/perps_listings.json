@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763194490,
+    "date": 1763197885,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14769,6 +14769,18 @@
     "date": 1763194490,
     "symbol": "CTC-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763197885,
+    "symbol": "MYROUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763197885,
+    "symbol": "1000XUSDT",
+    "name": "Binance (Futures)",
     "action": "delisted"
   }
 ]

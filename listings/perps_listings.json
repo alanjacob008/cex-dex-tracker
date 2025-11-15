@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763187432,
+    "date": 1763190634,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14631,6 +14631,24 @@
     "date": 1763161893,
     "symbol": "OP-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763190634,
+    "symbol": "1000XUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1763190634,
+    "symbol": "MYROUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1763190634,
+    "symbol": "NAKAUSDTM",
+    "name": "KuCoin Futures",
     "action": "delisted"
   }
 ]

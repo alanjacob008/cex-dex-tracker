@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763302226,
+    "date": 1763305858,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14847,6 +14847,12 @@
     "date": 1763299131,
     "symbol": "ONDO-USD",
     "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1763305858,
+    "symbol": "PF_FLOWUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

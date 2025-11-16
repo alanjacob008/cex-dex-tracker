@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763313010,
+    "date": 1763317017,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14853,6 +14853,18 @@
     "date": 1763305858,
     "symbol": "PF_FLOWUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763317017,
+    "symbol": "PF_MORPHOUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763317017,
+    "symbol": "LDO-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

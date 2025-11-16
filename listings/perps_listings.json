@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763277076,
+    "date": 1763280878,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14834,6 +14834,12 @@
   {
     "date": 1763266723,
     "symbol": "CRO-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763280878,
+    "symbol": "KAITO-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763388762,
+    "date": 1763392498,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14925,6 +14925,12 @@
     "date": 1763377875,
     "symbol": "GLMUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763392498,
+    "symbol": "MET-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

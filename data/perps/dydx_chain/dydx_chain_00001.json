@@ -86266,5 +86266,911 @@
     "open_interest": 80.6,
     "volume_24h": 5200.0,
     "date": 1763255311
+  },
+  {
+    "symbol": "BTC-USD",
+    "open_interest": 34107403.75,
+    "volume_24h": 292557190.1819,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ETH-USD",
+    "open_interest": 25114288.54,
+    "volume_24h": 111485254.5463,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SOL-USD",
+    "open_interest": 3891008.82,
+    "volume_24h": 77005529.122,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ENA-USD",
+    "open_interest": 2613978.19,
+    "volume_24h": 89400.746,
+    "date": 1763341529
+  },
+  {
+    "symbol": "LINK-USD",
+    "open_interest": 1820387.89,
+    "volume_24h": 261510.771,
+    "date": 1763341529
+  },
+  {
+    "symbol": "UNI-USD",
+    "open_interest": 1679294.69,
+    "volume_24h": 526145.642,
+    "date": 1763341529
+  },
+  {
+    "symbol": "DOGE-USD",
+    "open_interest": 1498509.65,
+    "volume_24h": 449899.585,
+    "date": 1763341529
+  },
+  {
+    "symbol": "XRP-USD",
+    "open_interest": 1439399.93,
+    "volume_24h": 2512689.606,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AAVE-USD",
+    "open_interest": 876975.53,
+    "volume_24h": 40405.907,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SUI-USD",
+    "open_interest": 741709.46,
+    "volume_24h": 327449.604,
+    "date": 1763341529
+  },
+  {
+    "symbol": "FIL-USD",
+    "open_interest": 531221.17,
+    "volume_24h": 70720.174,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ZEC-USD",
+    "open_interest": 512138.52,
+    "volume_24h": 521817.302,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ADA-USD",
+    "open_interest": 475182.56,
+    "volume_24h": 99752.52,
+    "date": 1763341529
+  },
+  {
+    "symbol": "BCH-USD",
+    "open_interest": 446482.43,
+    "volume_24h": 247817.925,
+    "date": 1763341529
+  },
+  {
+    "symbol": "LTC-USD",
+    "open_interest": 431341.22,
+    "volume_24h": 343710.372,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AVAX-USD",
+    "open_interest": 406210.88,
+    "volume_24h": 68387.544,
+    "date": 1763341529
+  },
+  {
+    "symbol": "TRX-USD",
+    "open_interest": 403578.01,
+    "volume_24h": 4495.903,
+    "date": 1763341529
+  },
+  {
+    "symbol": "DOT-USD",
+    "open_interest": 372390.07,
+    "volume_24h": 12665.415,
+    "date": 1763341529
+  },
+  {
+    "symbol": "BNB-USD",
+    "open_interest": 346789.32,
+    "volume_24h": 136140.337,
+    "date": 1763341529
+  },
+  {
+    "symbol": "APT-USD",
+    "open_interest": 341580.76,
+    "volume_24h": 30103.567,
+    "date": 1763341529
+  },
+  {
+    "symbol": "XMR-USD",
+    "open_interest": 290047.68,
+    "volume_24h": 57529.384,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SEI-USD",
+    "open_interest": 288403.26,
+    "volume_24h": 115704.258,
+    "date": 1763341529
+  },
+  {
+    "symbol": "NEAR-USD",
+    "open_interest": 279751.92,
+    "volume_24h": 98847.924,
+    "date": 1763341529
+  },
+  {
+    "symbol": "DYDX-USD",
+    "open_interest": 263993.67,
+    "volume_24h": 38849.918,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ATOM-USD",
+    "open_interest": 258872.19,
+    "volume_24h": 21412.257,
+    "date": 1763341529
+  },
+  {
+    "symbol": "CRV-USD",
+    "open_interest": 237066.94,
+    "volume_24h": 16615.814,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ALGO-USD",
+    "open_interest": 222712.83,
+    "volume_24h": 2203.513,
+    "date": 1763341529
+  },
+  {
+    "symbol": "TIA-USD",
+    "open_interest": 221141.8,
+    "volume_24h": 26113.576,
+    "date": 1763341529
+  },
+  {
+    "symbol": "INJ-USD",
+    "open_interest": 198920.25,
+    "volume_24h": 1411.88,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ICP-USD",
+    "open_interest": 198225.44,
+    "volume_24h": 86207.832,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SNX-USD",
+    "open_interest": 170256.13,
+    "volume_24h": 2129.054,
+    "date": 1763341529
+  },
+  {
+    "symbol": "OP-USD",
+    "open_interest": 152058.06,
+    "volume_24h": 6969.384,
+    "date": 1763341529
+  },
+  {
+    "symbol": "PEPE-USD",
+    "open_interest": 149557.61,
+    "volume_24h": 8582.626,
+    "date": 1763341529
+  },
+  {
+    "symbol": "WLD-USD",
+    "open_interest": 137387.66,
+    "volume_24h": 63169.837,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ARB-USD",
+    "open_interest": 136880.7,
+    "volume_24h": 3220.328,
+    "date": 1763341529
+  },
+  {
+    "symbol": "COMP-USD",
+    "open_interest": 116731.81,
+    "volume_24h": 6196.069,
+    "date": 1763341529
+  },
+  {
+    "symbol": "TON-USD",
+    "open_interest": 115375.51,
+    "volume_24h": 14811.333,
+    "date": 1763341529
+  },
+  {
+    "symbol": "STX-USD",
+    "open_interest": 102493.08,
+    "volume_24h": 14820.568,
+    "date": 1763341529
+  },
+  {
+    "symbol": "STRK-USD",
+    "open_interest": 98432.99,
+    "volume_24h": 216108.145,
+    "date": 1763341529
+  },
+  {
+    "symbol": "HYPE-USD",
+    "open_interest": 97666.61,
+    "volume_24h": 520772.302,
+    "date": 1763341529
+  },
+  {
+    "symbol": "XLM-USD",
+    "open_interest": 95579.37,
+    "volume_24h": 28337.73,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ZK-USD",
+    "open_interest": 89730.87,
+    "volume_24h": 140923.566,
+    "date": 1763341529
+  },
+  {
+    "symbol": "JUP-USD",
+    "open_interest": 83438.02,
+    "volume_24h": 6634.51,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ETC-USD",
+    "open_interest": 82220.61,
+    "volume_24h": 31205.068,
+    "date": 1763341529
+  },
+  {
+    "symbol": "1INCH-USD",
+    "open_interest": 81854.72,
+    "volume_24h": 6653.427,
+    "date": 1763341529
+  },
+  {
+    "symbol": "WIF-USD",
+    "open_interest": 72224.19,
+    "volume_24h": 4308.817,
+    "date": 1763341529
+  },
+  {
+    "symbol": "HBAR-USD",
+    "open_interest": 70030.05,
+    "volume_24h": 3397.434,
+    "date": 1763341529
+  },
+  {
+    "symbol": "LDO-USD",
+    "open_interest": 66521.47,
+    "volume_24h": 1444.252,
+    "date": 1763341529
+  },
+  {
+    "symbol": "RUNE-USD",
+    "open_interest": 59641.79,
+    "volume_24h": 1973.945,
+    "date": 1763341529
+  },
+  {
+    "symbol": "TAO-USD",
+    "open_interest": 50662.61,
+    "volume_24h": 5329.837,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AVNT-USD",
+    "open_interest": 44634.24,
+    "volume_24h": 229846.392,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SHIB-USD",
+    "open_interest": 41911.08,
+    "volume_24h": 7790.88,
+    "date": 1763341529
+  },
+  {
+    "symbol": "BONK-USD",
+    "open_interest": 41336.94,
+    "volume_24h": 30761.769,
+    "date": 1763341529
+  },
+  {
+    "symbol": "MNT-USD",
+    "open_interest": 41283.48,
+    "volume_24h": 29204.057,
+    "date": 1763341529
+  },
+  {
+    "symbol": "IMX-USD",
+    "open_interest": 39749.2,
+    "volume_24h": 703.897,
+    "date": 1763341529
+  },
+  {
+    "symbol": "FLOKI-USD",
+    "open_interest": 37411.2,
+    "volume_24h": 277.047,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ONDO-USD",
+    "open_interest": 35934.0,
+    "volume_24h": 114.454,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ASTER-USD",
+    "open_interest": 34402.51,
+    "volume_24h": 303646.6,
+    "date": 1763341529
+  },
+  {
+    "symbol": "DYM-USD",
+    "open_interest": 29913.86,
+    "volume_24h": 33589.902,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ORDI-USD",
+    "open_interest": 27332.08,
+    "volume_24h": 2023.274,
+    "date": 1763341529
+  },
+  {
+    "symbol": "XPL-USD",
+    "open_interest": 26154.41,
+    "volume_24h": 3177.428,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SPX-USD",
+    "open_interest": 26047.83,
+    "volume_24h": 141047.735,
+    "date": 1763341529
+  },
+  {
+    "symbol": "PUMP-USD",
+    "open_interest": 25353.9,
+    "volume_24h": 9006.11,
+    "date": 1763341529
+  },
+  {
+    "symbol": "WCT-USD",
+    "open_interest": 24734.96,
+    "volume_24h": 23441.247,
+    "date": 1763341529
+  },
+  {
+    "symbol": "VIRTUAL-USD",
+    "open_interest": 24512.32,
+    "volume_24h": 4734.165,
+    "date": 1763341529
+  },
+  {
+    "symbol": "TRUMP-USD",
+    "open_interest": 22491.94,
+    "volume_24h": 1957.478,
+    "date": 1763341529
+  },
+  {
+    "symbol": "IP-USD",
+    "open_interest": 19836.51,
+    "volume_24h": 9755.487,
+    "date": 1763341529
+  },
+  {
+    "symbol": "PENDLE-USD",
+    "open_interest": 19348.19,
+    "volume_24h": 19280.989,
+    "date": 1763341529
+  },
+  {
+    "symbol": "RENDER-USD",
+    "open_interest": 18116.87,
+    "volume_24h": 3220.883,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AERO-USD",
+    "open_interest": 17183.09,
+    "volume_24h": 799.036,
+    "date": 1763341529
+  },
+  {
+    "symbol": "JTO-USD",
+    "open_interest": 16270.08,
+    "volume_24h": 16058.576,
+    "date": 1763341529
+  },
+  {
+    "symbol": "BLUR-USD",
+    "open_interest": 16187.4,
+    "volume_24h": 27361.301,
+    "date": 1763341529
+  },
+  {
+    "symbol": "BERA-USD",
+    "open_interest": 16171.11,
+    "volume_24h": 4089.537,
+    "date": 1763341529
+  },
+  {
+    "symbol": "BLAST-USD",
+    "open_interest": 16033.71,
+    "volume_24h": 4961.463,
+    "date": 1763341529
+  },
+  {
+    "symbol": "POPCAT-USD",
+    "open_interest": 15953.32,
+    "volume_24h": 59949.721,
+    "date": 1763341529
+  },
+  {
+    "symbol": "MORPHO-USD",
+    "open_interest": 15736.9,
+    "volume_24h": 3689.984,
+    "date": 1763341529
+  },
+  {
+    "symbol": "W-USD",
+    "open_interest": 15400.98,
+    "volume_24h": 789.137,
+    "date": 1763341529
+  },
+  {
+    "symbol": "MANA-USD",
+    "open_interest": 14529.94,
+    "volume_24h": 4723.845,
+    "date": 1763341529
+  },
+  {
+    "symbol": "POL-USD",
+    "open_interest": 14176.43,
+    "volume_24h": 4.473,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ZORA-USD",
+    "open_interest": 13756.3,
+    "volume_24h": 467853.976,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AIXBT-USD",
+    "open_interest": 13716.51,
+    "volume_24h": 899.16,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ASTR-USD",
+    "open_interest": 13314.36,
+    "volume_24h": 1420.032,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ZEN-USD",
+    "open_interest": 12341.82,
+    "volume_24h": 2040.142,
+    "date": 1763341529
+  },
+  {
+    "symbol": "GRT-USD",
+    "open_interest": 11151.14,
+    "volume_24h": 1185.043,
+    "date": 1763341529
+  },
+  {
+    "symbol": "USELESS-USD",
+    "open_interest": 11107.86,
+    "volume_24h": 20868.836,
+    "date": 1763341529
+  },
+  {
+    "symbol": "LA-USD",
+    "open_interest": 10784.21,
+    "volume_24h": 9191.086,
+    "date": 1763341529
+  },
+  {
+    "symbol": "WOO-USD",
+    "open_interest": 10589.06,
+    "volume_24h": 109.109,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AXL-USD",
+    "open_interest": 9852.22,
+    "volume_24h": 2884.016,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ENS-USD",
+    "open_interest": 9403.85,
+    "volume_24h": 127.744,
+    "date": 1763341529
+  },
+  {
+    "symbol": "CHZ-USD",
+    "open_interest": 8871.69,
+    "volume_24h": 393.723,
+    "date": 1763341529
+  },
+  {
+    "symbol": "CVX-USD",
+    "open_interest": 8547.89,
+    "volume_24h": 11250.332,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SKL-USD",
+    "open_interest": 7959.91,
+    "volume_24h": 422.541,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AKT-USD",
+    "open_interest": 7635.82,
+    "volume_24h": 719.273,
+    "date": 1763341529
+  },
+  {
+    "symbol": "WLFI-USD",
+    "open_interest": 7233.36,
+    "volume_24h": 5175.166,
+    "date": 1763341529
+  },
+  {
+    "symbol": "BANANA-USD",
+    "open_interest": 7020.72,
+    "volume_24h": 239.4,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ETHFI-USD",
+    "open_interest": 6672.38,
+    "volume_24h": 1126.023,
+    "date": 1763341529
+  },
+  {
+    "symbol": "GALA-USD",
+    "open_interest": 6582.63,
+    "volume_24h": 57743.987,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SIGN-USD",
+    "open_interest": 6540.17,
+    "volume_24h": 12995.093,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ERA-USD",
+    "open_interest": 5976.43,
+    "volume_24h": 64757.006,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AEVO-USD",
+    "open_interest": 5550.53,
+    "volume_24h": 61.768,
+    "date": 1763341529
+  },
+  {
+    "symbol": "MOVE-USD",
+    "open_interest": 5486.78,
+    "volume_24h": 1526.929,
+    "date": 1763341529
+  },
+  {
+    "symbol": "FLR-USD",
+    "open_interest": 4175.78,
+    "volume_24h": 2310.87,
+    "date": 1763341529
+  },
+  {
+    "symbol": "NIL-USD",
+    "open_interest": 3938.6,
+    "volume_24h": 96009.763,
+    "date": 1763341529
+  },
+  {
+    "symbol": "REZ-USD",
+    "open_interest": 3754.18,
+    "volume_24h": 2856.898,
+    "date": 1763341529
+  },
+  {
+    "symbol": "RAY-USD",
+    "open_interest": 3125.3,
+    "volume_24h": 293.832,
+    "date": 1763341529
+  },
+  {
+    "symbol": "DRIFT-USD",
+    "open_interest": 2720.51,
+    "volume_24h": 3358.067,
+    "date": 1763341529
+  },
+  {
+    "symbol": "XTZ-USD",
+    "open_interest": 2659.74,
+    "volume_24h": 21.968,
+    "date": 1763341529
+  },
+  {
+    "symbol": "OSMO-USD",
+    "open_interest": 2448.68,
+    "volume_24h": 151.68,
+    "date": 1763341529
+  },
+  {
+    "symbol": "UMA-USD",
+    "open_interest": 2152.66,
+    "volume_24h": 3355.979,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SAFE-USD",
+    "open_interest": 2096.03,
+    "volume_24h": 1838.804,
+    "date": 1763341529
+  },
+  {
+    "symbol": "NEO-USD",
+    "open_interest": 1919.15,
+    "volume_24h": 1918.57,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ZETA-USD",
+    "open_interest": 1914.78,
+    "volume_24h": 2871.956,
+    "date": 1763341529
+  },
+  {
+    "symbol": "EIGEN-USD",
+    "open_interest": 1570.94,
+    "volume_24h": 6392.95,
+    "date": 1763341529
+  },
+  {
+    "symbol": "PENGU-USD",
+    "open_interest": 1408.67,
+    "volume_24h": 332.649,
+    "date": 1763341529
+  },
+  {
+    "symbol": "FARTCOIN,RAYDIUM,9BB6NFECJBCTNNLFKO2FQVQBQ8HHM13KCYYCDQBGPUMP-USD",
+    "open_interest": 1176.7,
+    "volume_24h": 599.928,
+    "date": 1763341529
+  },
+  {
+    "symbol": "B3-USD",
+    "open_interest": 1113.87,
+    "volume_24h": 1043.459,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SYRUP-USD",
+    "open_interest": 931.74,
+    "volume_24h": 1335.913,
+    "date": 1763341529
+  },
+  {
+    "symbol": "PEOPLE-USD",
+    "open_interest": 470.21,
+    "volume_24h": 666.184,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SOPH-USD",
+    "open_interest": 290.44,
+    "volume_24h": 4303.148,
+    "date": 1763341529
+  },
+  {
+    "symbol": "PRIME-USD",
+    "open_interest": 228.44,
+    "volume_24h": 211.68,
+    "date": 1763341529
+  },
+  {
+    "symbol": "VINE-USD",
+    "open_interest": 215.59,
+    "volume_24h": 6299.972,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ORDER-USD",
+    "open_interest": 21.66,
+    "volume_24h": 21.664,
+    "date": 1763341529
+  },
+  {
+    "symbol": "GRASS-USD",
+    "open_interest": 19.27,
+    "volume_24h": 3778.76,
+    "date": 1763341529
+  },
+  {
+    "symbol": "MEW-USD",
+    "open_interest": 13.41,
+    "volume_24h": 1.341,
+    "date": 1763341529
+  },
+  {
+    "symbol": "MOODENG-USD",
+    "open_interest": 0.79,
+    "volume_24h": 224.01,
+    "date": 1763341529
+  },
+  {
+    "symbol": "KSM-USD",
+    "open_interest": 0.0,
+    "volume_24h": 10388.168,
+    "date": 1763341529
+  },
+  {
+    "symbol": "PYTH-USD",
+    "open_interest": 96644.83,
+    "volume_24h": 4216.343,
+    "date": 1763341529
+  },
+  {
+    "symbol": "APE-USD",
+    "open_interest": 56710.9,
+    "volume_24h": 565.736,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ARKM-USD",
+    "open_interest": 30205.27,
+    "volume_24h": 6825.598,
+    "date": 1763341529
+  },
+  {
+    "symbol": "KAITO-USD",
+    "open_interest": 16953.71,
+    "volume_24h": 76.57,
+    "date": 1763341529
+  },
+  {
+    "symbol": "CRO-USD",
+    "open_interest": 10641.23,
+    "volume_24h": 11.554,
+    "date": 1763341529
+  },
+  {
+    "symbol": "S-USD",
+    "open_interest": 8361.93,
+    "volume_24h": 39.63,
+    "date": 1763341529
+  },
+  {
+    "symbol": "QNT-USD",
+    "open_interest": 7822.76,
+    "volume_24h": 42.515,
+    "date": 1763341529
+  },
+  {
+    "symbol": "KERNEL-USD",
+    "open_interest": 7428.33,
+    "volume_24h": 3232.292,
+    "date": 1763341529
+  },
+  {
+    "symbol": "KAS-USD",
+    "open_interest": 7048.23,
+    "volume_24h": 4068.02,
+    "date": 1763341529
+  },
+  {
+    "symbol": "USUAL-USD",
+    "open_interest": 6440.78,
+    "volume_24h": 11623.049,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ZRX-USD",
+    "open_interest": 5364.62,
+    "volume_24h": 3590.804,
+    "date": 1763341529
+  },
+  {
+    "symbol": "VET-USD",
+    "open_interest": 4678.38,
+    "volume_24h": 149.9,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AERGO-USD",
+    "open_interest": 3645.98,
+    "volume_24h": 4441.335,
+    "date": 1763341529
+  },
+  {
+    "symbol": "LAYER-USD",
+    "open_interest": 3593.93,
+    "volume_24h": 3593.926,
+    "date": 1763341529
+  },
+  {
+    "symbol": "ORCA-USD",
+    "open_interest": 3513.42,
+    "volume_24h": 695.61,
+    "date": 1763341529
+  },
+  {
+    "symbol": "JASMY-USD",
+    "open_interest": 1329.88,
+    "volume_24h": 1643.152,
+    "date": 1763341529
+  },
+  {
+    "symbol": "BRETT-USD",
+    "open_interest": 883.87,
+    "volume_24h": 0.19,
+    "date": 1763341529
+  },
+  {
+    "symbol": "AXS-USD",
+    "open_interest": 604.68,
+    "volume_24h": 130.6,
+    "date": 1763341529
+  },
+  {
+    "symbol": "GMX-USD",
+    "open_interest": 267.82,
+    "volume_24h": 220.25,
+    "date": 1763341529
+  },
+  {
+    "symbol": "SKY-USD",
+    "open_interest": 149.73,
+    "volume_24h": 249.55,
+    "date": 1763341529
+  },
+  {
+    "symbol": "CORE-USD",
+    "open_interest": 75.58,
+    "volume_24h": 131.67,
+    "date": 1763341529
+  },
+  {
+    "symbol": "MOG-USD",
+    "open_interest": 32.85,
+    "volume_24h": 3490.956,
+    "date": 1763341529
+  },
+  {
+    "symbol": "COOKIE-USD",
+    "open_interest": 0.0,
+    "volume_24h": 3769.32,
+    "date": 1763341529
+  },
+  {
+    "symbol": "GAS-USD",
+    "open_interest": 0.0,
+    "volume_24h": 1346.688,
+    "date": 1763341529
+  },
+  {
+    "symbol": "CETUS-USD",
+    "open_interest": 0.0,
+    "volume_24h": 7.177,
+    "date": 1763341529
   }
 ]

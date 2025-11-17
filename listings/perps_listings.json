@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763371004,
+    "date": 1763374472,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14902,5 +14902,11 @@
     "symbol": "REX_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1763374472,
+    "symbol": "CTCUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

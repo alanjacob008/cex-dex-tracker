@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763360380,
+    "date": 1763363597,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -14878,5 +14878,29 @@
     "symbol": "67COINUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1763363597,
+    "symbol": "PIEVERSE-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1763363597,
+    "symbol": "BAKE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763363597,
+    "symbol": "GROK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763363597,
+    "symbol": "REX_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

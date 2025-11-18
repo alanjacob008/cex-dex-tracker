@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763449956,
+    "date": 1763453856,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15015,6 +15015,12 @@
     "date": 1763446743,
     "symbol": "BONKUSDCPERP",
     "name": "Gemini Derivatives",
+    "action": "listed"
+  },
+  {
+    "date": 1763453856,
+    "symbol": "DGRAM_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

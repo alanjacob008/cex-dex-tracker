@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763460901,
+    "date": 1763464276,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15027,6 +15027,12 @@
     "date": 1763460901,
     "symbol": "DGRAM_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763464276,
+    "symbol": "DGRAMUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

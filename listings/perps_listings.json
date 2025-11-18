@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763457264,
+    "date": 1763460901,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15021,6 +15021,12 @@
     "date": 1763453856,
     "symbol": "DGRAM_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763460901,
+    "symbol": "DGRAM_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

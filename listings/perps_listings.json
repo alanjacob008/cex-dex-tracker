@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763482586,
+    "date": 1763486031,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15051,6 +15051,12 @@
     "date": 1763482586,
     "symbol": "KSL2USDCPERP",
     "name": "Gemini Derivatives",
+    "action": "listed"
+  },
+  {
+    "date": 1763486031,
+    "symbol": "XYZ:GOOGL-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

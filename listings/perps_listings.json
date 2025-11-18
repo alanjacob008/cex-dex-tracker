@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763468697,
+    "date": 1763472412,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15033,6 +15033,12 @@
     "date": 1763464276,
     "symbol": "DGRAMUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1763472412,
+    "symbol": "BATUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

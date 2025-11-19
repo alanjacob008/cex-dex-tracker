@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763561547,
+    "date": 1763565194,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15123,6 +15123,12 @@
     "date": 1763558808,
     "symbol": "GAIBUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1763565194,
+    "symbol": "XYZ:MSFT-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763520060,
+    "date": 1763523615,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15064,5 +15064,11 @@
     "symbol": "XYZ:AMZN-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1763523615,
+    "symbol": "TRX-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

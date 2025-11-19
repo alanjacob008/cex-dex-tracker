@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763547230,
+    "date": 1763550651,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15087,6 +15087,30 @@
     "date": 1763543640,
     "symbol": "SOLOMON_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763550651,
+    "symbol": "ZECUSDC",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763550651,
+    "symbol": "GAIB_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763550651,
+    "symbol": "GAIB_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763550651,
+    "symbol": "GAIBUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

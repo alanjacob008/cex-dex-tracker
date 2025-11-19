@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763555075,
+    "date": 1763558808,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15118,5 +15118,11 @@
     "symbol": "WANGCHAIUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1763558808,
+    "symbol": "GAIBUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

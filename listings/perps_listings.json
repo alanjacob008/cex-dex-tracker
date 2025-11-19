@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763533116,
+    "date": 1763536388,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15070,5 +15070,17 @@
     "symbol": "TRX-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1763536388,
+    "symbol": "TSLAX-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1763536388,
+    "symbol": "TREE-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

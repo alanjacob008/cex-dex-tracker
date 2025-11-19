@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763540239,
+    "date": 1763543640,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15081,6 +15081,12 @@
     "date": 1763536388,
     "symbol": "TREE-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1763543640,
+    "symbol": "SOLOMON_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

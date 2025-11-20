@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763609936,
+    "date": 1763612088,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15153,6 +15153,12 @@
     "date": 1763609936,
     "symbol": "ZEC_USDC",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763612088,
+    "symbol": "JCT-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763615578,
+    "date": 1763619502,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15160,5 +15160,11 @@
     "symbol": "JCT-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1763619502,
+    "symbol": "BEAM-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

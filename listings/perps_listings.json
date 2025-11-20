@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763641458,
+    "date": 1763645117,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15183,6 +15183,12 @@
     "date": 1763633639,
     "symbol": "EDELUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763645117,
+    "symbol": "BUILDONBOB_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

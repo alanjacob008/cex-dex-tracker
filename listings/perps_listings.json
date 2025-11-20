@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763626660,
+    "date": 1763630006,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15172,5 +15172,11 @@
     "symbol": "ZILUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1763630006,
+    "symbol": "RUNEUSD_PERP",
+    "name": "Binance (Futures)",
+    "action": "delisted"
   }
 ]

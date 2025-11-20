@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763662688,
+    "date": 1763665793,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15237,6 +15237,12 @@
     "date": 1763662688,
     "symbol": "JESSE_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763665793,
+    "symbol": "FF_ETHUSD_251121",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

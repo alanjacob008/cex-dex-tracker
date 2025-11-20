@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763655343,
+    "date": 1763658632,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15226,5 +15226,11 @@
     "symbol": "XYZ:META-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1763658632,
+    "symbol": "ETHFI-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

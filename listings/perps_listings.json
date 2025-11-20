@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763645117,
+    "date": 1763648108,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15190,5 +15190,35 @@
     "symbol": "BUILDONBOB_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1763648108,
+    "symbol": "DINOUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763648108,
+    "symbol": "CANDLEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763648108,
+    "symbol": "LETSBONKUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763648108,
+    "symbol": "STUPIDUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763648108,
+    "symbol": "MARSMIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763658632,
+    "date": 1763662688,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15232,5 +15232,11 @@
     "symbol": "ETHFI-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1763662688,
+    "symbol": "JESSE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

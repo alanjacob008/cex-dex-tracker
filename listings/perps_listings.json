@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763619502,
+    "date": 1763622771,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15166,5 +15166,11 @@
     "symbol": "BEAM-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1763622771,
+    "symbol": "ZILUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

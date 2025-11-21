@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763734347,
+    "date": 1763737918,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15400,5 +15400,11 @@
     "symbol": "ALONUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1763737918,
+    "symbol": "XYZ:AAPL-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

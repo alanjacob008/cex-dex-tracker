@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763692086,
+    "date": 1763696330,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15249,6 +15249,12 @@
     "date": 1763680301,
     "symbol": "VNTL:OPENAI-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763696330,
+    "symbol": "LINKUSDCPERP",
+    "name": "Gemini Derivatives",
     "action": "listed"
   }
 ]

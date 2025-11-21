@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763731370,
+    "date": 1763734347,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15370,5 +15370,35 @@
     "symbol": "AKT-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1763734347,
+    "symbol": "PCULEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763734347,
+    "symbol": "COCOROUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763734347,
+    "symbol": "MOMOUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763734347,
+    "symbol": "SHADOWUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763734347,
+    "symbol": "ALONUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763745098,
+    "date": 1763749069,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15406,5 +15406,11 @@
     "symbol": "XYZ:AAPL-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1763749069,
+    "symbol": "PF_DOGUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

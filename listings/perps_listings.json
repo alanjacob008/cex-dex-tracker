@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763723428,
+    "date": 1763727793,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15345,6 +15345,24 @@
     "date": 1763723428,
     "symbol": "PYBOBO_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763727793,
+    "symbol": "BEATUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763727793,
+    "symbol": "BOBBOBUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1763727793,
+    "symbol": "FF_XBTUSD_260626",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

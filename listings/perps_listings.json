@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763799311,
+    "date": 1763802696,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15537,6 +15537,54 @@
     "date": 1763799311,
     "symbol": "A8_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763802696,
+    "symbol": "PERPUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763802696,
+    "symbol": "XCNUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763802696,
+    "symbol": "FLMUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763802696,
+    "symbol": "MANAUSD",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763802696,
+    "symbol": "A8USDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763802696,
+    "symbol": "CELRUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763802696,
+    "symbol": "ETHWUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763802696,
+    "symbol": "ZRCUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763842384,
+    "date": 1763845834,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15603,6 +15603,12 @@
     "date": 1763820640,
     "symbol": "BASEISFOREVERY1USDT",
     "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763845834,
+    "symbol": "1000SHIB-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

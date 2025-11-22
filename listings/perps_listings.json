@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763792189,
+    "date": 1763795467,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15441,6 +15441,24 @@
     "date": 1763792189,
     "symbol": "CATI_USDC",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763795467,
+    "symbol": "XCNUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1763795467,
+    "symbol": "FLMUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1763795467,
+    "symbol": "PERPUSDTM",
+    "name": "KuCoin Futures",
     "action": "delisted"
   }
 ]

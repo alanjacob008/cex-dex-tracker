@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763788329,
+    "date": 1763792189,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15418,5 +15418,29 @@
     "symbol": "BOBUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1763792189,
+    "symbol": "ACT_USDC",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763792189,
+    "symbol": "NAVX_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763792189,
+    "symbol": "ME_USDC",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1763792189,
+    "symbol": "CATI_USDC",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

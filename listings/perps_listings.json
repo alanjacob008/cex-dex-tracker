@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763806326,
+    "date": 1763809747,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15586,5 +15586,11 @@
     "symbol": "ZRCUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1763809747,
+    "symbol": "DIGI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

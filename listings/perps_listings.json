@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763896173,
+    "date": 1763900422,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15616,5 +15616,11 @@
     "symbol": "ONDO-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1763900422,
+    "symbol": "KO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764000828,
+    "date": 1764004336,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15699,6 +15699,18 @@
     "date": 1764000828,
     "symbol": "MON-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1764004336,
+    "symbol": "1KMON-PERP",
+    "name": "Drift Protocol",
+    "action": "listed"
+  },
+  {
+    "date": 1764004336,
+    "symbol": "MON_USDC_PERP",
+    "name": "Backpack (Futures)",
     "action": "listed"
   }
 ]

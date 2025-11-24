@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763993604,
+    "date": 1763997256,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15657,6 +15657,42 @@
     "date": 1763979287,
     "symbol": "TNSR-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1763997256,
+    "symbol": "ASMLSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763997256,
+    "symbol": "LLYSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763997256,
+    "symbol": "FUTUSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763997256,
+    "symbol": "UNHSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763997256,
+    "symbol": "CSCOSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763997256,
+    "symbol": "FLX:CRCL-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

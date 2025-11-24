@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763972317,
+    "date": 1763975788,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15646,5 +15646,11 @@
     "symbol": "PORT3_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1763975788,
+    "symbol": "BOBBOBUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764008362,
+    "date": 1764011308,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15711,6 +15711,12 @@
     "date": 1764004336,
     "symbol": "MON_USDC_PERP",
     "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764011308,
+    "symbol": "MON-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

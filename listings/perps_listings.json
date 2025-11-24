@@ -1,6 +1,6 @@
 [
   {
-    "date": 1763975788,
+    "date": 1763979287,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15651,6 +15651,12 @@
     "date": 1763975788,
     "symbol": "BOBBOBUSDT",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1763979287,
+    "symbol": "TNSR-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

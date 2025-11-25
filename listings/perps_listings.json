@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764090816,
+    "date": 1764094762,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15812,6 +15812,12 @@
   {
     "date": 1764090816,
     "symbol": "XYZ:COIN-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764094762,
+    "symbol": "VNTL:ANTHROPIC-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
   }

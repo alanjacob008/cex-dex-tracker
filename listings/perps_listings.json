@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764042241,
+    "date": 1764044329,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15723,6 +15723,12 @@
     "date": 1764025895,
     "symbol": "TNSR-USDT",
     "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1764044329,
+    "symbol": "MONUSDT",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

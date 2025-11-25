@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764079966,
+    "date": 1764083637,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15801,6 +15801,12 @@
     "date": 1764079966,
     "symbol": "IRYSUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764083637,
+    "symbol": "FLX:COIN-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

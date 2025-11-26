@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764166405,
+    "date": 1764169902,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15874,5 +15874,23 @@
     "symbol": "MDT_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1764169902,
+    "symbol": "IRYS_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764169902,
+    "symbol": "XYZ:HOOD-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764169902,
+    "symbol": "ASTER-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
   }
 ]

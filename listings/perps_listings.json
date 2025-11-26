@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764118668,
+    "date": 1764125025,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15820,5 +15820,11 @@
     "symbol": "VNTL:ANTHROPIC-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1764125025,
+    "symbol": "STX-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

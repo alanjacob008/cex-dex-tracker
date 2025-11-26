@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764137988,
+    "date": 1764141188,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15825,6 +15825,54 @@
     "date": 1764125025,
     "symbol": "STX-USD",
     "name": "dYdX Chain",
+    "action": "delisted"
+  },
+  {
+    "date": 1764141188,
+    "symbol": "MDTUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1764141188,
+    "symbol": "HSKUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1764141188,
+    "symbol": "ULTI_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764141188,
+    "symbol": "AURASOL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764141188,
+    "symbol": "GP_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764141188,
+    "symbol": "DEVVE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764141188,
+    "symbol": "MGO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764141188,
+    "symbol": "MDT_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

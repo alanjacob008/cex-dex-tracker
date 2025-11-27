@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764231506,
+    "date": 1764234856,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15934,5 +15934,41 @@
     "symbol": "GUA_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1764234856,
+    "symbol": "SUNDOGUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764234856,
+    "symbol": "PERPUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764234856,
+    "symbol": "RADUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764234856,
+    "symbol": "GLMRUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764234856,
+    "symbol": "RSS3USDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764234856,
+    "symbol": "GTCUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
   }
 ]

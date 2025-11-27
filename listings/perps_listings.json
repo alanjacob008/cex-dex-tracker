@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764234856,
+    "date": 1764238453,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15969,6 +15969,18 @@
     "date": 1764234856,
     "symbol": "GTCUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764238453,
+    "symbol": "BABY-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764238453,
+    "symbol": "PF_SWARMSUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

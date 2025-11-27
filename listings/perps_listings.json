@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764241877,
+    "date": 1764246280,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15987,6 +15987,12 @@
     "date": 1764241877,
     "symbol": "GUAUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764246280,
+    "symbol": "BIT_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

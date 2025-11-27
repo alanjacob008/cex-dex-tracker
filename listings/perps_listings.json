@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764220418,
+    "date": 1764224411,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -15910,5 +15910,17 @@
     "symbol": "PF_UMAUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1764224411,
+    "symbol": "IRYS-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1764224411,
+    "symbol": "WOJAKONXUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

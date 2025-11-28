@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764317875,
+    "date": 1764321230,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16006,5 +16006,77 @@
     "symbol": "AT-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "SOLUSDT-19DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "ETH-USDT-251212",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "ETH-USD-251212",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "BTC-USD-251212",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "BTC-USDT-251212",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "PERP_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "SWELL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "SUNDOG_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "GLMR_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "RSS3_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "RAD_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764321230,
+    "symbol": "EIGEN-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764328243,
+    "date": 1764332630,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16102,5 +16102,47 @@
     "symbol": "XRPUSDT-19DEC25",
     "name": "Bybit (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1764332630,
+    "symbol": "DOGEUSDT-19DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764332630,
+    "symbol": "TRUTH-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764332630,
+    "symbol": "NEXOUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764332630,
+    "symbol": "SWELLUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764332630,
+    "symbol": "SUNDOGUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764332630,
+    "symbol": "PONKEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764332630,
+    "symbol": "MIGGLESUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

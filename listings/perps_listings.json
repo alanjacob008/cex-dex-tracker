@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764336331,
+    "date": 1764339144,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16144,5 +16144,17 @@
     "symbol": "MIGGLESUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1764339144,
+    "symbol": "BEST_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764339144,
+    "symbol": "FF_ETHUSD_251205",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764306816,
+    "date": 1764310791,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16000,5 +16000,11 @@
     "symbol": "SYRUP-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1764310791,
+    "symbol": "AT-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

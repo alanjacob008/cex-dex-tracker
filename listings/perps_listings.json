@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764324844,
+    "date": 1764328243,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16088,6 +16088,18 @@
   {
     "date": 1764324844,
     "symbol": "BTCUSDT-19DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764328243,
+    "symbol": "ETHUSDT-19DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764328243,
+    "symbol": "XRPUSDT-19DEC25",
     "name": "Bybit (Futures)",
     "action": "listed"
   }

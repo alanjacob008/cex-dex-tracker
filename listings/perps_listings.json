@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764346487,
+    "date": 1764349828,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16156,5 +16156,11 @@
     "symbol": "FF_ETHUSD_251205",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1764349828,
+    "symbol": "1000FLOKI-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

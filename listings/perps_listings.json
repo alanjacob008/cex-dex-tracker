@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764321230,
+    "date": 1764324844,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16078,5 +16078,17 @@
     "symbol": "EIGEN-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1764324844,
+    "symbol": "MNTUSDT-19DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764324844,
+    "symbol": "BTCUSDT-19DEC25",
+    "name": "Bybit (Futures)",
+    "action": "listed"
   }
 ]

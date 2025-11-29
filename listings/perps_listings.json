@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764400285,
+    "date": 1764404144,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16191,6 +16191,66 @@
     "date": 1764400285,
     "symbol": "SWELLUSDTM",
     "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "QUICK_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "BADGER_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "A8_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "PONKE_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "X_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "CPOOL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "SWELL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "LUNC-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "MYRO-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1764404144,
+    "symbol": "MEW-USDT",
+    "name": "HTX Futures",
     "action": "delisted"
   }
 ]

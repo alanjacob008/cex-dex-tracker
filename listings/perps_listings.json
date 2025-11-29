@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764397063,
+    "date": 1764400285,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16174,5 +16174,23 @@
     "symbol": "FF_SOLUSD_260327",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1764400285,
+    "symbol": "PONKEUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1764400285,
+    "symbol": "SUNDOGUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1764400285,
+    "symbol": "SWELLUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
   }
 ]

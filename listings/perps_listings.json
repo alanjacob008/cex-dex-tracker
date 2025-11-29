@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764407532,
+    "date": 1764411138,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16281,6 +16281,12 @@
     "date": 1764407532,
     "symbol": "PONKE-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764411138,
+    "symbol": "PF_BEAMUSD",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

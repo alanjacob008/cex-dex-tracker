@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764486672,
+    "date": 1764490495,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16287,6 +16287,12 @@
     "date": 1764411138,
     "symbol": "PF_BEAMUSD",
     "name": "Kraken (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764490495,
+    "symbol": "CLOUD-PERP",
+    "name": "Drift Protocol",
     "action": "delisted"
   }
 ]

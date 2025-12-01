@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764587514,
+    "date": 1764591950,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16305,6 +16305,12 @@
     "date": 1764587514,
     "symbol": "ULTIMAUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764591950,
+    "symbol": "RLS_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

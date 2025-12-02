@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764667107,
+    "date": 1764670469,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16360,5 +16360,11 @@
     "symbol": "RIFUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1764670469,
+    "symbol": "RLSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

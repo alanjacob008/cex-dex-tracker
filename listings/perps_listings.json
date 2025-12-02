@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764684848,
+    "date": 1764688469,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16383,6 +16383,12 @@
     "date": 1764673966,
     "symbol": "RLSUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1764688469,
+    "symbol": "PIPPIN-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

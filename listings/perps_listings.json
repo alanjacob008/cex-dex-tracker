@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764796327,
+    "date": 1764799979,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16468,5 +16468,11 @@
     "symbol": "HYNA:BTC-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1764799979,
+    "symbol": "GUN-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

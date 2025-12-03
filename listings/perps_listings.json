@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764771223,
+    "date": 1764774887,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16455,6 +16455,12 @@
     "date": 1764768627,
     "symbol": "BSUUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1764774887,
+    "symbol": "XYZ:INTC-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764764747,
+    "date": 1764768627,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16449,6 +16449,12 @@
     "date": 1764764747,
     "symbol": "BIBIUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764768627,
+    "symbol": "BSUUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

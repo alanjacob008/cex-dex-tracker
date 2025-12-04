@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764846781,
+    "date": 1764851223,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16486,5 +16486,29 @@
     "symbol": "BOB-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1764851223,
+    "symbol": "MILKUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764851223,
+    "symbol": "ELXUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764851223,
+    "symbol": "TOKENUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764851223,
+    "symbol": "URANUSUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

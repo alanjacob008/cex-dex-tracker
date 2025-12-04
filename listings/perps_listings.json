@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764851223,
+    "date": 1764855056,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16510,5 +16510,11 @@
     "symbol": "URANUSUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1764855056,
+    "symbol": "WET_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

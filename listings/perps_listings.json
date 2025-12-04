@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764857631,
+    "date": 1764861337,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16521,6 +16521,12 @@
     "date": 1764857631,
     "symbol": "WETUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764861337,
+    "symbol": "XYZ:AMD-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

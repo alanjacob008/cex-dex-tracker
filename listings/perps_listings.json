@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764922662,
+    "date": 1764926075,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16545,6 +16545,48 @@
     "date": 1764918879,
     "symbol": "QUICK_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1764926075,
+    "symbol": "SOLUSDT-30JAN26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764926075,
+    "symbol": "BTCUSDT-27FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764926075,
+    "symbol": "ETH-USD-251219",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764926075,
+    "symbol": "ETH-USDT-251219",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764926075,
+    "symbol": "BTC-USDT-251219",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764926075,
+    "symbol": "BTC-USD-251219",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764926075,
+    "symbol": "ELXUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

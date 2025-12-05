@@ -19480,5 +19480,245 @@
     "open_interest": 2185.85,
     "volume_24h": 251.89554127482828,
     "date": 1764810342
+  },
+  {
+    "symbol": "BTCUSDCPERP",
+    "open_interest": 2778429.06,
+    "volume_24h": 116841.16946841608,
+    "date": 1764896792
+  },
+  {
+    "symbol": "BTCGUSDPERP",
+    "open_interest": 2777812.01,
+    "volume_24h": 116852.45441452527,
+    "date": 1764896792
+  },
+  {
+    "symbol": "ETHUSDCPERP",
+    "open_interest": 1428111.58,
+    "volume_24h": 2012773.36471332,
+    "date": 1764896792
+  },
+  {
+    "symbol": "ETHGUSDPERP",
+    "open_interest": 1427029.41,
+    "volume_24h": 1987519.249091778,
+    "date": 1764896792
+  },
+  {
+    "symbol": "SOLUSDCPERP",
+    "open_interest": 634042.5,
+    "volume_24h": 102176.59992772479,
+    "date": 1764896792
+  },
+  {
+    "symbol": "SOLGUSDPERP",
+    "open_interest": 633765.35,
+    "volume_24h": 102492.74673972631,
+    "date": 1764896792
+  },
+  {
+    "symbol": "XRPUSDCPERP",
+    "open_interest": 575233.11,
+    "volume_24h": 3486.6798950336924,
+    "date": 1764896792
+  },
+  {
+    "symbol": "XRPGUSDPERP",
+    "open_interest": 575128.18,
+    "volume_24h": 3497.468074532987,
+    "date": 1764896792
+  },
+  {
+    "symbol": "BCHGUSDPERP",
+    "open_interest": 120576.66,
+    "volume_24h": 57219.37027587677,
+    "date": 1764896792
+  },
+  {
+    "symbol": "BCHUSDCPERP",
+    "open_interest": 120510.04,
+    "volume_24h": 57066.5925427629,
+    "date": 1764896792
+  },
+  {
+    "symbol": "MEWGUSDPERP",
+    "open_interest": 103396.29,
+    "volume_24h": 5643.751195121916,
+    "date": 1764896792
+  },
+  {
+    "symbol": "MEWUSDCPERP",
+    "open_interest": 103396.29,
+    "volume_24h": 5628.682135252175,
+    "date": 1764896792
+  },
+  {
+    "symbol": "POPCATGUSDPERP",
+    "open_interest": 44774.15,
+    "volume_24h": 13207.920175811716,
+    "date": 1764896792
+  },
+  {
+    "symbol": "POPCATUSDCPERP",
+    "open_interest": 44764.77,
+    "volume_24h": 13172.654457497256,
+    "date": 1764896792
+  },
+  {
+    "symbol": "AVAXGUSDPERP",
+    "open_interest": 44501.9,
+    "volume_24h": 1086.0841989843277,
+    "date": 1764896792
+  },
+  {
+    "symbol": "AVAXUSDCPERP",
+    "open_interest": 44493.88,
+    "volume_24h": 1083.184315936129,
+    "date": 1764896792
+  },
+  {
+    "symbol": "LTCUSDCPERP",
+    "open_interest": 28918.68,
+    "volume_24h": 1049.6487863365335,
+    "date": 1764896792
+  },
+  {
+    "symbol": "LTCGUSDPERP",
+    "open_interest": 28916.27,
+    "volume_24h": 1052.458897126845,
+    "date": 1764896792
+  },
+  {
+    "symbol": "BONKGUSDPERP",
+    "open_interest": 23244.43,
+    "volume_24h": 1223.0865274573475,
+    "date": 1764896792
+  },
+  {
+    "symbol": "BONKUSDCPERP",
+    "open_interest": 23237.2,
+    "volume_24h": 1219.8208335117927,
+    "date": 1764896792
+  },
+  {
+    "symbol": "OPGUSDPERP",
+    "open_interest": 22480.8,
+    "volume_24h": 1036.9110717297656,
+    "date": 1764896792
+  },
+  {
+    "symbol": "OPUSDCPERP",
+    "open_interest": 22480.1,
+    "volume_24h": 1034.142474305946,
+    "date": 1764896792
+  },
+  {
+    "symbol": "PEPEGUSDPERP",
+    "open_interest": 16559.57,
+    "volume_24h": 24.618708288793993,
+    "date": 1764896792
+  },
+  {
+    "symbol": "PEPEUSDCPERP",
+    "open_interest": 16551.25,
+    "volume_24h": 24.542770000858983,
+    "date": 1764896792
+  },
+  {
+    "symbol": "SHIBGUSDPERP",
+    "open_interest": 14134.42,
+    "volume_24h": 1457.2748468242567,
+    "date": 1764896792
+  },
+  {
+    "symbol": "WIFGUSDPERP",
+    "open_interest": 7956.87,
+    "volume_24h": 106159.82600657144,
+    "date": 1764896792
+  },
+  {
+    "symbol": "WIFUSDCPERP",
+    "open_interest": 7954.38,
+    "volume_24h": 105876.37467809385,
+    "date": 1764896792
+  },
+  {
+    "symbol": "UNIGUSDPERP",
+    "open_interest": 4400.3,
+    "volume_24h": 7109.786975044127,
+    "date": 1764896792
+  },
+  {
+    "symbol": "UNIUSDCPERP",
+    "open_interest": 4398.84,
+    "volume_24h": 7090.80353621347,
+    "date": 1764896792
+  },
+  {
+    "symbol": "LINKGUSDPERP",
+    "open_interest": 27595.42,
+    "volume_24h": 371.18201833413406,
+    "date": 1764896792
+  },
+  {
+    "symbol": "LINKUSDCPERP",
+    "open_interest": 27588.51,
+    "volume_24h": 370.1909462858689,
+    "date": 1764896792
+  },
+  {
+    "symbol": "POLGUSDPERP",
+    "open_interest": 15282.88,
+    "volume_24h": 1263.001196600078,
+    "date": 1764896792
+  },
+  {
+    "symbol": "POLUSDCPERP",
+    "open_interest": 15280.39,
+    "volume_24h": 1259.6289287609907,
+    "date": 1764896792
+  },
+  {
+    "symbol": "SHIBUSDCPERP",
+    "open_interest": 14134.42,
+    "volume_24h": 1453.3838599337569,
+    "date": 1764896792
+  },
+  {
+    "symbol": "FLOKIGUSDPERP",
+    "open_interest": 13783.77,
+    "volume_24h": 512.7188802423813,
+    "date": 1764896792
+  },
+  {
+    "symbol": "FLOKIUSDCPERP",
+    "open_interest": 13778.0,
+    "volume_24h": 512.696667074616,
+    "date": 1764896792
+  },
+  {
+    "symbol": "INJGUSDPERP",
+    "open_interest": 4308.77,
+    "volume_24h": 1712.5805058765047,
+    "date": 1764896792
+  },
+  {
+    "symbol": "INJUSDCPERP",
+    "open_interest": 4308.77,
+    "volume_24h": 1708.0078418304515,
+    "date": 1764896792
+  },
+  {
+    "symbol": "HYPEUSDCPERP",
+    "open_interest": 2078.93,
+    "volume_24h": 79.37198516173615,
+    "date": 1764896792
+  },
+  {
+    "symbol": "HYPEGUSDPERP",
+    "open_interest": 2078.89,
+    "volume_24h": 79.55635087438887,
+    "date": 1764896792
   }
 ]

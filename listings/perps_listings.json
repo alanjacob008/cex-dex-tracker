@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765037633,
+    "date": 1765041009,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16797,6 +16797,12 @@
     "date": 1765023714,
     "symbol": "MORIUSDT",
     "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765041009,
+    "symbol": "CAKE-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

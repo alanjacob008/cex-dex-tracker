@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764997941,
+    "date": 1765001865,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16635,6 +16635,12 @@
     "date": 1764988006,
     "symbol": "DASH-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1765001865,
+    "symbol": "HYNA:HYPE-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

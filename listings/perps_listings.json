@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765019391,
+    "date": 1765023714,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16768,5 +16768,35 @@
     "symbol": "POWERUSDTM",
     "name": "KuCoin Futures",
     "action": "listed"
+  },
+  {
+    "date": 1765023714,
+    "symbol": "POWER_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765023714,
+    "symbol": "IKAUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765023714,
+    "symbol": "CHILLHOUSEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765023714,
+    "symbol": "MATUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765023714,
+    "symbol": "MORIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765012342,
+    "date": 1765015947,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16756,5 +16756,17 @@
     "symbol": "MILKUSDT",
     "name": "Binance (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1765015947,
+    "symbol": "POWERUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765015947,
+    "symbol": "POWERUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
   }
 ]

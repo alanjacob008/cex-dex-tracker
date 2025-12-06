@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765005082,
+    "date": 1765008927,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16671,6 +16671,60 @@
     "date": 1765005082,
     "symbol": "STARTUP_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "AUDIO_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "GLMR_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "MYRO_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "RAD_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "NAORIS-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "MEMEFI-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "BID-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "AI-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765008927,
+    "symbol": "TUT-USDT",
+    "name": "HTX Futures",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765001865,
+    "date": 1765005082,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16642,5 +16642,35 @@
     "symbol": "HYNA:HYPE-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1765005082,
+    "symbol": "MILKUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765005082,
+    "symbol": "OBOLUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765005082,
+    "symbol": "TOKENUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765005082,
+    "symbol": "PAAL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765005082,
+    "symbol": "STARTUP_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

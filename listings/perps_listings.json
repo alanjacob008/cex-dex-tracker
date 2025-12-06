@@ -1,6 +1,6 @@
 [
   {
-    "date": 1764982590,
+    "date": 1764988006,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16629,6 +16629,12 @@
     "date": 1764947641,
     "symbol": "XYZ:ORCL-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1764988006,
+    "symbol": "DASH-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

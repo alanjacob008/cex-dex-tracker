@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765098733,
+    "date": 1765102296,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16816,5 +16816,11 @@
     "symbol": "DOYRUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1765102296,
+    "symbol": "PF_IOTAUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

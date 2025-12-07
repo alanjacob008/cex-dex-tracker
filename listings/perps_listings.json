@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765091508,
+    "date": 1765095308,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16810,5 +16810,11 @@
     "symbol": "IP-PERP",
     "name": "Drift Protocol",
     "action": "delisted"
+  },
+  {
+    "date": 1765095308,
+    "symbol": "DOYRUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765203232,
+    "date": 1765206861,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16911,6 +16911,12 @@
     "date": 1765203232,
     "symbol": "STABLE_USDC_PERP",
     "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765206861,
+    "symbol": "XYZ:NFLX-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

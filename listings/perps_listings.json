@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765271810,
+    "date": 1765275339,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16936,5 +16936,17 @@
     "symbol": "HBAR-USD",
     "name": "dYdX Chain",
     "action": "delisted"
+  },
+  {
+    "date": 1765275339,
+    "symbol": "NIGHT_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765275339,
+    "symbol": "NIGHT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

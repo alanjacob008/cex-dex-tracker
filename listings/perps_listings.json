@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765241954,
+    "date": 1765248494,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16930,5 +16930,11 @@
     "symbol": "ALTUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1765248494,
+    "symbol": "HBAR-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

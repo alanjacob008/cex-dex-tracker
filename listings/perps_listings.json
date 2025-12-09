@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765275339,
+    "date": 1765278745,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16947,6 +16947,12 @@
     "date": 1765275339,
     "symbol": "NIGHT_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765278745,
+    "symbol": "NIGHTUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

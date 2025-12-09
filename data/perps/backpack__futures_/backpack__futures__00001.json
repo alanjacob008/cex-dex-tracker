@@ -41500,5 +41500,413 @@
     "open_interest": 12105.14,
     "volume_24h": 7089.870316886925,
     "date": 1765155995
+  },
+  {
+    "symbol": "BTC_USDC_PERP",
+    "open_interest": 96971642.9,
+    "volume_24h": 369148976.9577264,
+    "date": 1765242361
+  },
+  {
+    "symbol": "SOL_USDC_PERP",
+    "open_interest": 33497049.45,
+    "volume_24h": 131265352.18736708,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ETH_USDC_PERP",
+    "open_interest": 28353795.1,
+    "volume_24h": 181795068.9721029,
+    "date": 1765242361
+  },
+  {
+    "symbol": "HYPE_USDC_PERP",
+    "open_interest": 5635460.27,
+    "volume_24h": 25441625.205919173,
+    "date": 1765242361
+  },
+  {
+    "symbol": "PAXG_USDC_PERP",
+    "open_interest": 4045392.65,
+    "volume_24h": 29609608.63007406,
+    "date": 1765242361
+  },
+  {
+    "symbol": "BNB_USDC_PERP",
+    "open_interest": 3815513.46,
+    "volume_24h": 186161328.24847263,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ASTER_USDC_PERP",
+    "open_interest": 1875844.9,
+    "volume_24h": 3613735.2266812515,
+    "date": 1765242361
+  },
+  {
+    "symbol": "XRP_USDC_PERP",
+    "open_interest": 1415736.9,
+    "volume_24h": 19836930.047154814,
+    "date": 1765242361
+  },
+  {
+    "symbol": "MON_USDC_PERP",
+    "open_interest": 1300062.07,
+    "volume_24h": 54130487.50713319,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ENA_USDC_PERP",
+    "open_interest": 1218926.62,
+    "volume_24h": 2277989.717984839,
+    "date": 1765242361
+  },
+  {
+    "symbol": "JUP_USDC_PERP",
+    "open_interest": 1096149.57,
+    "volume_24h": 1002556.7631353155,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ZEC_USDC_PERP",
+    "open_interest": 1077343.77,
+    "volume_24h": 17498625.12188371,
+    "date": 1765242361
+  },
+  {
+    "symbol": "APT_USDC_PERP",
+    "open_interest": 1051876.25,
+    "volume_24h": 9477024.236781055,
+    "date": 1765242361
+  },
+  {
+    "symbol": "SUI_USDC_PERP",
+    "open_interest": 1048420.26,
+    "volume_24h": 22327395.860230077,
+    "date": 1765242361
+  },
+  {
+    "symbol": "DOGE_USDC_PERP",
+    "open_interest": 992783.11,
+    "volume_24h": 42666845.34763432,
+    "date": 1765242361
+  },
+  {
+    "symbol": "WLFI_USDC_PERP",
+    "open_interest": 804251.59,
+    "volume_24h": 793967.9924138447,
+    "date": 1765242361
+  },
+  {
+    "symbol": "LINK_USDC_PERP",
+    "open_interest": 647070.74,
+    "volume_24h": 957317.8503410894,
+    "date": 1765242361
+  },
+  {
+    "symbol": "PUMP_USDC_PERP",
+    "open_interest": 646040.93,
+    "volume_24h": 969710.3237003272,
+    "date": 1765242361
+  },
+  {
+    "symbol": "LTC_USDC_PERP",
+    "open_interest": 587976.87,
+    "volume_24h": 924771.3798423926,
+    "date": 1765242361
+  },
+  {
+    "symbol": "UNI_USDC_PERP",
+    "open_interest": 567422.14,
+    "volume_24h": 497410.1354732217,
+    "date": 1765242361
+  },
+  {
+    "symbol": "AVAX_USDC_PERP",
+    "open_interest": 557798.62,
+    "volume_24h": 3000514.4210616727,
+    "date": 1765242361
+  },
+  {
+    "symbol": "LINEA_USDC_PERP",
+    "open_interest": 550702.95,
+    "volume_24h": 626266.346860179,
+    "date": 1765242361
+  },
+  {
+    "symbol": "MET_USDC_PERP",
+    "open_interest": 539186.03,
+    "volume_24h": 545781.8858476821,
+    "date": 1765242361
+  },
+  {
+    "symbol": "PENGU_USDC_PERP",
+    "open_interest": 477130.75,
+    "volume_24h": 533875.8026557425,
+    "date": 1765242361
+  },
+  {
+    "symbol": "NEAR_USDC_PERP",
+    "open_interest": 425500.09,
+    "volume_24h": 891617.0492583151,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ADA_USDC_PERP",
+    "open_interest": 411437.73,
+    "volume_24h": 490023.7721244496,
+    "date": 1765242361
+  },
+  {
+    "symbol": "XPL_USDC_PERP",
+    "open_interest": 405586.73,
+    "volume_24h": 477366.81378389796,
+    "date": 1765242361
+  },
+  {
+    "symbol": "VIRTUAL_USDC_PERP",
+    "open_interest": 398116.7,
+    "volume_24h": 402807.7383504999,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ARB_USDC_PERP",
+    "open_interest": 383524.42,
+    "volume_24h": 768348.4831169248,
+    "date": 1765242361
+  },
+  {
+    "symbol": "FARTCOIN_USDC_PERP",
+    "open_interest": 381991.12,
+    "volume_24h": 1623422.8745289382,
+    "date": 1765242361
+  },
+  {
+    "symbol": "AAVE_USDC_PERP",
+    "open_interest": 348659.09,
+    "volume_24h": 5726353.795794096,
+    "date": 1765242361
+  },
+  {
+    "symbol": "WIF_USDC_PERP",
+    "open_interest": 303026.51,
+    "volume_24h": 530583.0712337221,
+    "date": 1765242361
+  },
+  {
+    "symbol": "TRUMP_USDC_PERP",
+    "open_interest": 299678.78,
+    "volume_24h": 87221.39098768987,
+    "date": 1765242361
+  },
+  {
+    "symbol": "DOT_USDC_PERP",
+    "open_interest": 289013.29,
+    "volume_24h": 196395.89702845804,
+    "date": 1765242361
+  },
+  {
+    "symbol": "LDO_USDC_PERP",
+    "open_interest": 247882.76,
+    "volume_24h": 997312.3026311283,
+    "date": 1765242361
+  },
+  {
+    "symbol": "OP_USDC_PERP",
+    "open_interest": 246058.23,
+    "volume_24h": 233854.8226283541,
+    "date": 1765242361
+  },
+  {
+    "symbol": "MNT_USDC_PERP",
+    "open_interest": 241927.53,
+    "volume_24h": 1126823.4364303956,
+    "date": 1765242361
+  },
+  {
+    "symbol": "TAO_USDC_PERP",
+    "open_interest": 236277.92,
+    "volume_24h": 1641204.9213685133,
+    "date": 1765242361
+  },
+  {
+    "symbol": "2Z_USDC_PERP",
+    "open_interest": 234231.22,
+    "volume_24h": 1079043.7244240774,
+    "date": 1765242361
+  },
+  {
+    "symbol": "KAITO_USDC_PERP",
+    "open_interest": 219351.21,
+    "volume_24h": 102598.15024812719,
+    "date": 1765242361
+  },
+  {
+    "symbol": "KBONK_USDC_PERP",
+    "open_interest": 212055.78,
+    "volume_24h": 405335.2953205174,
+    "date": 1765242361
+  },
+  {
+    "symbol": "BERA_USDC_PERP",
+    "open_interest": 204738.17,
+    "volume_24h": 248790.1832636122,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ONDO_USDC_PERP",
+    "open_interest": 202952.12,
+    "volume_24h": 399693.9316546146,
+    "date": 1765242361
+  },
+  {
+    "symbol": "WLD_USDC_PERP",
+    "open_interest": 196273.76,
+    "volume_24h": 439526.89652078046,
+    "date": 1765242361
+  },
+  {
+    "symbol": "0G_USDC_PERP",
+    "open_interest": 191180.47,
+    "volume_24h": 373847.4701667558,
+    "date": 1765242361
+  },
+  {
+    "symbol": "HBAR_USDC_PERP",
+    "open_interest": 186564.44,
+    "volume_24h": 243555.42354826254,
+    "date": 1765242361
+  },
+  {
+    "symbol": "PENDLE_USDC_PERP",
+    "open_interest": 179047.49,
+    "volume_24h": 286693.49332784495,
+    "date": 1765242361
+  },
+  {
+    "symbol": "IP_USDC_PERP",
+    "open_interest": 178591.05,
+    "volume_24h": 1288283.6356012009,
+    "date": 1765242361
+  },
+  {
+    "symbol": "CRV_USDC_PERP",
+    "open_interest": 173574.05,
+    "volume_24h": 179105.81556841277,
+    "date": 1765242361
+  },
+  {
+    "symbol": "KPEPE_USDC_PERP",
+    "open_interest": 166102.15,
+    "volume_24h": 1187675.8822900432,
+    "date": 1765242361
+  },
+  {
+    "symbol": "S_USDC_PERP",
+    "open_interest": 164473.83,
+    "volume_24h": 382977.4982815277,
+    "date": 1765242361
+  },
+  {
+    "symbol": "SEI_USDC_PERP",
+    "open_interest": 158521.44,
+    "volume_24h": 325359.6307778816,
+    "date": 1765242361
+  },
+  {
+    "symbol": "TON_USDC_PERP",
+    "open_interest": 156711.08,
+    "volume_24h": 417231.38121385546,
+    "date": 1765242361
+  },
+  {
+    "symbol": "TIA_USDC_PERP",
+    "open_interest": 141484.25,
+    "volume_24h": 593793.9645836111,
+    "date": 1765242361
+  },
+  {
+    "symbol": "APEX_USDC_PERP",
+    "open_interest": 137010.09,
+    "volume_24h": 256888.9064818336,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ZRO_USDC_PERP",
+    "open_interest": 128150.1,
+    "volume_24h": 569151.9099912482,
+    "date": 1765242361
+  },
+  {
+    "symbol": "PYTH_USDC_PERP",
+    "open_interest": 106540.67,
+    "volume_24h": 1108167.2403290765,
+    "date": 1765242361
+  },
+  {
+    "symbol": "ZORA_USDC_PERP",
+    "open_interest": 95593.67,
+    "volume_24h": 174667.31999035474,
+    "date": 1765242361
+  },
+  {
+    "symbol": "JTO_USDC_PERP",
+    "open_interest": 84793.26,
+    "volume_24h": 266203.6023769136,
+    "date": 1765242361
+  },
+  {
+    "symbol": "XLM_USDC_PERP",
+    "open_interest": 77346.02,
+    "volume_24h": 247002.2042045828,
+    "date": 1765242361
+  },
+  {
+    "symbol": "AERO_USDC_PERP",
+    "open_interest": 59798.96,
+    "volume_24h": 163824.0233894344,
+    "date": 1765242361
+  },
+  {
+    "symbol": "AVNT_USDC_PERP",
+    "open_interest": 51298.24,
+    "volume_24h": 172013.36675083038,
+    "date": 1765242361
+  },
+  {
+    "symbol": "W_USDC_PERP",
+    "open_interest": 39919.76,
+    "volume_24h": 250713.2151363876,
+    "date": 1765242361
+  },
+  {
+    "symbol": "KMNO_USDC_PERP",
+    "open_interest": 36596.13,
+    "volume_24h": 163278.89470394762,
+    "date": 1765242361
+  },
+  {
+    "symbol": "FLOCK_USDC_PERP",
+    "open_interest": 34785.21,
+    "volume_24h": 173359.73579380577,
+    "date": 1765242361
+  },
+  {
+    "symbol": "KSHIB_USDC_PERP",
+    "open_interest": 21240.95,
+    "volume_24h": 335818.4397681049,
+    "date": 1765242361
+  },
+  {
+    "symbol": "PIPE_USDC_PERP",
+    "open_interest": 8223.58,
+    "volume_24h": 8672.491476669167,
+    "date": 1765242361
+  },
+  {
+    "symbol": "STABLE_USDC_PERP",
+    "open_interest": 0,
+    "volume_24h": 9764173.921478847,
+    "date": 1765242361
   }
 ]

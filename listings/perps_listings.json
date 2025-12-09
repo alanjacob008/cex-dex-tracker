@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765307378,
+    "date": 1765311187,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17000,6 +17000,24 @@
   {
     "date": 1765307378,
     "symbol": "FOLKSUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765311187,
+    "symbol": "BANDUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765311187,
+    "symbol": "NIGHTUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765311187,
+    "symbol": "XCHUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
   }

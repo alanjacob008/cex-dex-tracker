@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765235526,
+    "date": 1765241954,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -16923,6 +16923,12 @@
     "date": 1765210615,
     "symbol": "HYNA:SOL-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765241954,
+    "symbol": "ALTUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

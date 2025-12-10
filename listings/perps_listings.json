@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765365139,
+    "date": 1765369580,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17038,5 +17038,71 @@
     "symbol": "WETUSDT",
     "name": "Binance (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "NIGHTUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "MRVLSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "PEPSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "ACNSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "MASTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "GESTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "REIUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "VOXELUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "FISUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "SKATEUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765369580,
+    "symbol": "ESUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
   }
 ]

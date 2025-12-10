@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765393928,
+    "date": 1765397684,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17110,5 +17110,11 @@
     "symbol": "VNTL:MAG7-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1765397684,
+    "symbol": "IO-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

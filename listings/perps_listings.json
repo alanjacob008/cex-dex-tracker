@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765347647,
+    "date": 1765350989,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17026,5 +17026,11 @@
     "symbol": "PF_SWELLUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1765350989,
+    "symbol": "WET-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

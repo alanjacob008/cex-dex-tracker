@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765379754,
+    "date": 1765383520,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17104,5 +17104,11 @@
     "symbol": "ESUSDT",
     "name": "LBank (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1765383520,
+    "symbol": "VNTL:MAG7-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

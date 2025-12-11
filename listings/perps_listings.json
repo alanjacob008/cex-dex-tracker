@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765459985,
+    "date": 1765462589,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17253,6 +17253,12 @@
     "date": 1765459985,
     "symbol": "ALMANAKUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765462589,
+    "symbol": "USUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765437497,
+    "date": 1765441163,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17158,5 +17158,11 @@
     "symbol": "CULT_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1765441163,
+    "symbol": "CYS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

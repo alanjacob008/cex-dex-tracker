@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765414884,
+    "date": 1765423097,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17116,5 +17116,11 @@
     "symbol": "IO-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1765423097,
+    "symbol": "FOGO-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

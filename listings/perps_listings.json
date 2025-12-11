@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765448078,
+    "date": 1765451566,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17205,6 +17205,18 @@
     "date": 1765448078,
     "symbol": "CYS_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765451566,
+    "symbol": "BTX_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765451566,
+    "symbol": "BDXUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

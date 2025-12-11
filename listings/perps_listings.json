@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765434084,
+    "date": 1765437497,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17122,5 +17122,41 @@
     "symbol": "FOGO-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1765437497,
+    "symbol": "NIGHT-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1765437497,
+    "symbol": "SKATEUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765437497,
+    "symbol": "FISUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765437497,
+    "symbol": "VOXELUSDTM",
+    "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1765437497,
+    "symbol": "MAT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765437497,
+    "symbol": "CULT_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

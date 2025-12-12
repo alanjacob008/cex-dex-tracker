@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765537984,
+    "date": 1765542345,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17343,6 +17343,30 @@
     "date": 1765537984,
     "symbol": "CYSUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1765542345,
+    "symbol": "CYSUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765542345,
+    "symbol": "RAVE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765542345,
+    "symbol": "USUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765542345,
+    "symbol": "CYSUSDT",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

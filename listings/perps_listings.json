@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765573897,
+    "date": 1765577533,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17392,5 +17392,11 @@
     "symbol": "MNTUSDT-02JAN26",
     "name": "Bybit (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1765577533,
+    "symbol": "PF_HIPPOUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

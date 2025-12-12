@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765563563,
+    "date": 1765566671,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17385,6 +17385,12 @@
     "date": 1765552470,
     "symbol": "FLX:GOLD-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765566671,
+    "symbol": "MNTUSDT-02JAN26",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

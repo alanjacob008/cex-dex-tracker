@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765613746,
+    "date": 1765617149,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17439,6 +17439,12 @@
     "date": 1765613746,
     "symbol": "AVAIL_USDT",
     "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765617149,
+    "symbol": "OBOLUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

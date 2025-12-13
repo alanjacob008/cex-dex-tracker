@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765652987,
+    "date": 1765656792,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17457,6 +17457,12 @@
     "date": 1765649771,
     "symbol": "SXT-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765656792,
+    "symbol": "FF_XBTUSD_251226",
+    "name": "Kraken (Futures)",
     "action": "delisted"
   }
 ]

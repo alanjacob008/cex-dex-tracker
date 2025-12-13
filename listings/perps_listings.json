@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765581174,
+    "date": 1765587436,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17398,5 +17398,11 @@
     "symbol": "PF_HIPPOUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1765587436,
+    "symbol": "XRPUSDT-02JAN26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
   }
 ]

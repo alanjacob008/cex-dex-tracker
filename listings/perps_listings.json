@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765620750,
+    "date": 1765624202,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17445,6 +17445,12 @@
     "date": 1765617149,
     "symbol": "OBOLUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765624202,
+    "symbol": "OP-PERP",
+    "name": "Drift Protocol",
     "action": "delisted"
   }
 ]

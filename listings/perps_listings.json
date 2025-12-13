@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765609911,
+    "date": 1765613746,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17409,6 +17409,36 @@
     "date": 1765593725,
     "symbol": "VVV-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765613746,
+    "symbol": "SUNDOG_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765613746,
+    "symbol": "TOKEN_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765613746,
+    "symbol": "FLM_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765613746,
+    "symbol": "PORTAL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1765613746,
+    "symbol": "AVAIL_USDT",
+    "name": "Gate (Futures)",
     "action": "delisted"
   }
 ]

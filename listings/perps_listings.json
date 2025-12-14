@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765721478,
+    "date": 1765725100,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17480,6 +17480,24 @@
   {
     "date": 1765710621,
     "symbol": "HNT-PERP",
+    "name": "Drift Protocol",
+    "action": "delisted"
+  },
+  {
+    "date": 1765725100,
+    "symbol": "RAVE_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765725100,
+    "symbol": "POL-PERP",
+    "name": "Drift Protocol",
+    "action": "delisted"
+  },
+  {
+    "date": 1765725100,
+    "symbol": "W-PERP",
     "name": "Drift Protocol",
     "action": "delisted"
   }

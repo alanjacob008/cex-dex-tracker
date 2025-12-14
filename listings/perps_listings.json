@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765700158,
+    "date": 1765703563,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17464,5 +17464,11 @@
     "symbol": "FF_XBTUSD_251226",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1765703563,
+    "symbol": "YEE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

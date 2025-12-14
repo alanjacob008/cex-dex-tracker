@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765736246,
+    "date": 1765739386,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17505,6 +17505,12 @@
     "date": 1765728854,
     "symbol": "RAVEUSDT",
     "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765739386,
+    "symbol": "FF_XBTUSD_251219",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

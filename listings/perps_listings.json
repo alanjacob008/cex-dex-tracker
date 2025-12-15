@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765786847,
+    "date": 1765790595,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17542,5 +17542,17 @@
     "symbol": "RAVE-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1765790595,
+    "symbol": "XAU-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1765790595,
+    "symbol": "FF_ETHUSD_251226",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

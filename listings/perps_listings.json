@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765783114,
+    "date": 1765786847,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17535,6 +17535,12 @@
     "date": 1765783114,
     "symbol": "XAG-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1765786847,
+    "symbol": "RAVE-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

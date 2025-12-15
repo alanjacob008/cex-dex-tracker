@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765811867,
+    "date": 1765815561,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17554,5 +17554,11 @@
     "symbol": "FF_ETHUSD_251226",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1765815561,
+    "symbol": "XYZ:CRCL-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

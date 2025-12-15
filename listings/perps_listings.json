@@ -1,6 +1,6 @@
 [
   {
-    "date": 1765815561,
+    "date": 1765819123,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -17558,6 +17558,12 @@
   {
     "date": 1765815561,
     "symbol": "XYZ:CRCL-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1765819123,
+    "symbol": "HYNA:ZEC-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
   }

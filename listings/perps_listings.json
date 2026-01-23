@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769199377,
+    "date": 1769202798,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20373,6 +20373,12 @@
     "date": 1769188793,
     "symbol": "CASH:NVDA-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769202798,
+    "symbol": "DOGEUSDT-13FEB26",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

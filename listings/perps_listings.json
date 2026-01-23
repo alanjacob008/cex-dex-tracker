@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769160122,
+    "date": 1769163378,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20205,6 +20205,24 @@
     "date": 1769160122,
     "symbol": "ETH-USD-260206",
     "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769163378,
+    "symbol": "SPACE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769163378,
+    "symbol": "BTCUSDT-13FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769163378,
+    "symbol": "ACUUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

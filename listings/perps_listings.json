@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769202798,
+    "date": 1769206304,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20379,6 +20379,12 @@
     "date": 1769202798,
     "symbol": "DOGEUSDT-13FEB26",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769206304,
+    "symbol": "FF_ETHUSD_260227",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

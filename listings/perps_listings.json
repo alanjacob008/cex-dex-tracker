@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769149321,
+    "date": 1769152750,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20152,5 +20152,29 @@
     "symbol": "PF_MOGUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1769152750,
+    "symbol": "SENT-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769152750,
+    "symbol": "ELSA-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769152750,
+    "symbol": "SKR-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769152750,
+    "symbol": "ACU-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

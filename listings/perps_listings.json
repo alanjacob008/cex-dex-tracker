@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769166843,
+    "date": 1769171339,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20248,5 +20248,29 @@
     "symbol": "INIT-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1769171339,
+    "symbol": "SPACEUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769171339,
+    "symbol": "XRPUSDT-13FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769171339,
+    "symbol": "SOLUSDT-13FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769171339,
+    "symbol": "FIGHTUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
   }
 ]

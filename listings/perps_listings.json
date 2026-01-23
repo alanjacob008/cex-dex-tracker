@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769163378,
+    "date": 1769166843,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20224,5 +20224,29 @@
     "symbol": "ACUUSDTM",
     "name": "KuCoin Futures",
     "action": "listed"
+  },
+  {
+    "date": 1769166843,
+    "symbol": "FIGHT_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769166843,
+    "symbol": "ETHUSDT-13FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769166843,
+    "symbol": "SKR-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1769166843,
+    "symbol": "INIT-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

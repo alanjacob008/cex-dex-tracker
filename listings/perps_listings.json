@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769185145,
+    "date": 1769188793,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20367,6 +20367,12 @@
     "date": 1769185145,
     "symbol": "FIGHT1USDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769188793,
+    "symbol": "CASH:NVDA-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769152750,
+    "date": 1769156353,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20176,5 +20176,11 @@
     "symbol": "ACU-USDT-SWAP",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769156353,
+    "symbol": "COW-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

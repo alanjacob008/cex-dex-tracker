@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769238835,
+    "date": 1769242615,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20427,6 +20427,30 @@
     "date": 1769238835,
     "symbol": "ELX_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769242615,
+    "symbol": "PRCL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769242615,
+    "symbol": "VOXEL_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769242615,
+    "symbol": "ZEUS_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769242615,
+    "symbol": "FIS_USDT",
+    "name": "Gate (Futures)",
     "action": "delisted"
   }
 ]

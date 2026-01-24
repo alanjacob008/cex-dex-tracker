@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769228925,
+    "date": 1769231695,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20390,6 +20390,18 @@
   {
     "date": 1769224812,
     "symbol": "ZETA-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769231695,
+    "symbol": "PENGUIN_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769231695,
+    "symbol": "ERA-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }

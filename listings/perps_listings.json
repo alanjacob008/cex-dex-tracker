@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769216472,
+    "date": 1769224812,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20386,5 +20386,11 @@
     "symbol": "FF_ETHUSD_260227",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769224812,
+    "symbol": "ZETA-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

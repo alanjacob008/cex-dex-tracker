@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769261135,
+    "date": 1769263942,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20470,5 +20470,11 @@
     "symbol": "PENGUIN_USDT",
     "name": "Gate (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769263942,
+    "symbol": "FLOW-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769235597,
+    "date": 1769238835,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20403,6 +20403,30 @@
     "date": 1769231695,
     "symbol": "ERA-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769238835,
+    "symbol": "SKATE_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769238835,
+    "symbol": "MILK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769238835,
+    "symbol": "VOXEL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769238835,
+    "symbol": "ELX_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

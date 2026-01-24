@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769249600,
+    "date": 1769253082,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20456,6 +20456,12 @@
   {
     "date": 1769245982,
     "symbol": "SCR-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769253082,
+    "symbol": "T-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769368262,
+    "date": 1769372101,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20613,6 +20613,12 @@
     "date": 1769368262,
     "symbol": "SEI-PERP",
     "name": "Drift Protocol",
+    "action": "delisted"
+  },
+  {
+    "date": 1769372101,
+    "symbol": "XLM-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "delisted"
   }
 ]

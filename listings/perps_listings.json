@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769365127,
+    "date": 1769368262,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20607,6 +20607,12 @@
     "date": 1769361091,
     "symbol": "PROMPT-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769368262,
+    "symbol": "SEI-PERP",
+    "name": "Drift Protocol",
     "action": "delisted"
   }
 ]

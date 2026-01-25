@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769347638,
+    "date": 1769350321,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20548,5 +20548,11 @@
     "symbol": "FWOGUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1769350321,
+    "symbol": "MEMES_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769350321,
+    "date": 1769353969,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20554,5 +20554,17 @@
     "symbol": "MEMES_USDT",
     "name": "Gate (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769353969,
+    "symbol": "REZ-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769353969,
+    "symbol": "H-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

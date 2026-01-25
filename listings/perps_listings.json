@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769357739,
+    "date": 1769361091,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20601,6 +20601,12 @@
     "date": 1769357739,
     "symbol": "COOKIE-USDT-SWAP",
     "name": "OKX (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769361091,
+    "symbol": "PROMPT-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }
 ]

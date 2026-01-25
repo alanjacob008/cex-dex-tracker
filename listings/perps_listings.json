@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769296366,
+    "date": 1769303397,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20500,5 +20500,11 @@
     "symbol": "DYM-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1769303397,
+    "symbol": "DASH-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
   }
 ]

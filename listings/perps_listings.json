@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769329043,
+    "date": 1769332454,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20529,6 +20529,24 @@
     "date": 1769329043,
     "symbol": "XNO_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769332454,
+    "symbol": "XNOUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769332454,
+    "symbol": "ALEOUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769332454,
+    "symbol": "FWOGUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769325341,
+    "date": 1769329043,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20518,5 +20518,17 @@
     "symbol": "LUNC-USD",
     "name": "dYdX Chain",
     "action": "listed"
+  },
+  {
+    "date": 1769329043,
+    "symbol": "FWOG_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769329043,
+    "symbol": "XNO_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

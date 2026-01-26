@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769451784,
+    "date": 1769455095,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20674,5 +20674,11 @@
     "symbol": "1000BONK-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1769455095,
+    "symbol": "XYZ:USAR-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

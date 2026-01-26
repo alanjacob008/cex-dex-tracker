@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769412076,
+    "date": 1769415671,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20626,5 +20626,11 @@
     "symbol": "VINE-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1769415671,
+    "symbol": "SPACE-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
   }
 ]

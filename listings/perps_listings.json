@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769437258,
+    "date": 1769440839,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20662,5 +20662,17 @@
     "symbol": "OKLOUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769440839,
+    "symbol": "LIT-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1769440839,
+    "symbol": "1000BONK-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

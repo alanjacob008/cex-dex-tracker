@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769399375,
+    "date": 1769402944,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20619,6 +20619,12 @@
     "date": 1769372101,
     "symbol": "XLM-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769402944,
+    "symbol": "VINE-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }
 ]

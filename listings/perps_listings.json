@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769415671,
+    "date": 1769419590,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20631,6 +20631,24 @@
     "date": 1769415671,
     "symbol": "SPACE-USDT",
     "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769419590,
+    "symbol": "ACN_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769419590,
+    "symbol": "BABA_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769419590,
+    "symbol": "JPM_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

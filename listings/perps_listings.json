@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769512599,
+    "date": 1769516967,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20775,6 +20775,12 @@
     "date": 1769509140,
     "symbol": "3KDS_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769516967,
+    "symbol": "US30_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769530793,
+    "date": 1769534496,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20792,6 +20792,18 @@
   {
     "date": 1769527343,
     "symbol": "FLX:PLATINUM-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769534496,
+    "symbol": "CASH:GOOGL-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769534496,
+    "symbol": "CASH:AMZN-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
   }

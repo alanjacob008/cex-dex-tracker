@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769498449,
+    "date": 1769502081,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20698,5 +20698,71 @@
     "symbol": "NFLXUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "XTI_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "HK50_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "JPN225_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "EURUSD_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "XNI_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "XPB_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "XCU_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "GBPUSD_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "XAL_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "XBR_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769502081,
+    "symbol": "PF_SPKUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

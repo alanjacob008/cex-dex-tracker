@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769570919,
+    "date": 1769575073,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20817,6 +20817,18 @@
     "date": 1769570919,
     "symbol": "NPCUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769575073,
+    "symbol": "CLAWD1USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769575073,
+    "symbol": "CLAWDONBASE_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

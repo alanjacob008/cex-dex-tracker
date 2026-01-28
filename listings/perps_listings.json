@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769638705,
+    "date": 1769642353,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20962,5 +20962,11 @@
     "symbol": "PF_INITUSD",
     "name": "Kraken (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1769642353,
+    "symbol": "BIRB-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
   }
 ]

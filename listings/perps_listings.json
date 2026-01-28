@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769607685,
+    "date": 1769610124,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20902,5 +20902,35 @@
     "symbol": "BIO-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1769610124,
+    "symbol": "XALUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769610124,
+    "symbol": "XPBUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769610124,
+    "symbol": "XCUUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769610124,
+    "symbol": "XNIUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769610124,
+    "symbol": "PF_OMIUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
   }
 ]

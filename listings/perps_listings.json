@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769610124,
+    "date": 1769613815,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20931,6 +20931,18 @@
     "date": 1769610124,
     "symbol": "PF_OMIUSD",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769613815,
+    "symbol": "TSLAUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769613815,
+    "symbol": "FLX:PALLADIUM-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

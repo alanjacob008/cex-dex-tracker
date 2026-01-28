@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769635327,
+    "date": 1769638705,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20956,5 +20956,11 @@
     "symbol": "CASH:META-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769638705,
+    "symbol": "PF_INITUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

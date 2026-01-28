@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769595598,
+    "date": 1769599016,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20848,5 +20848,17 @@
     "symbol": "EVIX_USDT",
     "name": "Gate (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769599016,
+    "symbol": "BIRB_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769599016,
+    "symbol": "COOKIE-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

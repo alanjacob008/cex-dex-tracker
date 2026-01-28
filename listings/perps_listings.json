@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769617546,
+    "date": 1769621159,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20942,6 +20942,18 @@
   {
     "date": 1769613815,
     "symbol": "FLX:PALLADIUM-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769621159,
+    "symbol": "CASH:HOOD-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769621159,
+    "symbol": "CASH:META-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
   }

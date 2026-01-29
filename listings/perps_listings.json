@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769685865,
+    "date": 1769690136,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21123,6 +21123,30 @@
     "date": 1769685865,
     "symbol": "MCD_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769690136,
+    "symbol": "INXUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769690136,
+    "symbol": "COPPER_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769690136,
+    "symbol": "KM:GOOGL-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769690136,
+    "symbol": "KM:AAPL-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

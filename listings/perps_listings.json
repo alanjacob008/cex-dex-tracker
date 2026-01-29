@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769679224,
+    "date": 1769682461,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21033,6 +21033,30 @@
     "date": 1769679224,
     "symbol": "XTIUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769682461,
+    "symbol": "SPX500_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769682461,
+    "symbol": "NAS100_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769682461,
+    "symbol": "US30_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769682461,
+    "symbol": "BIRB-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

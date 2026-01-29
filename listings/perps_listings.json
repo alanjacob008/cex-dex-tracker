@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769675318,
+    "date": 1769679224,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21014,6 +21014,24 @@
   {
     "date": 1769675318,
     "symbol": "US30USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769679224,
+    "symbol": "XPTUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769679224,
+    "symbol": "XBRUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769679224,
+    "symbol": "XTIUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
   }

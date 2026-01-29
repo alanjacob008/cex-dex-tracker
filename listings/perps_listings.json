@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769668546,
+    "date": 1769672061,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20985,6 +20985,18 @@
     "date": 1769668546,
     "symbol": "GWEIUSDT",
     "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769672061,
+    "symbol": "BIRB-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769672061,
+    "symbol": "GWEIUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

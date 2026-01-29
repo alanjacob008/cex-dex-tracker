@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769672061,
+    "date": 1769675318,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -20997,6 +20997,24 @@
     "date": 1769672061,
     "symbol": "GWEIUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769675318,
+    "symbol": "HK50USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769675318,
+    "symbol": "JPN225USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769675318,
+    "symbol": "US30USDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

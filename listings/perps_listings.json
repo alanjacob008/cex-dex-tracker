@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769697189,
+    "date": 1769700431,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21160,5 +21160,11 @@
     "symbol": "NIL-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1769700431,
+    "symbol": "XYZ:URNM-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
   }
 ]

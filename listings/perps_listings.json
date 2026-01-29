@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769682461,
+    "date": 1769685865,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21057,6 +21057,72 @@
     "date": 1769682461,
     "symbol": "BIRB-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "ARM_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "IBM_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "UNH_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "ASML_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "INX_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "LLY_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "MRVL_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "MSFT_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "INTC_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "CSCO_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769685865,
+    "symbol": "MCD_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

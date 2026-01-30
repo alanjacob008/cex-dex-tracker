@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769745665,
+    "date": 1769751607,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21183,6 +21183,24 @@
     "date": 1769735554,
     "symbol": "FF_XBTUSD_260130",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769751607,
+    "symbol": "USOIL_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769751607,
+    "symbol": "NGAS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769751607,
+    "symbol": "UKOIL_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

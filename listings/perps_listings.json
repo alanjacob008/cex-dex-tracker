@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769801145,
+    "date": 1769804395,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21453,6 +21453,18 @@
     "date": 1769801145,
     "symbol": "INX_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769804395,
+    "symbol": "INXUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769804395,
+    "symbol": "INXUSDT",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

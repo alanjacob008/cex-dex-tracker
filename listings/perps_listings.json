@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769776455,
+    "date": 1769780956,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21375,6 +21375,36 @@
     "date": 1769772094,
     "symbol": "XPDUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769780956,
+    "symbol": "MEGAUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769780956,
+    "symbol": "ETHUSDT-20FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769780956,
+    "symbol": "XRPUSDT-20FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769780956,
+    "symbol": "MEGAUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769780956,
+    "symbol": "FF_XBTUSD_260227",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

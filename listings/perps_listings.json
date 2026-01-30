@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769768679,
+    "date": 1769772094,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21345,6 +21345,36 @@
     "date": 1769768679,
     "symbol": "SENT-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1769772094,
+    "symbol": "XPDUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769772094,
+    "symbol": "XPTUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769772094,
+    "symbol": "BTCUSDT-20FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769772094,
+    "symbol": "XPTUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769772094,
+    "symbol": "XPDUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

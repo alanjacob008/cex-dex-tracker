@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769728714,
+    "date": 1769735554,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21177,6 +21177,12 @@
     "date": 1769707831,
     "symbol": "CASH:MSFT-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769735554,
+    "symbol": "FF_XBTUSD_260130",
+    "name": "Kraken (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769754997,
+    "date": 1769758457,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21273,6 +21273,12 @@
     "date": 1769754997,
     "symbol": "TLT_USDT",
     "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769758457,
+    "symbol": "IBMSTOCK_USDT",
+    "name": "MEXC (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769780956,
+    "date": 1769783307,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21405,6 +21405,12 @@
     "date": 1769780956,
     "symbol": "FF_XBTUSD_260227",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769783307,
+    "symbol": "ETHBTCUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

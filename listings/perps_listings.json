@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769758457,
+    "date": 1769761644,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21280,5 +21280,17 @@
     "symbol": "IBMSTOCK_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769761644,
+    "symbol": "QTUM-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1769761644,
+    "symbol": "B3-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769765371,
+    "date": 1769768679,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21334,5 +21334,17 @@
     "symbol": "NKNUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1769768679,
+    "symbol": "DOGEUSDT-20FEB26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769768679,
+    "symbol": "SENT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
   }
 ]

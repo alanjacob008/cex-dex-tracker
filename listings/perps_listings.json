@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769821784,
+    "date": 1769831908,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21465,6 +21465,18 @@
     "date": 1769804395,
     "symbol": "INXUSDT",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769831908,
+    "symbol": "INXUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1769831908,
+    "symbol": "INX-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

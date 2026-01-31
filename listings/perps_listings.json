@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769894010,
+    "date": 1769897640,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21590,6 +21590,12 @@
   {
     "date": 1769886887,
     "symbol": "PF_LCAPUSD",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769897640,
+    "symbol": "FF_ETHUSD_260206",
     "name": "Kraken (Futures)",
     "action": "listed"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769844119,
+    "date": 1769847532,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21495,6 +21495,84 @@
     "date": 1769844119,
     "symbol": "EPTUSDTM",
     "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "SC_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "TANSSI_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "ZRC_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "BOBA_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "BID_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "XCH_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "KSM-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "OM-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "S-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "ATH-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "CUDISUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "EPTUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769847532,
+    "symbol": "EPT_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

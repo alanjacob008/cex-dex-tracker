@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769847532,
+    "date": 1769851172,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21573,6 +21573,18 @@
     "date": 1769847532,
     "symbol": "EPT_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769851172,
+    "symbol": "EPTUSDT",
+    "name": "Binance (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1769851172,
+    "symbol": "EPTUSDT",
+    "name": "Bybit (Futures)",
     "action": "delisted"
   }
 ]

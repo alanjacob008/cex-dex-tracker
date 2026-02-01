@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769919737,
+    "date": 1769925301,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21596,6 +21596,18 @@
   {
     "date": 1769897640,
     "symbol": "FF_ETHUSD_260206",
+    "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769925301,
+    "symbol": "SILVER_USDC",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1769925301,
+    "symbol": "FF_SOLUSD_260227",
     "name": "Kraken (Futures)",
     "action": "listed"
   }

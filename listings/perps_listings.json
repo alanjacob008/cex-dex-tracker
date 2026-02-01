@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769927915,
+    "date": 1769931095,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21616,5 +21616,11 @@
     "symbol": "BLAST-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1769931095,
+    "symbol": "BULLA_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
   }
 ]

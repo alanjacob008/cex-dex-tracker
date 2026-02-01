@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769925301,
+    "date": 1769927915,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21610,5 +21610,11 @@
     "symbol": "FF_SOLUSD_260227",
     "name": "Kraken (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769927915,
+    "symbol": "BLAST-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
   }
 ]

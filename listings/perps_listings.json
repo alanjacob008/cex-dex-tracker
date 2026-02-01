@@ -1,6 +1,6 @@
 [
   {
-    "date": 1769973490,
+    "date": 1769976971,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21628,5 +21628,11 @@
     "symbol": "CLAWNCH_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1769976971,
+    "symbol": "IMX-USD",
+    "name": "dYdX Chain",
+    "action": "delisted"
   }
 ]

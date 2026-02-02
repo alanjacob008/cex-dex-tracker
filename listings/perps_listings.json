@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770046244,
+    "date": 1770049628,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21747,6 +21747,18 @@
     "date": 1770046244,
     "symbol": "VNTL:BIOTECH-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770049628,
+    "symbol": "VNTL:ENERGY-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770049628,
+    "symbol": "ZAMA-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

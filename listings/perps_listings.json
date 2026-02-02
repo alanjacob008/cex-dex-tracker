@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770005675,
+    "date": 1770011900,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21645,6 +21645,12 @@
     "date": 1770005675,
     "symbol": "XPD_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770011900,
+    "symbol": "BIRBUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

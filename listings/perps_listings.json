@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770011900,
+    "date": 1770015679,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21651,6 +21651,24 @@
     "date": 1770011900,
     "symbol": "BIRBUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770015679,
+    "symbol": "INX-USDT",
+    "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1770015679,
+    "symbol": "XPT-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770015679,
+    "symbol": "XPD-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770057138,
+    "date": 1770074383,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21778,5 +21778,23 @@
     "symbol": "TSLA-PERP",
     "name": "Orderly (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1770074383,
+    "symbol": "HOME-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770074383,
+    "symbol": "DOGS-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770074383,
+    "symbol": "PF_SKLUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

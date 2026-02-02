@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770049628,
+    "date": 1770053478,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21759,6 +21759,24 @@
     "date": 1770049628,
     "symbol": "ZAMA-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1770053478,
+    "symbol": "NVDA-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1770053478,
+    "symbol": "GOOGL-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1770053478,
+    "symbol": "TSLA-PERP",
+    "name": "Orderly (Derivatives)",
     "action": "listed"
   }
 ]

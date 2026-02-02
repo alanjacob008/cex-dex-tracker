@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770031774,
+    "date": 1770035824,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21674,6 +21674,24 @@
   {
     "date": 1770021166,
     "symbol": "SPX500USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770035824,
+    "symbol": "LMTUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770035824,
+    "symbol": "AGGUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770035824,
+    "symbol": "TLTUSDT",
     "name": "LBank (Futures)",
     "action": "listed"
   }

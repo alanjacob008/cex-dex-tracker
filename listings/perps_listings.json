@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770040566,
+    "date": 1770043021,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21718,5 +21718,17 @@
     "symbol": "ZAMA_USDC_PERP",
     "name": "Backpack (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1770043021,
+    "symbol": "ECHELON_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770043021,
+    "symbol": "MOODENG-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770127085,
+    "date": 1770129701,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21867,6 +21867,12 @@
     "date": 1770122273,
     "symbol": "TRIAUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770129701,
+    "symbol": "XYZ:TSM-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770104198,
+    "date": 1770107256,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21802,5 +21802,29 @@
     "symbol": "CATSTOCK_USDT",
     "name": "MEXC (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1770107256,
+    "symbol": "KOUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770107256,
+    "symbol": "IBMUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770107256,
+    "symbol": "TRIA_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770107256,
+    "symbol": "BRETT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
   }
 ]

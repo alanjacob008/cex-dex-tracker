@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770107256,
+    "date": 1770111096,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21824,6 +21824,18 @@
   {
     "date": 1770107256,
     "symbol": "BRETT-PERP",
+    "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770111096,
+    "symbol": "IEFAUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770111096,
+    "symbol": "BGSC-PERP",
     "name": "Orderly (Derivatives)",
     "action": "delisted"
   }

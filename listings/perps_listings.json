@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770204420,
+    "date": 1770208670,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21933,6 +21933,18 @@
     "date": 1770201055,
     "symbol": "ZAMA-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1770208670,
+    "symbol": "WARD_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770208670,
+    "symbol": "KM:USENERGY-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770177878,
+    "date": 1770183678,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21886,5 +21886,41 @@
     "symbol": "TRIA-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1770183678,
+    "symbol": "HSCHKD_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770183678,
+    "symbol": "VIX_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770183678,
+    "symbol": "AUS200_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770183678,
+    "symbol": "TW88_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770183678,
+    "symbol": "US2000_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770183678,
+    "symbol": "PF_CAKEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

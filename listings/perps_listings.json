@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770208670,
+    "date": 1770213441,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21945,6 +21945,12 @@
     "date": 1770208670,
     "symbol": "KM:USENERGY-USD",
     "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770213441,
+    "symbol": "WARDUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

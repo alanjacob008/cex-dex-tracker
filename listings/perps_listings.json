@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770290942,
+    "date": 1770295177,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21993,6 +21993,12 @@
     "date": 1770290942,
     "symbol": "STRK_USDC_PERP",
     "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770295177,
+    "symbol": "TRIAUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

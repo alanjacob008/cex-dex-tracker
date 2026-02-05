@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770287537,
+    "date": 1770290942,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21969,6 +21969,30 @@
     "date": 1770277411,
     "symbol": "XAUT-USD",
     "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1770290942,
+    "symbol": "TRIAUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770290942,
+    "symbol": "XMR_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770290942,
+    "symbol": "CC_USDC_PERP",
+    "name": "Backpack (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770290942,
+    "symbol": "STRK_USDC_PERP",
+    "name": "Backpack (Futures)",
     "action": "listed"
   }
 ]

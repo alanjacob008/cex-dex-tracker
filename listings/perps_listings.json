@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770309394,
+    "date": 1770313234,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21998,6 +21998,30 @@
   {
     "date": 1770295177,
     "symbol": "TRIAUSDTM",
+    "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1770313234,
+    "symbol": "RNBW_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770313234,
+    "symbol": "RNBW_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770313234,
+    "symbol": "CASH:GOLD-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770313234,
+    "symbol": "RNBWUSDTM",
     "name": "KuCoin Futures",
     "action": "listed"
   }

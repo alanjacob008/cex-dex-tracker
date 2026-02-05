@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770273951,
+    "date": 1770277411,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -21957,6 +21957,18 @@
     "date": 1770270494,
     "symbol": "SMCISTOCK_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770277411,
+    "symbol": "TRIA-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770277411,
+    "symbol": "XAUT-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

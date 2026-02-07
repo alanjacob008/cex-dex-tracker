@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770462907,
+    "date": 1770467327,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22251,6 +22251,18 @@
     "date": 1770456156,
     "symbol": "10000ELONUSDT",
     "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770467327,
+    "symbol": "ZEUSUSDT",
+    "name": "LBank (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770467327,
+    "symbol": "YALAUSDT",
+    "name": "LBank (Futures)",
     "action": "delisted"
   }
 ]

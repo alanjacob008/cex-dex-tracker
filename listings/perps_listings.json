@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770445869,
+    "date": 1770449162,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22119,6 +22119,18 @@
     "date": 1770445869,
     "symbol": "DF_USDT",
     "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770449162,
+    "symbol": "SD_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770449162,
+    "symbol": "ZEUSUSDTM",
+    "name": "KuCoin Futures",
     "action": "delisted"
   }
 ]

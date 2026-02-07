@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770442480,
+    "date": 1770445869,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22114,5 +22114,11 @@
     "symbol": "CASH:SILVER-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1770445869,
+    "symbol": "DF_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

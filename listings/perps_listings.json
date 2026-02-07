@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770449162,
+    "date": 1770452419,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22131,6 +22131,84 @@
     "date": 1770449162,
     "symbol": "ZEUSUSDTM",
     "name": "KuCoin Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "DEGEN-USD",
+    "name": "dYdX Chain",
+    "action": "listed"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "IDEX_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "FWOG_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "ACX_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "ASP_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "ZORA-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "GOAT-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "MAGIC-USDT",
+    "name": "HTX Futures",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "ELON_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "ZEUS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "GHST_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "CHESS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770452419,
+    "symbol": "NKN_USDT",
+    "name": "MEXC (Futures)",
     "action": "delisted"
   }
 ]

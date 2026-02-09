@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770616931,
+    "date": 1770623429,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22287,6 +22287,12 @@
     "date": 1770578314,
     "symbol": "FF_XBTUSD_260213",
     "name": "Kraken (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770623429,
+    "symbol": "TRIA-USDT",
+    "name": "HTX Futures",
     "action": "listed"
   }
 ]

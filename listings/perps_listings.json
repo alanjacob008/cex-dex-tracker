@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770739080,
+    "date": 1770742826,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22402,5 +22402,11 @@
     "symbol": "CAKE-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1770742826,
+    "symbol": "ESP-USDT-SWAP",
+    "name": "OKX (Futures)",
+    "action": "listed"
   }
 ]

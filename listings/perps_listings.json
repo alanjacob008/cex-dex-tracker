@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770710008,
+    "date": 1770712839,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22353,6 +22353,18 @@
     "date": 1770710008,
     "symbol": "GPS-USDT",
     "name": "HTX Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1770712839,
+    "symbol": "ESPUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770712839,
+    "symbol": "ESP_USDT",
+    "name": "Gate (Futures)",
     "action": "listed"
   }
 ]

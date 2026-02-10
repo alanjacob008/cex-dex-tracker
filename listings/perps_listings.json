@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770717119,
+    "date": 1770720293,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22395,6 +22395,12 @@
     "date": 1770717119,
     "symbol": "SPX-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770720293,
+    "symbol": "CAKE-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }
 ]

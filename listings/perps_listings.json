@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770679751,
+    "date": 1770686854,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22341,6 +22341,12 @@
     "date": 1770672680,
     "symbol": "TON-PERP",
     "name": "Orderly (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770686854,
+    "symbol": "EGLD-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }
 ]

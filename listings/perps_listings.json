@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770799054,
+    "date": 1770802988,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22479,6 +22479,36 @@
     "date": 1770796138,
     "symbol": "AZTECUSDTM",
     "name": "KuCoin Futures",
+    "action": "listed"
+  },
+  {
+    "date": 1770802988,
+    "symbol": "HSCHKDUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770802988,
+    "symbol": "US2000USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770802988,
+    "symbol": "UK100USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770802988,
+    "symbol": "NAS100USDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770802988,
+    "symbol": "AUS200USDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

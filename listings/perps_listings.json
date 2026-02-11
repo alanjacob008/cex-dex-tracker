@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770783783,
+    "date": 1770789795,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22426,5 +22426,29 @@
     "symbol": "BIGTIME-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
+  },
+  {
+    "date": 1770789795,
+    "symbol": "UPUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770789795,
+    "symbol": "AZTECUSDT",
+    "name": "Binance (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770789795,
+    "symbol": "AZTEC_USDT",
+    "name": "Gate (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770789795,
+    "symbol": "HK50_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

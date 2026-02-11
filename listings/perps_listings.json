@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770773100,
+    "date": 1770783783,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22412,6 +22412,18 @@
   {
     "date": 1770746745,
     "symbol": "SPX-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770783783,
+    "symbol": "CLAWNCHUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770783783,
+    "symbol": "BIGTIME-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "delisted"
   }

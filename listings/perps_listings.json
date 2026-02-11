@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770819035,
+    "date": 1770825127,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22539,6 +22539,12 @@
     "date": 1770819035,
     "symbol": "OPNUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770825127,
+    "symbol": "HYNA:1000PEPE-USD",
+    "name": "Hyperliquid (Futures)",
     "action": "listed"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770789795,
+    "date": 1770796138,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22449,6 +22449,36 @@
     "date": 1770789795,
     "symbol": "HK50_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770796138,
+    "symbol": "AZTECUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770796138,
+    "symbol": "SHOPSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770796138,
+    "symbol": "SPOTSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770796138,
+    "symbol": "AZTEC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770796138,
+    "symbol": "AZTECUSDTM",
+    "name": "KuCoin Futures",
     "action": "listed"
   }
 ]

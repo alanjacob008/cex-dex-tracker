@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770806421,
+    "date": 1770809867,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22509,6 +22509,12 @@
     "date": 1770802988,
     "symbol": "AUS200USDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770809867,
+    "symbol": "AZTEC-USDT-SWAP",
+    "name": "OKX (Futures)",
     "action": "listed"
   }
 ]

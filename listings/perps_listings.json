@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770896004,
+    "date": 1770900158,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22629,6 +22629,12 @@
     "date": 1770896004,
     "symbol": "AZTEC-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
+  },
+  {
+    "date": 1770900158,
+    "symbol": "ESPUSDT",
+    "name": "Bybit (Futures)",
     "action": "listed"
   }
 ]

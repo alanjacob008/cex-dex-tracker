@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770892550,
+    "date": 1770896004,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22624,5 +22624,11 @@
     "symbol": "SAROSUSDT",
     "name": "Bybit (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1770896004,
+    "symbol": "AZTEC-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
+    "action": "listed"
   }
 ]

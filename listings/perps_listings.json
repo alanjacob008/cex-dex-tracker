@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770914868,
+    "date": 1770918697,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22635,6 +22635,12 @@
     "date": 1770900158,
     "symbol": "ESPUSDT",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770918697,
+    "symbol": "ESP-PERP",
+    "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
   }
 ]

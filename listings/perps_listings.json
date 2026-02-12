@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770879662,
+    "date": 1770885350,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22569,6 +22569,18 @@
     "date": 1770879662,
     "symbol": "KOSTOCK_USDT",
     "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770885350,
+    "symbol": "AZTECUSDT",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770885350,
+    "symbol": "AZTEC-USDT",
+    "name": "HTX Futures",
     "action": "listed"
   }
 ]

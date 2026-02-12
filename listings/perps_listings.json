@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770875929,
+    "date": 1770879662,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22558,5 +22558,17 @@
     "symbol": "SAROS_USDT",
     "name": "MEXC (Futures)",
     "action": "delisted"
+  },
+  {
+    "date": 1770879662,
+    "symbol": "VZSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770879662,
+    "symbol": "KOSTOCK_USDT",
+    "name": "MEXC (Futures)",
+    "action": "listed"
   }
 ]

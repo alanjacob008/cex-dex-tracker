@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770859085,
+    "date": 1770869722,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22546,5 +22546,17 @@
     "symbol": "HYNA:1000PEPE-USD",
     "name": "Hyperliquid (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1770869722,
+    "symbol": "CUDIS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770869722,
+    "symbol": "SAROS_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

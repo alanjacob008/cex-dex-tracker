@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770885350,
+    "date": 1770889123,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22582,5 +22582,47 @@
     "symbol": "AZTEC-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1770889123,
+    "symbol": "UBERUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770889123,
+    "symbol": "JDUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770889123,
+    "symbol": "PDDUSDT",
+    "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770889123,
+    "symbol": "AZTEC-USD",
+    "name": "Hyperliquid (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770889123,
+    "symbol": "1000XUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770889123,
+    "symbol": "CUDISUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770889123,
+    "symbol": "SAROSUSDT",
+    "name": "Bybit (Futures)",
+    "action": "delisted"
   }
 ]

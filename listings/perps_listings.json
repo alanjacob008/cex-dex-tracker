@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770955920,
+    "date": 1770962019,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22642,5 +22642,11 @@
     "symbol": "ESP-PERP",
     "name": "Coinbase International Exchange (Derivatives)",
     "action": "listed"
+  },
+  {
+    "date": 1770962019,
+    "symbol": "GTC_USDT",
+    "name": "MEXC (Futures)",
+    "action": "delisted"
   }
 ]

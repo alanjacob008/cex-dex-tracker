@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770975281,
+    "date": 1770978670,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22738,5 +22738,23 @@
     "symbol": "BTC-USD-260424",
     "name": "OKX (Futures)",
     "action": "listed"
+  },
+  {
+    "date": 1770978670,
+    "symbol": "SOLUSDT-06MAR26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770978670,
+    "symbol": "BTCUSDT-06MAR26",
+    "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770978670,
+    "symbol": "PF_PEOPLEUSD",
+    "name": "Kraken (Futures)",
+    "action": "delisted"
   }
 ]

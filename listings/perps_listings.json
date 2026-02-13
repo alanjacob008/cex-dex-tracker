@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770990976,
+    "date": 1770993429,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22767,6 +22767,12 @@
     "date": 1770990976,
     "symbol": "MASTOCKUSDT",
     "name": "LBank (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770993429,
+    "symbol": "PIPPIN-USD",
+    "name": "dYdX Chain",
     "action": "listed"
   }
 ]

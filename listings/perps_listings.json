@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770986254,
+    "date": 1770990976,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22761,6 +22761,12 @@
     "date": 1770981874,
     "symbol": "ETHUSDT-06MAR26",
     "name": "Bybit (Futures)",
+    "action": "listed"
+  },
+  {
+    "date": 1770990976,
+    "symbol": "MASTOCKUSDT",
+    "name": "LBank (Futures)",
     "action": "listed"
   }
 ]

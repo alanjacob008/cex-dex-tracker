@@ -1,6 +1,6 @@
 [
   {
-    "date": 1770965331,
+    "date": 1770968612,
     "symbol": "NA",
     "name": "NA",
     "action": "last updated"
@@ -22654,5 +22654,17 @@
     "symbol": "ESP-USDT",
     "name": "HTX Futures",
     "action": "listed"
+  },
+  {
+    "date": 1770968612,
+    "symbol": "EPT_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
+  },
+  {
+    "date": 1770968612,
+    "symbol": "QUBIC_USDT",
+    "name": "Gate (Futures)",
+    "action": "delisted"
   }
 ]
